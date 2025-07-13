@@ -1,2 +1,0 @@
-# TestTasks
-for Bohdan (Facie)
