@@ -1,0 +1,402 @@
+2025-07-15 00:16:09 - log_settings - INFO - 
+Image: test_photos/narrow 21.jpg
+	Chin-Lips Distance: 0.17
+	Jaw Type: medium
+	Percent: 30.12%
+
+2025-07-15 00:16:09 - log_settings - INFO - 
+Image: test_photos/wide_04.jpg
+	Chin-Lips Distance: 0.12
+	Jaw Type: wide
+	Percent: 24.67%
+
+2025-07-15 00:16:09 - log_settings - INFO - 
+Image: test_photos/narrow_07.jpg
+	Chin-Lips Distance: 0.13
+	Jaw Type: narrow
+	Percent: 34.86%
+
+2025-07-15 00:16:09 - log_settings - INFO - 
+Image: test_photos/1425509443 narrow.jpg
+	Chin-Lips Distance: 0.08
+	Jaw Type: wide
+	Percent: 28.89%
+
+2025-07-15 00:16:09 - log_settings - INFO - 
+Image: test_photos/wide_01.jpg
+	Chin-Lips Distance: 0.09
+	Jaw Type: wide
+	Percent: 23.82%
+
+2025-07-15 00:16:09 - log_settings - INFO - 
+Image: test_photos/medium 4.jpg
+	Chin-Lips Distance: 0.17
+	Jaw Type: medium
+	Percent: 34.62%
+
+2025-07-15 00:16:09 - log_settings - INFO - 
+Image: test_photos/wide_09.jpg
+	Chin-Lips Distance: 0.12
+	Jaw Type: medium
+	Percent: 34.59%
+
+2025-07-15 00:16:09 - log_settings - INFO - 
+Image: test_photos/wide_06.jpg
+	Chin-Lips Distance: 0.13
+	Jaw Type: wide
+	Percent: 27.48%
+
+2025-07-15 00:16:09 - log_settings - INFO - 
+Image: test_photos/wide 7.jpg
+	Chin-Lips Distance: 0.17
+	Jaw Type: wide
+	Percent: 29.17%
+
+2025-07-15 00:16:09 - log_settings - INFO - 
+Image: test_photos/wide_03.jpg
+	Chin-Lips Distance: 0.14
+	Jaw Type: wide
+	Percent: 24.58%
+
+2025-07-15 00:16:09 - log_settings - INFO - 
+Image: test_photos/narrow_08.jpg
+	Chin-Lips Distance: 0.21
+	Jaw Type: narrow
+	Percent: 35.56%
+
+2025-07-15 00:16:09 - log_settings - INFO - 
+Image: test_photos/wide_10.jpg
+	Chin-Lips Distance: 0.15
+	Jaw Type: medium
+	Percent: 34.39%
+
+2025-07-15 00:16:09 - log_settings - INFO - 
+Image: test_photos/medium 20.jpg
+	Chin-Lips Distance: 0.16
+	Jaw Type: medium
+	Percent: 31.61%
+
+2025-07-15 00:16:09 - log_settings - INFO - 
+Image: test_photos/wide_02.jpg
+	Chin-Lips Distance: 0.09
+	Jaw Type: wide
+	Percent: 25.02%
+
+2025-07-15 00:16:09 - log_settings - INFO - 
+Image: test_photos/wide_05.jpg
+	Chin-Lips Distance: 0.08
+	Jaw Type: wide
+	Percent: 24.73%
+
+2025-07-15 00:16:09 - log_settings - INFO - 
+Image: test_photos/edward narrow.jpeg
+	Chin-Lips Distance: 0.14
+	Jaw Type: narrow
+	Percent: 40.90%
+
+2025-07-15 00:16:09 - log_settings - ERROR - Error processing image test_photos/narrow_without.jpeg: too many values to unpack (expected 9)
+2025-07-15 00:16:09 - log_settings - INFO - 
+Image: test_photos/narrow_scarlet.jpeg
+	Chin-Lips Distance: 0.12
+	Jaw Type: medium
+	Percent: 33.24%
+
+2025-07-15 00:16:09 - log_settings - INFO - 
+Image: test_photos/narrow_fas.jpeg
+	Chin-Lips Distance: 0.16
+	Jaw Type: narrow
+	Percent: 45.47%
+
+2025-07-15 00:16:09 - log_settings - INFO - 
+Image: test_photos/narrow aiken.jpeg
+	Chin-Lips Distance: 0.16
+	Jaw Type: narrow
+	Percent: 37.10%
+
+2025-07-15 00:16:09 - log_settings - INFO - 
+Image: test_photos/narrow nicolas.jpeg
+	Chin-Lips Distance: 0.17
+	Jaw Type: narrow
+	Percent: 36.51%
+
+2025-07-15 00:16:09 - log_settings - ERROR - Error processing image test_photos/narrow.jpeg: too many values to unpack (expected 9)
+2025-07-15 00:16:10 - log_settings - INFO - 
+Image: test_photos/wide.png
+	Chin-Lips Distance: 0.14
+	Jaw Type: wide
+	Percent: 29.94%
+
+2025-07-15 00:16:10 - log_settings - INFO - 
+Image: test_photos/medium 7.png
+	Chin-Lips Distance: 0.21
+	Jaw Type: medium
+	Percent: 34.58%
+
+2025-07-15 00:16:10 - log_settings - INFO - 
+Image: test_photos/medium 5.png
+	Chin-Lips Distance: 0.22
+	Jaw Type: narrow
+	Percent: 37.58%
+
+2025-07-15 00:16:10 - log_settings - INFO - 
+Image: test_photos/medium 13.png
+	Chin-Lips Distance: 0.15
+	Jaw Type: medium
+	Percent: 32.92%
+
+2025-07-15 00:16:10 - log_settings - INFO - 
+Image: test_photos/wide 2.png
+	Chin-Lips Distance: 0.13
+	Jaw Type: wide
+	Percent: 26.20%
+
+2025-07-15 00:16:10 - log_settings - INFO - 
+Image: test_photos/wide Josh_Hutcherson.webp
+	Chin-Lips Distance: 0.14
+	Jaw Type: wide
+	Percent: 28.42%
+
+2025-07-15 00:16:10 - log_settings - INFO - 
+Image: test_photos/narrow gosling.webp
+	Chin-Lips Distance: 0.13
+	Jaw Type: wide
+	Percent: 24.24%
+
+2025-07-15 00:16:10 - log_settings - INFO - Total Accuracy: 93.10%
+
+2025-07-15 00:16:10 - log_settings - INFO - Valid classification: 27; Errors: 2
+
+2025-07-15 00:16:10 - log_settings - INFO - 
+Result:
+	Chin-Lips Distance: 0.12 pixels
+	Jaw Type: narrow]
+	Percent: 53.80%
+
+2025-07-15 00:16:12 - log_settings - INFO - 
+Result:
+	Chin-Lips Distance: 0.13 pixels
+	Jaw Type: narrow]
+	Percent: 54.35%
+
+2025-07-15 00:16:12 - log_settings - INFO - 
+Result:
+	Chin-Lips Distance: 0.12 pixels
+	Jaw Type: narrow]
+	Percent: 52.90%
+
+2025-07-15 00:16:12 - log_settings - INFO - 
+Result:
+	Chin-Lips Distance: 0.13 pixels
+	Jaw Type: narrow]
+	Percent: 54.16%
+
+2025-07-15 00:16:12 - log_settings - INFO - 
+Result:
+	Chin-Lips Distance: 0.13 pixels
+	Jaw Type: narrow]
+	Percent: 54.89%
+
+2025-07-15 00:16:12 - log_settings - INFO - 
+Result:
+	Chin-Lips Distance: 0.12 pixels
+	Jaw Type: narrow]
+	Percent: 54.30%
+
+2025-07-15 00:16:13 - log_settings - INFO - 
+Result:
+	Chin-Lips Distance: 0.12 pixels
+	Jaw Type: narrow]
+	Percent: 53.78%
+
+2025-07-15 00:16:13 - log_settings - INFO - 
+Result:
+	Chin-Lips Distance: 0.13 pixels
+	Jaw Type: narrow]
+	Percent: 54.39%
+
+2025-07-15 00:16:13 - log_settings - INFO - 
+Result:
+	Chin-Lips Distance: 0.13 pixels
+	Jaw Type: narrow]
+	Percent: 54.00%
+
+2025-07-15 00:16:13 - log_settings - INFO - 
+Result:
+	Chin-Lips Distance: 0.12 pixels
+	Jaw Type: narrow]
+	Percent: 50.36%
+
+2025-07-15 00:16:13 - log_settings - INFO - 
+Result:
+	Chin-Lips Distance: 0.13 pixels
+	Jaw Type: narrow]
+	Percent: 54.00%
+
+2025-07-15 00:16:13 - log_settings - INFO - 
+Result:
+	Chin-Lips Distance: 0.13 pixels
+	Jaw Type: narrow]
+	Percent: 55.09%
+
+2025-07-15 00:16:14 - log_settings - INFO - 
+Result:
+	Chin-Lips Distance: 0.12 pixels
+	Jaw Type: narrow]
+	Percent: 51.63%
+
+2025-07-15 00:16:14 - log_settings - INFO - 
+Result:
+	Chin-Lips Distance: 0.12 pixels
+	Jaw Type: narrow]
+	Percent: 52.68%
+
+2025-07-15 00:16:14 - log_settings - INFO - 
+Result:
+	Chin-Lips Distance: 0.13 pixels
+	Jaw Type: narrow]
+	Percent: 54.04%
+
+2025-07-15 00:16:14 - log_settings - INFO - 
+Result:
+	Chin-Lips Distance: 0.12 pixels
+	Jaw Type: narrow]
+	Percent: 52.01%
+
+2025-07-15 00:16:14 - log_settings - INFO - 
+Result:
+	Chin-Lips Distance: 0.11 pixels
+	Jaw Type: narrow]
+	Percent: 48.46%
+
+2025-07-15 00:16:14 - log_settings - INFO - 
+Result:
+	Chin-Lips Distance: 0.12 pixels
+	Jaw Type: narrow]
+	Percent: 48.95%
+
+2025-07-15 00:16:14 - log_settings - INFO - 
+Result:
+	Chin-Lips Distance: 0.11 pixels
+	Jaw Type: narrow]
+	Percent: 47.41%
+
+2025-07-15 00:16:15 - log_settings - INFO - 
+Result:
+	Chin-Lips Distance: 0.11 pixels
+	Jaw Type: narrow]
+	Percent: 45.85%
+
+2025-07-15 00:16:15 - log_settings - INFO - 
+Result:
+	Chin-Lips Distance: 0.11 pixels
+	Jaw Type: narrow]
+	Percent: 45.00%
+
+2025-07-15 00:16:15 - log_settings - INFO - 
+Result:
+	Chin-Lips Distance: 0.11 pixels
+	Jaw Type: narrow]
+	Percent: 46.01%
+
+2025-07-15 00:16:15 - log_settings - INFO - 
+Result:
+	Chin-Lips Distance: 0.11 pixels
+	Jaw Type: narrow]
+	Percent: 44.87%
+
+2025-07-15 00:16:15 - log_settings - INFO - 
+Result:
+	Chin-Lips Distance: 0.11 pixels
+	Jaw Type: narrow]
+	Percent: 44.58%
+
+2025-07-15 00:16:15 - log_settings - INFO - 
+Result:
+	Chin-Lips Distance: 0.11 pixels
+	Jaw Type: narrow]
+	Percent: 48.34%
+
+2025-07-15 00:16:16 - log_settings - INFO - 
+Result:
+	Chin-Lips Distance: 0.12 pixels
+	Jaw Type: narrow]
+	Percent: 49.98%
+
+2025-07-15 00:16:16 - log_settings - INFO - 
+Result:
+	Chin-Lips Distance: 0.12 pixels
+	Jaw Type: narrow]
+	Percent: 52.04%
+
+2025-07-15 00:16:16 - log_settings - INFO - 
+Result:
+	Chin-Lips Distance: 0.12 pixels
+	Jaw Type: narrow]
+	Percent: 51.07%
+
+2025-07-15 00:16:16 - log_settings - INFO - 
+Result:
+	Chin-Lips Distance: 0.11 pixels
+	Jaw Type: narrow]
+	Percent: 48.17%
+
+2025-07-15 00:16:16 - log_settings - INFO - 
+Result:
+	Chin-Lips Distance: 0.12 pixels
+	Jaw Type: narrow]
+	Percent: 49.24%
+
+2025-07-15 00:16:16 - log_settings - INFO - 
+Result:
+	Chin-Lips Distance: 0.11 pixels
+	Jaw Type: narrow]
+	Percent: 47.47%
+
+2025-07-15 00:16:17 - log_settings - INFO - 
+Result:
+	Chin-Lips Distance: 0.11 pixels
+	Jaw Type: narrow]
+	Percent: 48.34%
+
+2025-07-15 00:16:17 - log_settings - INFO - 
+Result:
+	Chin-Lips Distance: 0.11 pixels
+	Jaw Type: narrow]
+	Percent: 47.15%
+
+2025-07-15 00:16:17 - log_settings - INFO - 
+Result:
+	Chin-Lips Distance: 0.11 pixels
+	Jaw Type: narrow]
+	Percent: 46.77%
+
+2025-07-15 00:16:17 - log_settings - INFO - 
+Result:
+	Chin-Lips Distance: 0.11 pixels
+	Jaw Type: narrow]
+	Percent: 45.12%
+
+2025-07-15 00:16:17 - log_settings - INFO - 
+Result:
+	Chin-Lips Distance: 0.11 pixels
+	Jaw Type: narrow]
+	Percent: 46.81%
+
+2025-07-15 00:16:17 - log_settings - INFO - 
+Result:
+	Chin-Lips Distance: 0.11 pixels
+	Jaw Type: narrow]
+	Percent: 48.31%
+
+2025-07-15 00:16:17 - log_settings - INFO - 
+Result:
+	Chin-Lips Distance: 0.11 pixels
+	Jaw Type: narrow]
+	Percent: 48.72%
+
+2025-07-15 00:16:18 - log_settings - INFO - 
+Result:
+	Chin-Lips Distance: 0.11 pixels
+	Jaw Type: narrow]
+	Percent: 49.63%
+
