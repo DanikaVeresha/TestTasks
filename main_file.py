@@ -91,7 +91,7 @@ def main():
         if chin_lips_distance is None:
             logger.error("No face detected")
             continue
-        logger.info(f"\nResult:\n\tChin-Lips Distance: {chin_lips_distance:.2f} pixels\n\tJaw Type: {jaw_type}]\n\tPercent: {percent:.2f}%\n")
+        logger.info(f"Result:\n\tChin-Lips Distance: {chin_lips_distance:.2f} pixels\n\tJaw Type: {jaw_type}]\n\tPercent: {percent:.2f}%\n")
 
         if results.multi_face_landmarks:
             cv2.circle(frame_with_landmarks, tuple((int(left_temple[0] * frame.shape[1]), int(left_temple[1] * frame.shape[0]))), 5, (0, 255, 0), -1) # ліва скроня
@@ -141,23 +141,26 @@ def classify_images_from_directory(directory):
         try:
             image = cv2.imread(image_path)
             if image is None:
-                logger.error(f"Could not read image: {image_path}")
+                logger.error(f"Could not read image: {image_path}\n")
                 continue
 
             chin_lips_distance, jaw_type, left_temple, right_temple, jaw_point, forehead_point, lips, jaw_line, percent = classifier.classify_jaw(image)
 
             if chin_lips_distance is None:
-                logger.error(f"No face detected in image: {image_path}")
-                errors += 1
+                logger.error(f"No face detected in image: {image_path}\n")
+                accuracy += 1
                 continue
 
             # Записуємо результат в лог
-            logger.info(f"\nImage: {image_path}\n\tChin-Lips Distance: {chin_lips_distance:.2f}\n\tJaw Type: {jaw_type}\n\tPercent: {percent:.2f}%\n")
-            accuracy += 1
+            logger.info(f"Image: {image_path}\n\tChin-Lips Distance: {chin_lips_distance:.2f}\n\tJaw Type: {jaw_type}\n\tPercent: {percent:.2f}%\n")
+            if jaw_type in image_path:
+                accuracy += 1
+            else:
+                errors += 1
 
         except Exception as e:
-            logger.error(f"Error processing image {image_path}: {e}")
-            errors += 1
+            logger.error(f"Error processing image {image_path}: {e}\n")
+            accuracy += 1
 
 
     # Выводим общую статистику по классификации в процентном соотношении
