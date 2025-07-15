@@ -64,11 +64,11 @@ class FaceMeshClassifier:
         if results.multi_face_landmarks:
             for face_landmarks in results.multi_face_landmarks:
                 self.mp_drawing.draw_landmarks(
-                    image=image,
-                    landmark_list=face_landmarks,
-                    connections=self.mp_face_mesh.FACEMESH_TESSELATION,
-                    landmark_drawing_spec=self.mp_drawing.DrawingSpec(color=(0, 255, 0), thickness=1, circle_radius=1),
-                    connection_drawing_spec=self.mp_drawing.DrawingSpec(color=(255, 0, 0), thickness=1, circle_radius=1)
+                    image=image, # зображення, на якому будуть відображені ключові точки
+                    landmark_list=face_landmarks, # ключові точки обличчя
+                    connections=self.mp_face_mesh.FACEMESH_TESSELATION, # з'єднання ключових точок
+                    landmark_drawing_spec=self.mp_drawing.DrawingSpec(color=(0, 255, 0), thickness=1, circle_radius=1), # колір та товщина точок
+                    connection_drawing_spec=self.mp_drawing.DrawingSpec(color=(255, 0, 0), thickness=1, circle_radius=1) # колір та товщина ліній для з'єднань
                 )
         return image
 
@@ -99,11 +99,11 @@ def main():
             cv2.circle(frame_with_landmarks, tuple((int(jaw_point[0] * frame.shape[1]), int(jaw_point[1] * frame.shape[0]))), 5, (0, 255, 0), -1) # підборіддя
             cv2.circle(frame_with_landmarks, tuple((int(forehead_point[0] * frame.shape[1]), int(forehead_point[1] * frame.shape[0]))), 5, (0, 255, 0), -1) # лоб
             cv2.circle(frame_with_landmarks, tuple((int(lips[0] * frame.shape[1]), int(lips[1] * frame.shape[0]))), 5, (0, 255, 0), -1) # губи
-            cv2.line(frame_with_landmarks, tuple((int(left_temple[0] * frame.shape[1]), int(left_temple[1] * frame.shape[0]))), tuple((int(right_temple[0] * frame.shape[1]), int(right_temple[1] * frame.shape[0]))), (255, 0, 0), 2) # лінія між скронями
-            cv2.line(frame_with_landmarks, tuple((int(jaw_point[0] * frame.shape[1]), int(jaw_point[1] * frame.shape[0]))), tuple((int(lips[0] * frame.shape[1]), int(lips[1] * frame.shape[0]))), (255, 0, 0), 2) # лінія між підборіддям і губами
-            cv2.putText(frame_with_landmarks, f"Chin-Lips Distance: {chin_lips_distance:.2f}", (10, 60), cv2.FONT_HERSHEY_SIMPLEX, 0.7, (255, 255, 255), 2) # відстань між підборіддям і губами
-            cv2.putText(frame_with_landmarks, f"Jaw Type: {jaw_type}", (10, 90), cv2.FONT_HERSHEY_SIMPLEX, 0.7, (255, 255, 255), 2) # тип щелепи
-            cv2.putText(frame_with_landmarks, f"Percent: {percent:.2f}%", (10, 150), cv2.FONT_HERSHEY_SIMPLEX, 0.7, (255, 255, 255), 2) # відсоток відстані між підборіддям і губами до відстані між лівою та правою скронями
+            cv2.line(frame_with_landmarks, tuple((int(left_temple[0] * frame.shape[1]), int(left_temple[1] * frame.shape[0]))), tuple((int(right_temple[0] * frame.shape[1]), int(right_temple[1] * frame.shape[0]))), (238, 130, 238), 2) # лінія між скронями
+            cv2.line(frame_with_landmarks, tuple((int(jaw_point[0] * frame.shape[1]), int(jaw_point[1] * frame.shape[0]))), tuple((int(lips[0] * frame.shape[1]), int(lips[1] * frame.shape[0]))), (238, 130, 238), 2) # лінія між підборіддям і губами
+            cv2.putText(frame_with_landmarks, f"Chin-Lips Distance: {chin_lips_distance:.2f}", (10, 60), cv2.FONT_HERSHEY_SIMPLEX, 0.7, (255, 99, 71), 2) # відстань між підборіддям і губами
+            cv2.putText(frame_with_landmarks, f"Jaw Type: {jaw_type}", (10, 90), cv2.FONT_HERSHEY_SIMPLEX, 0.7, (255, 99, 71), 2) # тип щелепи
+            cv2.putText(frame_with_landmarks, f"Percent: {percent:.2f}%", (10, 150), cv2.FONT_HERSHEY_SIMPLEX, 0.7, (255, 99, 71), 2) # відсоток відстані між підборіддям і губами до відстані між лівою та правою скронями
 
             # Зчитування точності з файлу result.log
             with open("result.log", "r") as file:
@@ -115,7 +115,7 @@ def main():
                     accuracy_value.append(accuracy)
 
 
-            cv2.putText(frame_with_landmarks, f"Accuracy: {accuracy_value[-1]}%", (10, 120), cv2.FONT_HERSHEY_SIMPLEX, 0.7, (255, 255, 255), 2)
+            cv2.putText(frame_with_landmarks, f"Accuracy: {accuracy_value[-1]}%", (10, 120), cv2.FONT_HERSHEY_SIMPLEX, 0.7, (255, 99, 71), 2)
 
         else:
             cv2.putText(frame_with_landmarks, "No face detected", (10, 30), cv2.FONT_HERSHEY_SIMPLEX, 0.7, (0, 0, 255), 2)
@@ -130,7 +130,7 @@ def main():
 
 
 # Проітеруватись по всім зображенням з розширеннями [.jpg; .jpeg; .png; .webp] в директорії та класифікувати їх
-def classify_images_from_directory(directory):
+def classify_images_from_directory_train(directory):
     import os
     import glob
     classifier = FaceMeshClassifier()
@@ -172,6 +172,62 @@ def classify_images_from_directory(directory):
         logger.info("No images processed.\n")
 
 
+def classify_images_from_directory(directory):
+    import os
+    import glob
+    classifier = FaceMeshClassifier()
+    for image_path in (glob.glob(os.path.join(directory, "*.jpg")) + glob.glob(os.path.join(directory, "*.jpeg"))
+                       + glob.glob(os.path.join(directory, "*.png")) + glob.glob(os.path.join(directory, "*.webp"))):
+        try:
+            image = cv2.imread(image_path)
+            if image is None:
+                logger.error(f"Could not read image: {image_path}\n")
+                continue
+
+            chin_lips_distance, jaw_type, left_temple, right_temple, jaw_point, forehead_point, lips, jaw_line, percent = classifier.classify_jaw(image)
+
+            if chin_lips_distance is None:
+                logger.error(f"No face detected in image: {image_path}\n")
+                continue
+
+            # Записуємо результат в лог
+            logger.info(f"Image: {image_path}\n\tChin-Lips Distance: {chin_lips_distance:.2f}\n\tJaw Type: {jaw_type}\n\tPercent: {percent:.2f}%")
+
+            results = classifier.face_mesh.process(image) # обробка зображення для отримання результатів
+            frame_with_landmarks = classifier.draw_landmarks(image, results) # відображення ключових точок на зображенні
+            cv2.imshow(f'Face Mesh Models {jaw_type}'
+                       f' | Chin-Lips Distance: {chin_lips_distance:.2f}'
+                       f' | Percent: {percent:.2f}%', frame_with_landmarks) # відображення зображення з ключовими точками
+
+            # Відобразити отримані точки на зображенні та відстані між ними для усіх знайдених облич
+            if results.multi_face_landmarks:
+                cv2.circle(frame_with_landmarks, tuple((int(left_temple[0] * image.shape[1]), int(left_temple[1] * image.shape[0]))), 5, (0, 255, 0), -1) # ліва скроня
+                cv2.circle(frame_with_landmarks, tuple((int(right_temple[0] * image.shape[1]), int(right_temple[1] * image.shape[0]))), 5, (0, 255, 0), -1) # права скроня
+                cv2.circle(frame_with_landmarks, tuple((int(jaw_point[0] * image.shape[1]), int(jaw_point[1] * image.shape[0]))), 5, (0, 255, 0), -1) # підборіддя
+                cv2.circle(frame_with_landmarks, tuple((int(forehead_point[0] * image.shape[1]), int(forehead_point[1] * image.shape[0]))), 5, (0, 255, 0), -1) # лоб
+                cv2.circle(frame_with_landmarks, tuple((int(lips[0] * image.shape[1]), int(lips[1] * image.shape[0]))), 5, (0, 255, 0), -1) # губи
+                cv2.line(frame_with_landmarks, tuple((int(left_temple[0] * image.shape[1]), int(left_temple[1] * image.shape[0]))), tuple((int(right_temple[0] * image.shape[1]), int(right_temple[1] * image.shape[0]))), (238, 130, 238), 2) # лінія між скронями
+                cv2.line(frame_with_landmarks, tuple((int(jaw_point[0] * image.shape[1]), int(jaw_point[1] * image.shape[0]))), tuple((int(lips[0] * image.shape[1]), int(lips[1] * image.shape[0]))), (238, 130, 238), 2) # лінія між підборіддям і губами
+                cv2.putText(frame_with_landmarks, f"Chin-Lips Distance: {chin_lips_distance:.2f}", (10, 60), cv2.FONT_HERSHEY_SIMPLEX, 0.7, (255, 99, 71), 2) # відстань між підборіддям і губами
+                cv2.putText(frame_with_landmarks, f"Jaw Type: {jaw_type}", (10, 90), cv2.FONT_HERSHEY_SIMPLEX, 0.7, (255, 99, 71), 2) # тип щелепи
+                cv2.putText(frame_with_landmarks, f"Percent: {percent:.2f}%", (10, 150), cv2.FONT_HERSHEY_SIMPLEX, 0.7, (255, 99, 71), 2) # відсоток відстані між підборіддям і губами до відстані між лівою та правою скронями
+
+            # Зберегти зображення з отриманими ключовими точками та відстанями в директорії "output_images"
+            output_directory = "output_images"
+            if not os.path.exists(output_directory):
+                os.makedirs(output_directory)
+            output_image_path = os.path.join(output_directory, os.path.basename(image_path))
+            cv2.imwrite(output_image_path, frame_with_landmarks)
+            logger.info(f"Processed image saved to: {output_image_path}\n")
+
+            cv2.waitKey(1000)
+            cv2.destroyAllWindows()
+
+        except Exception as e:
+            logger.error(f"Error processing image {image_path}: {e}\n")
+
+
 if __name__ == "__main__":
-    classify_images_from_directory("test_photos")
+    classify_images_from_directory_train("test_photos")
+    classify_images_from_directory("Unknown")
     main()
