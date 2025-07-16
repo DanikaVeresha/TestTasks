@@ -1,208 +1,1166 @@
-2025-07-15 05:52:34 - log_settings - INFO - Image: test_photos/narrow 21.jpg
-	Chin-Lips Distance: 0.17
+2025-07-17 00:19:29 - log_settings - INFO - Image: test_photos/narrow 21.jpg
 	Jaw Type: medium
+	Chin-Lips Distance: 0.17
+	Chin-Lips Distance: 16.67 pixels
+	Temple Distance: 55.36 pixels
 	Percent: 30.12%
+	Left Angle: 54.83 degrees
+	Right Angle: 128.52 degrees
+	Different Angle Left: 35.17 degrees
+	Different Angle Right: 38.52 degrees
+	Abs Different Angle: 73.69 degrees
 
-2025-07-15 05:52:34 - log_settings - INFO - Image: test_photos/1425509443 narrow.jpg
-	Chin-Lips Distance: 0.08
+2025-07-17 00:19:30 - log_settings - INFO - Image: test_photos/1425509443 narrow.jpg
 	Jaw Type: wide
+	Chin-Lips Distance: 0.08
+	Chin-Lips Distance: 8.16 pixels
+	Temple Distance: 28.23 pixels
 	Percent: 28.89%
+	Left Angle: 44.58 degrees
+	Right Angle: 113.92 degrees
+	Different Angle Left: 45.42 degrees
+	Different Angle Right: 23.92 degrees
+	Abs Different Angle: 69.34 degrees
 
-2025-07-15 05:52:34 - log_settings - INFO - Image: test_photos/medium 4.jpg
-	Chin-Lips Distance: 0.17
+2025-07-17 00:19:30 - log_settings - INFO - Image: test_photos/medium 4.jpg
 	Jaw Type: medium
+	Chin-Lips Distance: 0.17
+	Chin-Lips Distance: 17.40 pixels
+	Temple Distance: 50.27 pixels
 	Percent: 34.62%
+	Left Angle: 50.70 degrees
+	Right Angle: 133.95 degrees
+	Different Angle Left: 39.30 degrees
+	Different Angle Right: 43.95 degrees
+	Abs Different Angle: 83.25 degrees
 
-2025-07-15 05:52:34 - log_settings - INFO - Image: test_photos/wide 7.jpg
-	Chin-Lips Distance: 0.17
+2025-07-17 00:19:30 - log_settings - INFO - Image: test_photos/wide 7.jpg
 	Jaw Type: wide
+	Chin-Lips Distance: 0.17
+	Chin-Lips Distance: 16.77 pixels
+	Temple Distance: 57.49 pixels
 	Percent: 29.17%
+	Left Angle: 49.90 degrees
+	Right Angle: 131.29 degrees
+	Different Angle Left: 40.10 degrees
+	Different Angle Right: 41.29 degrees
+	Abs Different Angle: 81.38 degrees
 
-2025-07-15 05:52:35 - log_settings - INFO - Image: test_photos/medium 20.jpg
-	Chin-Lips Distance: 0.16
+2025-07-17 00:19:30 - log_settings - INFO - Image: test_photos/medium 20.jpg
 	Jaw Type: medium
+	Chin-Lips Distance: 0.16
+	Chin-Lips Distance: 15.54 pixels
+	Temple Distance: 49.15 pixels
 	Percent: 31.61%
+	Left Angle: 48.04 degrees
+	Right Angle: 128.56 degrees
+	Different Angle Left: 41.96 degrees
+	Different Angle Right: 38.56 degrees
+	Abs Different Angle: 80.51 degrees
 
-2025-07-15 05:52:35 - log_settings - INFO - Image: test_photos/edward narrow.jpeg
-	Chin-Lips Distance: 0.14
+2025-07-17 00:19:30 - log_settings - INFO - Image: test_photos/edward narrow.jpeg
 	Jaw Type: narrow
+	Chin-Lips Distance: 0.14
+	Chin-Lips Distance: 14.32 pixels
+	Temple Distance: 35.02 pixels
 	Percent: 40.90%
+	Left Angle: 58.87 degrees
+	Right Angle: 129.24 degrees
+	Different Angle Left: 31.13 degrees
+	Different Angle Right: 39.24 degrees
+	Abs Different Angle: 70.37 degrees
 
-2025-07-15 05:52:35 - log_settings - ERROR - Error processing image test_photos/narrow_without.jpeg: too many values to unpack (expected 9)
+2025-07-17 00:19:30 - log_settings - ERROR - Error processing image test_photos/narrow_without.jpeg: not enough values to unpack (expected 17, got 16)
 
-2025-07-15 05:52:35 - log_settings - INFO - Image: test_photos/narrow_scarlet.jpeg
-	Chin-Lips Distance: 0.12
+2025-07-17 00:19:30 - log_settings - INFO - Image: test_photos/narrow_scarlet.jpeg
 	Jaw Type: medium
+	Chin-Lips Distance: 0.12
+	Chin-Lips Distance: 12.28 pixels
+	Temple Distance: 36.95 pixels
 	Percent: 33.24%
+	Left Angle: 56.66 degrees
+	Right Angle: 121.15 degrees
+	Different Angle Left: 33.34 degrees
+	Different Angle Right: 31.15 degrees
+	Abs Different Angle: 64.49 degrees
 
-2025-07-15 05:52:35 - log_settings - INFO - Image: test_photos/narrow_fas.jpeg
-	Chin-Lips Distance: 0.16
+2025-07-17 00:19:30 - log_settings - INFO - Image: test_photos/narrow_fas.jpeg
 	Jaw Type: narrow
+	Chin-Lips Distance: 0.16
+	Chin-Lips Distance: 16.35 pixels
+	Temple Distance: 35.96 pixels
 	Percent: 45.47%
+	Left Angle: 68.44 degrees
+	Right Angle: 121.95 degrees
+	Different Angle Left: 21.56 degrees
+	Different Angle Right: 31.95 degrees
+	Abs Different Angle: 53.51 degrees
 
-2025-07-15 05:52:35 - log_settings - INFO - Image: test_photos/narrow aiken.jpeg
+2025-07-17 00:19:30 - log_settings - INFO - Image: test_photos/narrow aiken.jpeg
+	Jaw Type: narrow
 	Chin-Lips Distance: 0.16
-	Jaw Type: narrow
+	Chin-Lips Distance: 16.31 pixels
+	Temple Distance: 43.97 pixels
 	Percent: 37.10%
+	Left Angle: 54.64 degrees
+	Right Angle: 125.49 degrees
+	Different Angle Left: 35.36 degrees
+	Different Angle Right: 35.49 degrees
+	Abs Different Angle: 70.84 degrees
 
-2025-07-15 05:52:35 - log_settings - INFO - Image: test_photos/narrow nicolas.jpeg
+2025-07-17 00:19:30 - log_settings - INFO - Image: test_photos/narrow nicolas.jpeg
+	Jaw Type: narrow
 	Chin-Lips Distance: 0.17
-	Jaw Type: narrow
+	Chin-Lips Distance: 17.36 pixels
+	Temple Distance: 47.56 pixels
 	Percent: 36.51%
+	Left Angle: 52.97 degrees
+	Right Angle: 125.69 degrees
+	Different Angle Left: 37.03 degrees
+	Different Angle Right: 35.69 degrees
+	Abs Different Angle: 72.72 degrees
 
-2025-07-15 05:52:35 - log_settings - ERROR - Error processing image test_photos/narrow.jpeg: too many values to unpack (expected 9)
+2025-07-17 00:19:30 - log_settings - ERROR - Error processing image test_photos/narrow.jpeg: not enough values to unpack (expected 17, got 16)
 
-2025-07-15 05:52:35 - log_settings - INFO - Image: test_photos/wide.png
-	Chin-Lips Distance: 0.14
+2025-07-17 00:19:30 - log_settings - INFO - Image: test_photos/wide.png
 	Jaw Type: wide
+	Chin-Lips Distance: 0.14
+	Chin-Lips Distance: 13.74 pixels
+	Temple Distance: 45.89 pixels
 	Percent: 29.94%
+	Left Angle: 46.89 degrees
+	Right Angle: 131.01 degrees
+	Different Angle Left: 43.11 degrees
+	Different Angle Right: 41.01 degrees
+	Abs Different Angle: 84.12 degrees
 
-2025-07-15 05:52:35 - log_settings - INFO - Image: test_photos/medium 7.png
-	Chin-Lips Distance: 0.21
+2025-07-17 00:19:30 - log_settings - INFO - Image: test_photos/medium 7.png
 	Jaw Type: medium
+	Chin-Lips Distance: 0.21
+	Chin-Lips Distance: 21.49 pixels
+	Temple Distance: 62.15 pixels
 	Percent: 34.58%
+	Left Angle: 49.01 degrees
+	Right Angle: 130.77 degrees
+	Different Angle Left: 40.99 degrees
+	Different Angle Right: 40.77 degrees
+	Abs Different Angle: 81.76 degrees
 
-2025-07-15 05:52:35 - log_settings - INFO - Image: test_photos/medium 5.png
+2025-07-17 00:19:30 - log_settings - INFO - Image: test_photos/medium 5.png
+	Jaw Type: wide
 	Chin-Lips Distance: 0.22
-	Jaw Type: narrow
+	Chin-Lips Distance: 21.79 pixels
+	Temple Distance: 57.97 pixels
 	Percent: 37.58%
+	Left Angle: 47.94 degrees
+	Right Angle: 131.79 degrees
+	Different Angle Left: 42.06 degrees
+	Different Angle Right: 41.79 degrees
+	Abs Different Angle: 83.85 degrees
 
-2025-07-15 05:52:35 - log_settings - INFO - Image: test_photos/medium 13.png
-	Chin-Lips Distance: 0.15
+2025-07-17 00:19:30 - log_settings - INFO - Image: test_photos/medium 13.png
 	Jaw Type: medium
+	Chin-Lips Distance: 0.15
+	Chin-Lips Distance: 15.17 pixels
+	Temple Distance: 46.09 pixels
 	Percent: 32.92%
+	Left Angle: 51.96 degrees
+	Right Angle: 129.22 degrees
+	Different Angle Left: 38.04 degrees
+	Different Angle Right: 39.22 degrees
+	Abs Different Angle: 77.25 degrees
 
-2025-07-15 05:52:35 - log_settings - INFO - Image: test_photos/wide 2.png
-	Chin-Lips Distance: 0.13
+2025-07-17 00:19:30 - log_settings - INFO - Image: test_photos/wide 2.png
 	Jaw Type: wide
+	Chin-Lips Distance: 0.13
+	Chin-Lips Distance: 13.04 pixels
+	Temple Distance: 49.79 pixels
 	Percent: 26.20%
+	Left Angle: 44.87 degrees
+	Right Angle: 135.43 degrees
+	Different Angle Left: 45.13 degrees
+	Different Angle Right: 45.43 degrees
+	Abs Different Angle: 90.56 degrees
 
-2025-07-15 05:52:35 - log_settings - INFO - Image: test_photos/wide Josh_Hutcherson.webp
-	Chin-Lips Distance: 0.14
+2025-07-17 00:19:30 - log_settings - INFO - Image: test_photos/wide Josh_Hutcherson.webp
 	Jaw Type: wide
+	Chin-Lips Distance: 0.14
+	Chin-Lips Distance: 13.74 pixels
+	Temple Distance: 48.34 pixels
 	Percent: 28.42%
+	Left Angle: 43.60 degrees
+	Right Angle: 130.29 degrees
+	Different Angle Left: 46.40 degrees
+	Different Angle Right: 40.29 degrees
+	Abs Different Angle: 86.69 degrees
 
-2025-07-15 05:52:35 - log_settings - INFO - Image: test_photos/narrow gosling.webp
-	Chin-Lips Distance: 0.13
+2025-07-17 00:19:30 - log_settings - INFO - Image: test_photos/narrow gosling.webp
 	Jaw Type: wide
+	Chin-Lips Distance: 0.13
+	Chin-Lips Distance: 12.68 pixels
+	Temple Distance: 52.33 pixels
 	Percent: 24.24%
+	Left Angle: 41.66 degrees
+	Right Angle: 133.66 degrees
+	Different Angle Left: 48.34 degrees
+	Different Angle Right: 43.66 degrees
+	Abs Different Angle: 92.00 degrees
 
-2025-07-15 05:52:35 - log_settings - INFO - Total Accuracy: 73.68%
+2025-07-17 00:19:30 - log_settings - INFO - Total Accuracy: 73.68%
 
-2025-07-15 05:52:35 - log_settings - INFO - Valid classification: 14; Errors: 5
+2025-07-17 00:19:30 - log_settings - INFO - Valid classification: 14; Errors: 5
 
-2025-07-15 05:52:35 - log_settings - INFO - Image: Unknown/photo_2025-07-15_05-23-21.jpg
-	Chin-Lips Distance: 0.09
+2025-07-17 00:19:30 - log_settings - INFO - Image: Unknown/photo_2025-07-15_05-23-21.jpg
 	Jaw Type: wide
+	Chin-Lips Distance: 0.09
+	Chin-Lips Distance: 9.14 pixels
+	Temple Distance: 38.38 pixels
 	Percent: 23.82%
-2025-07-15 05:52:37 - log_settings - INFO - Processed image saved to: output_images/photo_2025-07-15_05-23-21.jpg
+	Left Angle: 42.32 degrees
+	Right Angle: 134.15 degrees
+	Different Angle Left: 47.68 degrees
+	Different Angle Right: 44.15 degrees
+	Abs Different Angle: 91.83 degrees
 
-2025-07-15 05:52:38 - log_settings - INFO - Image: Unknown/photo_2025-07-15_05-23-40.jpg
-	Chin-Lips Distance: 0.12
+2025-07-17 00:19:32 - log_settings - INFO - Processed image saved to: output_images/photo_2025-07-15_05-23-21.jpg
+
+2025-07-17 00:19:34 - log_settings - INFO - Image: Unknown/photo_2025-07-15_05-23-40.jpg
 	Jaw Type: medium
+	Chin-Lips Distance: 0.12
+	Chin-Lips Distance: 11.66 pixels
+	Temple Distance: 33.72 pixels
 	Percent: 34.59%
-2025-07-15 05:52:38 - log_settings - INFO - Processed image saved to: output_images/photo_2025-07-15_05-23-40.jpg
+	Left Angle: 52.48 degrees
+	Right Angle: 126.28 degrees
+	Different Angle Left: 37.52 degrees
+	Different Angle Right: 36.28 degrees
+	Abs Different Angle: 73.80 degrees
 
-2025-07-15 05:52:39 - log_settings - INFO - Image: Unknown/photo_2025-07-15_05-23-27.jpg
-	Chin-Lips Distance: 0.13
+2025-07-17 00:19:34 - log_settings - INFO - Processed image saved to: output_images/photo_2025-07-15_05-23-40.jpg
+
+2025-07-17 00:19:36 - log_settings - INFO - Image: Unknown/photo_2025-07-15_05-23-27.jpg
 	Jaw Type: wide
+	Chin-Lips Distance: 0.13
+	Chin-Lips Distance: 13.38 pixels
+	Temple Distance: 48.69 pixels
 	Percent: 27.48%
-2025-07-15 05:52:39 - log_settings - INFO - Processed image saved to: output_images/photo_2025-07-15_05-23-27.jpg
+	Left Angle: 47.63 degrees
+	Right Angle: 133.57 degrees
+	Different Angle Left: 42.37 degrees
+	Different Angle Right: 43.57 degrees
+	Abs Different Angle: 85.94 degrees
 
-2025-07-15 05:52:40 - log_settings - INFO - Image: Unknown/photo_2025-07-15_05-23-31.jpg
+2025-07-17 00:19:36 - log_settings - INFO - Processed image saved to: output_images/photo_2025-07-15_05-23-27.jpg
+
+2025-07-17 00:19:38 - log_settings - INFO - Image: Unknown/photo_2025-07-15_05-23-31.jpg
+	Jaw Type: narrow
 	Chin-Lips Distance: 0.13
-	Jaw Type: narrow
+	Chin-Lips Distance: 12.57 pixels
+	Temple Distance: 36.05 pixels
 	Percent: 34.86%
-2025-07-15 05:52:40 - log_settings - INFO - Processed image saved to: output_images/photo_2025-07-15_05-23-31.jpg
+	Left Angle: 52.89 degrees
+	Right Angle: 118.19 degrees
+	Different Angle Left: 37.11 degrees
+	Different Angle Right: 28.19 degrees
+	Abs Different Angle: 65.30 degrees
 
-2025-07-15 05:52:42 - log_settings - INFO - Image: Unknown/photo_2025-07-15_05-23-52.jpg
+2025-07-17 00:19:38 - log_settings - INFO - Processed image saved to: output_images/photo_2025-07-15_05-23-31.jpg
+
+2025-07-17 00:19:40 - log_settings - INFO - Image: Unknown/photo_2025-07-15_05-23-52.jpg
+	Jaw Type: wide
 	Chin-Lips Distance: 0.12
-	Jaw Type: wide
+	Chin-Lips Distance: 11.86 pixels
+	Temple Distance: 48.09 pixels
 	Percent: 24.67%
-2025-07-15 05:52:42 - log_settings - INFO - Processed image saved to: output_images/photo_2025-07-15_05-23-52.jpg
+	Left Angle: 39.91 degrees
+	Right Angle: 132.12 degrees
+	Different Angle Left: 50.09 degrees
+	Different Angle Right: 42.12 degrees
+	Abs Different Angle: 92.20 degrees
 
-2025-07-15 05:52:43 - log_settings - INFO - Image: Unknown/photo_2025-07-15_05-23-44.jpg
-	Chin-Lips Distance: 0.15
+2025-07-17 00:19:40 - log_settings - INFO - Processed image saved to: output_images/photo_2025-07-15_05-23-52.jpg
+
+2025-07-17 00:19:42 - log_settings - INFO - Image: Unknown/photo_2025-07-15_05-23-44.jpg
 	Jaw Type: medium
+	Chin-Lips Distance: 0.15
+	Chin-Lips Distance: 14.65 pixels
+	Temple Distance: 42.60 pixels
 	Percent: 34.39%
-2025-07-15 05:52:43 - log_settings - INFO - Processed image saved to: output_images/photo_2025-07-15_05-23-44.jpg
+	Left Angle: 54.80 degrees
+	Right Angle: 124.17 degrees
+	Different Angle Left: 35.20 degrees
+	Different Angle Right: 34.17 degrees
+	Abs Different Angle: 69.37 degrees
 
-2025-07-15 05:52:44 - log_settings - INFO - Image: Unknown/photo_2025-07-15_05-22-58.jpg
+2025-07-17 00:19:42 - log_settings - INFO - Processed image saved to: output_images/photo_2025-07-15_05-23-44.jpg
+
+2025-07-17 00:19:44 - log_settings - INFO - Image: Unknown/photo_2025-07-15_05-22-58.jpg
+	Jaw Type: wide
 	Chin-Lips Distance: 0.14
-	Jaw Type: wide
+	Chin-Lips Distance: 13.83 pixels
+	Temple Distance: 56.25 pixels
 	Percent: 24.58%
-2025-07-15 05:52:45 - log_settings - INFO - Processed image saved to: output_images/photo_2025-07-15_05-22-58.jpg
+	Left Angle: 38.55 degrees
+	Right Angle: 136.14 degrees
+	Different Angle Left: 51.45 degrees
+	Different Angle Right: 46.14 degrees
+	Abs Different Angle: 97.59 degrees
 
-2025-07-15 05:52:46 - log_settings - INFO - Image: Unknown/photo_2025-07-15_05-23-34.jpg
-	Chin-Lips Distance: 0.21
+2025-07-17 00:19:44 - log_settings - INFO - Processed image saved to: output_images/photo_2025-07-15_05-22-58.jpg
+
+2025-07-17 00:19:46 - log_settings - INFO - Image: Unknown/photo_2025-07-15_05-23-34.jpg
 	Jaw Type: narrow
+	Chin-Lips Distance: 0.21
+	Chin-Lips Distance: 21.00 pixels
+	Temple Distance: 59.05 pixels
 	Percent: 35.56%
-2025-07-15 05:52:46 - log_settings - INFO - Processed image saved to: output_images/photo_2025-07-15_05-23-34.jpg
+	Left Angle: 52.04 degrees
+	Right Angle: 123.33 degrees
+	Different Angle Left: 37.96 degrees
+	Different Angle Right: 33.33 degrees
+	Abs Different Angle: 71.30 degrees
 
-2025-07-15 05:52:47 - log_settings - INFO - Image: Unknown/photo_2025-07-15_05-23-16.jpg
+2025-07-17 00:19:47 - log_settings - INFO - Processed image saved to: output_images/photo_2025-07-15_05-23-34.jpg
+
+2025-07-17 00:19:49 - log_settings - INFO - Image: Unknown/photo_2025-07-15_05-23-16.jpg
+	Jaw Type: wide
 	Chin-Lips Distance: 0.09
-	Jaw Type: wide
+	Chin-Lips Distance: 8.88 pixels
+	Temple Distance: 35.49 pixels
 	Percent: 25.02%
-2025-07-15 05:52:48 - log_settings - INFO - Processed image saved to: output_images/photo_2025-07-15_05-23-16.jpg
+	Left Angle: 35.73 degrees
+	Right Angle: 137.63 degrees
+	Different Angle Left: 54.27 degrees
+	Different Angle Right: 47.63 degrees
+	Abs Different Angle: 101.90 degrees
 
-2025-07-15 05:52:49 - log_settings - INFO - Image: Unknown/photo_2025-07-15_05-23-47.jpg
-	Chin-Lips Distance: 0.08
+2025-07-17 00:19:49 - log_settings - INFO - Processed image saved to: output_images/photo_2025-07-15_05-23-16.jpg
+
+2025-07-17 00:19:51 - log_settings - INFO - Image: Unknown/photo_2025-07-15_05-23-47.jpg
 	Jaw Type: wide
+	Chin-Lips Distance: 0.08
+	Chin-Lips Distance: 8.43 pixels
+	Temple Distance: 34.08 pixels
 	Percent: 24.73%
-2025-07-15 05:52:50 - log_settings - INFO - Processed image saved to: output_images/photo_2025-07-15_05-23-47.jpg
+	Left Angle: 39.64 degrees
+	Right Angle: 137.46 degrees
+	Different Angle Left: 50.36 degrees
+	Different Angle Right: 47.46 degrees
+	Abs Different Angle: 97.81 degrees
 
-2025-07-15 05:52:52 - log_settings - INFO - Result:
-	Chin-Lips Distance: 0.14 pixels
-	Jaw Type: narrow]
-	Percent: 50.68%
+2025-07-17 00:19:51 - log_settings - INFO - Processed image saved to: output_images/photo_2025-07-15_05-23-47.jpg
 
-2025-07-15 05:52:53 - log_settings - INFO - Result:
-	Chin-Lips Distance: 0.14 pixels
-	Jaw Type: narrow]
-	Percent: 50.38%
+2025-07-17 00:19:54 - log_settings - INFO - Result:
+	Chin-Lips Distance: 0.12
+	Chin-Lips Distance Percent: 11.62 pixels
+	Temple Distance Percent: 15.68 pixels
+	Percent: 74.12%
+	Left Angle: 71.83 degrees
+	Right Angle: 121.41 degrees
+	Different Angle Left: 18.17 degrees
+	Different Angle Right: 31.41 degrees
+	Abs Different Angle: 49.59 degrees
 
-2025-07-15 05:52:53 - log_settings - INFO - Result:
-	Chin-Lips Distance: 0.14 pixels
-	Jaw Type: narrow]
-	Percent: 51.24%
+2025-07-17 00:19:54 - log_settings - INFO - Result:
+	Chin-Lips Distance: 0.12
+	Chin-Lips Distance Percent: 12.26 pixels
+	Temple Distance Percent: 15.88 pixels
+	Percent: 77.19%
+	Left Angle: 71.27 degrees
+	Right Angle: 121.55 degrees
+	Different Angle Left: 18.73 degrees
+	Different Angle Right: 31.55 degrees
+	Abs Different Angle: 50.28 degrees
 
-2025-07-15 05:52:54 - log_settings - INFO - Result:
-	Chin-Lips Distance: 0.14 pixels
-	Jaw Type: narrow]
-	Percent: 50.31%
+2025-07-17 00:19:54 - log_settings - INFO - Result:
+	Chin-Lips Distance: 0.12
+	Chin-Lips Distance Percent: 12.47 pixels
+	Temple Distance Percent: 15.98 pixels
+	Percent: 78.07%
+	Left Angle: 71.62 degrees
+	Right Angle: 121.20 degrees
+	Different Angle Left: 18.38 degrees
+	Different Angle Right: 31.20 degrees
+	Abs Different Angle: 49.58 degrees
 
-2025-07-15 05:52:55 - log_settings - INFO - Result:
-	Chin-Lips Distance: 0.14 pixels
-	Jaw Type: narrow]
-	Percent: 51.66%
+2025-07-17 00:19:54 - log_settings - INFO - Result:
+	Chin-Lips Distance: 0.12
+	Chin-Lips Distance Percent: 12.19 pixels
+	Temple Distance Percent: 16.10 pixels
+	Percent: 75.72%
+	Left Angle: 71.00 degrees
+	Right Angle: 119.44 degrees
+	Different Angle Left: 19.00 degrees
+	Different Angle Right: 29.44 degrees
+	Abs Different Angle: 48.44 degrees
 
-2025-07-15 05:52:55 - log_settings - INFO - Result:
-	Chin-Lips Distance: 0.14 pixels
-	Jaw Type: narrow]
-	Percent: 50.28%
+2025-07-17 00:19:54 - log_settings - INFO - Result:
+	Chin-Lips Distance: 0.12
+	Chin-Lips Distance Percent: 11.87 pixels
+	Temple Distance Percent: 16.32 pixels
+	Percent: 72.69%
+	Left Angle: 71.06 degrees
+	Right Angle: 118.88 degrees
+	Different Angle Left: 18.94 degrees
+	Different Angle Right: 28.88 degrees
+	Abs Different Angle: 47.81 degrees
 
-2025-07-15 05:52:56 - log_settings - INFO - Result:
-	Chin-Lips Distance: 0.14 pixels
-	Jaw Type: narrow]
-	Percent: 50.97%
+2025-07-17 00:19:55 - log_settings - INFO - Result:
+	Chin-Lips Distance: 0.12
+	Chin-Lips Distance Percent: 12.11 pixels
+	Temple Distance Percent: 16.69 pixels
+	Percent: 72.54%
+	Left Angle: 70.76 degrees
+	Right Angle: 117.56 degrees
+	Different Angle Left: 19.24 degrees
+	Different Angle Right: 27.56 degrees
+	Abs Different Angle: 46.80 degrees
 
-2025-07-15 05:52:56 - log_settings - INFO - Result:
-	Chin-Lips Distance: 0.14 pixels
-	Jaw Type: narrow]
-	Percent: 49.90%
+2025-07-17 00:19:55 - log_settings - INFO - Result:
+	Chin-Lips Distance: 0.13
+	Chin-Lips Distance Percent: 12.85 pixels
+	Temple Distance Percent: 17.09 pixels
+	Percent: 75.19%
+	Left Angle: 71.78 degrees
+	Right Angle: 117.89 degrees
+	Different Angle Left: 18.22 degrees
+	Different Angle Right: 27.89 degrees
+	Abs Different Angle: 46.11 degrees
 
-2025-07-15 05:52:57 - log_settings - INFO - Result:
-	Chin-Lips Distance: 0.13 pixels
-	Jaw Type: narrow]
-	Percent: 50.07%
+2025-07-17 00:19:55 - log_settings - INFO - Result:
+	Chin-Lips Distance: 0.11
+	Chin-Lips Distance Percent: 11.20 pixels
+	Temple Distance Percent: 17.46 pixels
+	Percent: 64.11%
+	Left Angle: 71.22 degrees
+	Right Angle: 116.78 degrees
+	Different Angle Left: 18.78 degrees
+	Different Angle Right: 26.78 degrees
+	Abs Different Angle: 45.56 degrees
 
-2025-07-15 05:52:57 - log_settings - INFO - Result:
-	Chin-Lips Distance: 0.13 pixels
-	Jaw Type: narrow]
-	Percent: 50.52%
+2025-07-17 00:19:55 - log_settings - INFO - Result:
+	Chin-Lips Distance: 0.11
+	Chin-Lips Distance Percent: 10.80 pixels
+	Temple Distance Percent: 17.63 pixels
+	Percent: 61.28%
+	Left Angle: 70.87 degrees
+	Right Angle: 116.92 degrees
+	Different Angle Left: 19.13 degrees
+	Different Angle Right: 26.92 degrees
+	Abs Different Angle: 46.05 degrees
 
-2025-07-15 05:52:58 - log_settings - INFO - Result:
-	Chin-Lips Distance: 0.13 pixels
-	Jaw Type: narrow]
-	Percent: 48.53%
+2025-07-17 00:19:55 - log_settings - INFO - Result:
+	Chin-Lips Distance: 0.11
+	Chin-Lips Distance Percent: 11.17 pixels
+	Temple Distance Percent: 17.53 pixels
+	Percent: 63.70%
+	Left Angle: 70.43 degrees
+	Right Angle: 116.32 degrees
+	Different Angle Left: 19.57 degrees
+	Different Angle Right: 26.32 degrees
+	Abs Different Angle: 45.89 degrees
+
+2025-07-17 00:19:55 - log_settings - INFO - Result:
+	Chin-Lips Distance: 0.11
+	Chin-Lips Distance Percent: 10.67 pixels
+	Temple Distance Percent: 17.67 pixels
+	Percent: 60.39%
+	Left Angle: 67.77 degrees
+	Right Angle: 115.15 degrees
+	Different Angle Left: 22.23 degrees
+	Different Angle Right: 25.15 degrees
+	Abs Different Angle: 47.38 degrees
+
+2025-07-17 00:19:56 - log_settings - INFO - Result:
+	Chin-Lips Distance: 0.11
+	Chin-Lips Distance Percent: 11.08 pixels
+	Temple Distance Percent: 18.05 pixels
+	Percent: 61.39%
+	Left Angle: 69.98 degrees
+	Right Angle: 114.63 degrees
+	Different Angle Left: 20.02 degrees
+	Different Angle Right: 24.63 degrees
+	Abs Different Angle: 44.65 degrees
+
+2025-07-17 00:19:56 - log_settings - INFO - Result:
+	Chin-Lips Distance: 0.11
+	Chin-Lips Distance Percent: 11.14 pixels
+	Temple Distance Percent: 18.22 pixels
+	Percent: 61.13%
+	Left Angle: 70.68 degrees
+	Right Angle: 114.71 degrees
+	Different Angle Left: 19.32 degrees
+	Different Angle Right: 24.71 degrees
+	Abs Different Angle: 44.04 degrees
+
+2025-07-17 00:19:56 - log_settings - INFO - Result:
+	Chin-Lips Distance: 0.11
+	Chin-Lips Distance Percent: 10.68 pixels
+	Temple Distance Percent: 18.36 pixels
+	Percent: 58.15%
+	Left Angle: 69.98 degrees
+	Right Angle: 113.89 degrees
+	Different Angle Left: 20.02 degrees
+	Different Angle Right: 23.89 degrees
+	Abs Different Angle: 43.90 degrees
+
+2025-07-17 00:19:56 - log_settings - INFO - Result:
+	Chin-Lips Distance: 0.10
+	Chin-Lips Distance Percent: 10.45 pixels
+	Temple Distance Percent: 18.13 pixels
+	Percent: 57.64%
+	Left Angle: 69.64 degrees
+	Right Angle: 114.24 degrees
+	Different Angle Left: 20.36 degrees
+	Different Angle Right: 24.24 degrees
+	Abs Different Angle: 44.61 degrees
+
+2025-07-17 00:19:56 - log_settings - INFO - Result:
+	Chin-Lips Distance: 0.10
+	Chin-Lips Distance Percent: 10.41 pixels
+	Temple Distance Percent: 18.04 pixels
+	Percent: 57.72%
+	Left Angle: 69.69 degrees
+	Right Angle: 114.51 degrees
+	Different Angle Left: 20.31 degrees
+	Different Angle Right: 24.51 degrees
+	Abs Different Angle: 44.82 degrees
+
+2025-07-17 00:19:57 - log_settings - INFO - Result:
+	Chin-Lips Distance: 0.10
+	Chin-Lips Distance Percent: 10.09 pixels
+	Temple Distance Percent: 18.20 pixels
+	Percent: 55.44%
+	Left Angle: 69.33 degrees
+	Right Angle: 114.87 degrees
+	Different Angle Left: 20.67 degrees
+	Different Angle Right: 24.87 degrees
+	Abs Different Angle: 45.53 degrees
+
+2025-07-17 00:19:57 - log_settings - INFO - Result:
+	Chin-Lips Distance: 0.10
+	Chin-Lips Distance Percent: 10.21 pixels
+	Temple Distance Percent: 18.10 pixels
+	Percent: 56.42%
+	Left Angle: 69.00 degrees
+	Right Angle: 115.19 degrees
+	Different Angle Left: 21.00 degrees
+	Different Angle Right: 25.19 degrees
+	Abs Different Angle: 46.19 degrees
+
+2025-07-17 00:19:57 - log_settings - INFO - Result:
+	Chin-Lips Distance: 0.11
+	Chin-Lips Distance Percent: 10.94 pixels
+	Temple Distance Percent: 18.02 pixels
+	Percent: 60.69%
+	Left Angle: 68.50 degrees
+	Right Angle: 114.09 degrees
+	Different Angle Left: 21.50 degrees
+	Different Angle Right: 24.09 degrees
+	Abs Different Angle: 45.58 degrees
+
+2025-07-17 00:19:57 - log_settings - INFO - Result:
+	Chin-Lips Distance: 0.11
+	Chin-Lips Distance Percent: 10.92 pixels
+	Temple Distance Percent: 18.06 pixels
+	Percent: 60.48%
+	Left Angle: 67.66 degrees
+	Right Angle: 113.78 degrees
+	Different Angle Left: 22.34 degrees
+	Different Angle Right: 23.78 degrees
+	Abs Different Angle: 46.13 degrees
+
+2025-07-17 00:19:58 - log_settings - INFO - Result:
+	Chin-Lips Distance: 0.11
+	Chin-Lips Distance Percent: 11.27 pixels
+	Temple Distance Percent: 17.99 pixels
+	Percent: 62.64%
+	Left Angle: 68.29 degrees
+	Right Angle: 114.12 degrees
+	Different Angle Left: 21.71 degrees
+	Different Angle Right: 24.12 degrees
+	Abs Different Angle: 45.83 degrees
+
+2025-07-17 00:19:58 - log_settings - INFO - Result:
+	Chin-Lips Distance: 0.11
+	Chin-Lips Distance Percent: 11.14 pixels
+	Temple Distance Percent: 18.00 pixels
+	Percent: 61.91%
+	Left Angle: 68.15 degrees
+	Right Angle: 114.28 degrees
+	Different Angle Left: 21.85 degrees
+	Different Angle Right: 24.28 degrees
+	Abs Different Angle: 46.13 degrees
+
+2025-07-17 00:19:58 - log_settings - INFO - Result:
+	Chin-Lips Distance: 0.11
+	Chin-Lips Distance Percent: 11.36 pixels
+	Temple Distance Percent: 18.25 pixels
+	Percent: 62.27%
+	Left Angle: 67.62 degrees
+	Right Angle: 114.39 degrees
+	Different Angle Left: 22.38 degrees
+	Different Angle Right: 24.39 degrees
+	Abs Different Angle: 46.77 degrees
+
+2025-07-17 00:19:58 - log_settings - INFO - Result:
+	Chin-Lips Distance: 0.11
+	Chin-Lips Distance Percent: 11.17 pixels
+	Temple Distance Percent: 18.02 pixels
+	Percent: 61.99%
+	Left Angle: 66.82 degrees
+	Right Angle: 113.30 degrees
+	Different Angle Left: 23.18 degrees
+	Different Angle Right: 23.30 degrees
+	Abs Different Angle: 46.48 degrees
+
+2025-07-17 00:19:59 - log_settings - INFO - Result:
+	Chin-Lips Distance: 0.11
+	Chin-Lips Distance Percent: 11.47 pixels
+	Temple Distance Percent: 18.12 pixels
+	Percent: 63.28%
+	Left Angle: 67.03 degrees
+	Right Angle: 112.92 degrees
+	Different Angle Left: 22.97 degrees
+	Different Angle Right: 22.92 degrees
+	Abs Different Angle: 45.89 degrees
+
+2025-07-17 00:19:59 - log_settings - INFO - Result:
+	Chin-Lips Distance: 0.12
+	Chin-Lips Distance Percent: 11.61 pixels
+	Temple Distance Percent: 18.08 pixels
+	Percent: 64.26%
+	Left Angle: 66.74 degrees
+	Right Angle: 113.77 degrees
+	Different Angle Left: 23.26 degrees
+	Different Angle Right: 23.77 degrees
+	Abs Different Angle: 47.03 degrees
+
+2025-07-17 00:19:59 - log_settings - INFO - Result:
+	Chin-Lips Distance: 0.11
+	Chin-Lips Distance Percent: 11.44 pixels
+	Temple Distance Percent: 18.09 pixels
+	Percent: 63.23%
+	Left Angle: 67.39 degrees
+	Right Angle: 113.65 degrees
+	Different Angle Left: 22.61 degrees
+	Different Angle Right: 23.65 degrees
+	Abs Different Angle: 46.26 degrees
+
+2025-07-17 00:19:59 - log_settings - INFO - Result:
+	Chin-Lips Distance: 0.11
+	Chin-Lips Distance Percent: 11.27 pixels
+	Temple Distance Percent: 17.96 pixels
+	Percent: 62.75%
+	Left Angle: 67.60 degrees
+	Right Angle: 114.72 degrees
+	Different Angle Left: 22.40 degrees
+	Different Angle Right: 24.72 degrees
+	Abs Different Angle: 47.11 degrees
+
+2025-07-17 00:20:00 - log_settings - INFO - Result:
+	Chin-Lips Distance: 0.11
+	Chin-Lips Distance Percent: 11.44 pixels
+	Temple Distance Percent: 17.90 pixels
+	Percent: 63.90%
+	Left Angle: 70.92 degrees
+	Right Angle: 117.46 degrees
+	Different Angle Left: 19.08 degrees
+	Different Angle Right: 27.46 degrees
+	Abs Different Angle: 46.54 degrees
+
+2025-07-17 00:20:00 - log_settings - INFO - Result:
+	Chin-Lips Distance: 0.11
+	Chin-Lips Distance Percent: 11.15 pixels
+	Temple Distance Percent: 16.70 pixels
+	Percent: 66.79%
+	Left Angle: 78.89 degrees
+	Right Angle: 121.76 degrees
+	Different Angle Left: 11.11 degrees
+	Different Angle Right: 31.76 degrees
+	Abs Different Angle: 42.88 degrees
+
+2025-07-17 00:20:00 - log_settings - INFO - Result:
+	Chin-Lips Distance: 0.11
+	Chin-Lips Distance Percent: 10.81 pixels
+	Temple Distance Percent: 17.34 pixels
+	Percent: 62.34%
+	Left Angle: 73.36 degrees
+	Right Angle: 117.48 degrees
+	Different Angle Left: 16.64 degrees
+	Different Angle Right: 27.48 degrees
+	Abs Different Angle: 44.12 degrees
+
+2025-07-17 00:20:01 - log_settings - INFO - Result:
+	Chin-Lips Distance: 0.11
+	Chin-Lips Distance Percent: 11.49 pixels
+	Temple Distance Percent: 18.03 pixels
+	Percent: 63.69%
+	Left Angle: 68.36 degrees
+	Right Angle: 114.36 degrees
+	Different Angle Left: 21.64 degrees
+	Different Angle Right: 24.36 degrees
+	Abs Different Angle: 46.00 degrees
+
+2025-07-17 00:20:01 - log_settings - INFO - Result:
+	Chin-Lips Distance: 0.11
+	Chin-Lips Distance Percent: 11.17 pixels
+	Temple Distance Percent: 17.97 pixels
+	Percent: 62.19%
+	Left Angle: 69.23 degrees
+	Right Angle: 115.68 degrees
+	Different Angle Left: 20.77 degrees
+	Different Angle Right: 25.68 degrees
+	Abs Different Angle: 46.45 degrees
+
+2025-07-17 00:20:01 - log_settings - INFO - Result:
+	Chin-Lips Distance: 0.11
+	Chin-Lips Distance Percent: 11.20 pixels
+	Temple Distance Percent: 17.88 pixels
+	Percent: 62.66%
+	Left Angle: 68.69 degrees
+	Right Angle: 115.20 degrees
+	Different Angle Left: 21.31 degrees
+	Different Angle Right: 25.20 degrees
+	Abs Different Angle: 46.50 degrees
+
+2025-07-17 00:20:01 - log_settings - INFO - Result:
+	Chin-Lips Distance: 0.11
+	Chin-Lips Distance Percent: 11.13 pixels
+	Temple Distance Percent: 18.00 pixels
+	Percent: 61.83%
+	Left Angle: 68.20 degrees
+	Right Angle: 115.28 degrees
+	Different Angle Left: 21.80 degrees
+	Different Angle Right: 25.28 degrees
+	Abs Different Angle: 47.08 degrees
+
+2025-07-17 00:20:02 - log_settings - INFO - Result:
+	Chin-Lips Distance: 0.11
+	Chin-Lips Distance Percent: 11.03 pixels
+	Temple Distance Percent: 17.86 pixels
+	Percent: 61.77%
+	Left Angle: 68.47 degrees
+	Right Angle: 114.86 degrees
+	Different Angle Left: 21.53 degrees
+	Different Angle Right: 24.86 degrees
+	Abs Different Angle: 46.40 degrees
+
+2025-07-17 00:20:02 - log_settings - INFO - Result:
+	Chin-Lips Distance: 0.11
+	Chin-Lips Distance Percent: 11.06 pixels
+	Temple Distance Percent: 17.81 pixels
+	Percent: 62.11%
+	Left Angle: 69.53 degrees
+	Right Angle: 116.04 degrees
+	Different Angle Left: 20.47 degrees
+	Different Angle Right: 26.04 degrees
+	Abs Different Angle: 46.50 degrees
+
+2025-07-17 00:20:02 - log_settings - INFO - Result:
+	Chin-Lips Distance: 0.11
+	Chin-Lips Distance Percent: 11.32 pixels
+	Temple Distance Percent: 17.65 pixels
+	Percent: 64.13%
+	Left Angle: 70.70 degrees
+	Right Angle: 116.48 degrees
+	Different Angle Left: 19.30 degrees
+	Different Angle Right: 26.48 degrees
+	Abs Different Angle: 45.78 degrees
+
+2025-07-17 00:20:02 - log_settings - INFO - Result:
+	Chin-Lips Distance: 0.11
+	Chin-Lips Distance Percent: 11.06 pixels
+	Temple Distance Percent: 17.60 pixels
+	Percent: 62.84%
+	Left Angle: 70.26 degrees
+	Right Angle: 116.74 degrees
+	Different Angle Left: 19.74 degrees
+	Different Angle Right: 26.74 degrees
+	Abs Different Angle: 46.47 degrees
+
+2025-07-17 00:20:03 - log_settings - INFO - Result:
+	Chin-Lips Distance: 0.11
+	Chin-Lips Distance Percent: 11.20 pixels
+	Temple Distance Percent: 17.74 pixels
+	Percent: 63.17%
+	Left Angle: 70.74 degrees
+	Right Angle: 116.44 degrees
+	Different Angle Left: 19.26 degrees
+	Different Angle Right: 26.44 degrees
+	Abs Different Angle: 45.70 degrees
+
+2025-07-17 00:20:03 - log_settings - INFO - Result:
+	Chin-Lips Distance: 0.11
+	Chin-Lips Distance Percent: 11.36 pixels
+	Temple Distance Percent: 17.67 pixels
+	Percent: 64.33%
+	Left Angle: 70.53 degrees
+	Right Angle: 116.67 degrees
+	Different Angle Left: 19.47 degrees
+	Different Angle Right: 26.67 degrees
+	Abs Different Angle: 46.14 degrees
+
+2025-07-17 00:20:03 - log_settings - INFO - Result:
+	Chin-Lips Distance: 0.11
+	Chin-Lips Distance Percent: 11.23 pixels
+	Temple Distance Percent: 17.77 pixels
+	Percent: 63.22%
+	Left Angle: 70.04 degrees
+	Right Angle: 116.62 degrees
+	Different Angle Left: 19.96 degrees
+	Different Angle Right: 26.62 degrees
+	Abs Different Angle: 46.58 degrees
+
+2025-07-17 00:20:03 - log_settings - INFO - Result:
+	Chin-Lips Distance: 0.11
+	Chin-Lips Distance Percent: 11.26 pixels
+	Temple Distance Percent: 17.77 pixels
+	Percent: 63.39%
+	Left Angle: 70.56 degrees
+	Right Angle: 117.08 degrees
+	Different Angle Left: 19.44 degrees
+	Different Angle Right: 27.08 degrees
+	Abs Different Angle: 46.52 degrees
+
+2025-07-17 00:20:04 - log_settings - INFO - Result:
+	Chin-Lips Distance: 0.12
+	Chin-Lips Distance Percent: 11.54 pixels
+	Temple Distance Percent: 17.56 pixels
+	Percent: 65.72%
+	Left Angle: 70.94 degrees
+	Right Angle: 116.35 degrees
+	Different Angle Left: 19.06 degrees
+	Different Angle Right: 26.35 degrees
+	Abs Different Angle: 45.41 degrees
+
+2025-07-17 00:20:04 - log_settings - INFO - Result:
+	Chin-Lips Distance: 0.11
+	Chin-Lips Distance Percent: 11.42 pixels
+	Temple Distance Percent: 17.80 pixels
+	Percent: 64.16%
+	Left Angle: 70.82 degrees
+	Right Angle: 116.76 degrees
+	Different Angle Left: 19.18 degrees
+	Different Angle Right: 26.76 degrees
+	Abs Different Angle: 45.93 degrees
+
+2025-07-17 00:20:04 - log_settings - INFO - Result:
+	Chin-Lips Distance: 0.11
+	Chin-Lips Distance Percent: 11.29 pixels
+	Temple Distance Percent: 17.66 pixels
+	Percent: 63.92%
+	Left Angle: 70.98 degrees
+	Right Angle: 117.63 degrees
+	Different Angle Left: 19.02 degrees
+	Different Angle Right: 27.63 degrees
+	Abs Different Angle: 46.65 degrees
+
+2025-07-17 00:20:05 - log_settings - INFO - Result:
+	Chin-Lips Distance: 0.11
+	Chin-Lips Distance Percent: 11.18 pixels
+	Temple Distance Percent: 17.55 pixels
+	Percent: 63.74%
+	Left Angle: 72.02 degrees
+	Right Angle: 118.41 degrees
+	Different Angle Left: 17.98 degrees
+	Different Angle Right: 28.41 degrees
+	Abs Different Angle: 46.39 degrees
+
+2025-07-17 00:20:05 - log_settings - INFO - Result:
+	Chin-Lips Distance: 0.11
+	Chin-Lips Distance Percent: 11.31 pixels
+	Temple Distance Percent: 17.57 pixels
+	Percent: 64.38%
+	Left Angle: 72.51 degrees
+	Right Angle: 118.36 degrees
+	Different Angle Left: 17.49 degrees
+	Different Angle Right: 28.36 degrees
+	Abs Different Angle: 45.86 degrees
+
+2025-07-17 00:20:05 - log_settings - INFO - Result:
+	Chin-Lips Distance: 0.11
+	Chin-Lips Distance Percent: 11.27 pixels
+	Temple Distance Percent: 17.29 pixels
+	Percent: 65.21%
+	Left Angle: 74.41 degrees
+	Right Angle: 119.94 degrees
+	Different Angle Left: 15.59 degrees
+	Different Angle Right: 29.94 degrees
+	Abs Different Angle: 45.54 degrees
+
+2025-07-17 00:20:05 - log_settings - INFO - Result:
+	Chin-Lips Distance: 0.12
+	Chin-Lips Distance Percent: 11.50 pixels
+	Temple Distance Percent: 17.35 pixels
+	Percent: 66.32%
+	Left Angle: 73.84 degrees
+	Right Angle: 119.27 degrees
+	Different Angle Left: 16.16 degrees
+	Different Angle Right: 29.27 degrees
+	Abs Different Angle: 45.44 degrees
+
+2025-07-17 00:20:06 - log_settings - INFO - Result:
+	Chin-Lips Distance: 0.11
+	Chin-Lips Distance Percent: 11.15 pixels
+	Temple Distance Percent: 17.30 pixels
+	Percent: 64.48%
+	Left Angle: 73.35 degrees
+	Right Angle: 119.29 degrees
+	Different Angle Left: 16.65 degrees
+	Different Angle Right: 29.29 degrees
+	Abs Different Angle: 45.94 degrees
+
+2025-07-17 00:20:06 - log_settings - INFO - Result:
+	Chin-Lips Distance: 0.11
+	Chin-Lips Distance Percent: 11.44 pixels
+	Temple Distance Percent: 17.64 pixels
+	Percent: 64.89%
+	Left Angle: 72.12 degrees
+	Right Angle: 118.25 degrees
+	Different Angle Left: 17.88 degrees
+	Different Angle Right: 28.25 degrees
+	Abs Different Angle: 46.13 degrees
+
+2025-07-17 00:20:06 - log_settings - INFO - Result:
+	Chin-Lips Distance: 0.11
+	Chin-Lips Distance Percent: 11.47 pixels
+	Temple Distance Percent: 17.56 pixels
+	Percent: 65.30%
+	Left Angle: 71.72 degrees
+	Right Angle: 117.90 degrees
+	Different Angle Left: 18.28 degrees
+	Different Angle Right: 27.90 degrees
+	Abs Different Angle: 46.18 degrees
+
+2025-07-17 00:20:06 - log_settings - INFO - Result:
+	Chin-Lips Distance: 0.11
+	Chin-Lips Distance Percent: 11.31 pixels
+	Temple Distance Percent: 17.69 pixels
+	Percent: 63.95%
+	Left Angle: 69.81 degrees
+	Right Angle: 115.70 degrees
+	Different Angle Left: 20.19 degrees
+	Different Angle Right: 25.70 degrees
+	Abs Different Angle: 45.89 degrees
+
+2025-07-17 00:20:07 - log_settings - INFO - Result:
+	Chin-Lips Distance: 0.11
+	Chin-Lips Distance Percent: 11.33 pixels
+	Temple Distance Percent: 17.38 pixels
+	Percent: 65.18%
+	Left Angle: 68.84 degrees
+	Right Angle: 115.42 degrees
+	Different Angle Left: 21.16 degrees
+	Different Angle Right: 25.42 degrees
+	Abs Different Angle: 46.58 degrees
+
+2025-07-17 00:20:07 - log_settings - INFO - Result:
+	Chin-Lips Distance: 0.11
+	Chin-Lips Distance Percent: 11.16 pixels
+	Temple Distance Percent: 17.51 pixels
+	Percent: 63.72%
+	Left Angle: 69.50 degrees
+	Right Angle: 116.59 degrees
+	Different Angle Left: 20.50 degrees
+	Different Angle Right: 26.59 degrees
+	Abs Different Angle: 47.09 degrees
+
+2025-07-17 00:20:07 - log_settings - INFO - Result:
+	Chin-Lips Distance: 0.11
+	Chin-Lips Distance Percent: 11.02 pixels
+	Temple Distance Percent: 17.46 pixels
+	Percent: 63.15%
+	Left Angle: 71.01 degrees
+	Right Angle: 117.97 degrees
+	Different Angle Left: 18.99 degrees
+	Different Angle Right: 27.97 degrees
+	Abs Different Angle: 46.96 degrees
+
+2025-07-17 00:20:07 - log_settings - INFO - Result:
+	Chin-Lips Distance: 0.11
+	Chin-Lips Distance Percent: 11.29 pixels
+	Temple Distance Percent: 17.10 pixels
+	Percent: 66.05%
+	Left Angle: 73.50 degrees
+	Right Angle: 118.93 degrees
+	Different Angle Left: 16.50 degrees
+	Different Angle Right: 28.93 degrees
+	Abs Different Angle: 45.43 degrees
+
+2025-07-17 00:20:08 - log_settings - INFO - Result:
+	Chin-Lips Distance: 0.11
+	Chin-Lips Distance Percent: 11.36 pixels
+	Temple Distance Percent: 17.17 pixels
+	Percent: 66.17%
+	Left Angle: 73.28 degrees
+	Right Angle: 118.91 degrees
+	Different Angle Left: 16.72 degrees
+	Different Angle Right: 28.91 degrees
+	Abs Different Angle: 45.63 degrees
+
+2025-07-17 00:20:08 - log_settings - INFO - Result:
+	Chin-Lips Distance: 0.11
+	Chin-Lips Distance Percent: 11.14 pixels
+	Temple Distance Percent: 16.91 pixels
+	Percent: 65.90%
+	Left Angle: 73.43 degrees
+	Right Angle: 118.91 degrees
+	Different Angle Left: 16.57 degrees
+	Different Angle Right: 28.91 degrees
+	Abs Different Angle: 45.48 degrees
+
+2025-07-17 00:20:08 - log_settings - INFO - Result:
+	Chin-Lips Distance: 0.11
+	Chin-Lips Distance Percent: 11.22 pixels
+	Temple Distance Percent: 17.21 pixels
+	Percent: 65.20%
+	Left Angle: 72.38 degrees
+	Right Angle: 118.68 degrees
+	Different Angle Left: 17.62 degrees
+	Different Angle Right: 28.68 degrees
+	Abs Different Angle: 46.30 degrees
+
+2025-07-17 00:20:08 - log_settings - INFO - Result:
+	Chin-Lips Distance: 0.11
+	Chin-Lips Distance Percent: 11.25 pixels
+	Temple Distance Percent: 17.22 pixels
+	Percent: 65.35%
+	Left Angle: 72.93 degrees
+	Right Angle: 118.34 degrees
+	Different Angle Left: 17.07 degrees
+	Different Angle Right: 28.34 degrees
+	Abs Different Angle: 45.41 degrees
+
+2025-07-17 00:20:09 - log_settings - INFO - Result:
+	Chin-Lips Distance: 0.11
+	Chin-Lips Distance Percent: 11.07 pixels
+	Temple Distance Percent: 17.28 pixels
+	Percent: 64.09%
+	Left Angle: 72.97 degrees
+	Right Angle: 118.83 degrees
+	Different Angle Left: 17.03 degrees
+	Different Angle Right: 28.83 degrees
+	Abs Different Angle: 45.86 degrees
+
+2025-07-17 00:20:09 - log_settings - INFO - Result:
+	Chin-Lips Distance: 0.11
+	Chin-Lips Distance Percent: 10.95 pixels
+	Temple Distance Percent: 17.41 pixels
+	Percent: 62.86%
+	Left Angle: 72.84 degrees
+	Right Angle: 119.48 degrees
+	Different Angle Left: 17.16 degrees
+	Different Angle Right: 29.48 degrees
+	Abs Different Angle: 46.63 degrees
+
+2025-07-17 00:20:09 - log_settings - INFO - Result:
+	Chin-Lips Distance: 0.11
+	Chin-Lips Distance Percent: 10.96 pixels
+	Temple Distance Percent: 17.35 pixels
+	Percent: 63.18%
+	Left Angle: 73.15 degrees
+	Right Angle: 119.03 degrees
+	Different Angle Left: 16.85 degrees
+	Different Angle Right: 29.03 degrees
+	Abs Different Angle: 45.88 degrees
+
+2025-07-17 00:20:09 - log_settings - INFO - Result:
+	Chin-Lips Distance: 0.11
+	Chin-Lips Distance Percent: 11.18 pixels
+	Temple Distance Percent: 17.19 pixels
+	Percent: 65.07%
+	Left Angle: 73.37 degrees
+	Right Angle: 118.80 degrees
+	Different Angle Left: 16.63 degrees
+	Different Angle Right: 28.80 degrees
+	Abs Different Angle: 45.43 degrees
+
+2025-07-17 00:20:09 - log_settings - INFO - Result:
+	Chin-Lips Distance: 0.11
+	Chin-Lips Distance Percent: 10.95 pixels
+	Temple Distance Percent: 17.34 pixels
+	Percent: 63.14%
+	Left Angle: 72.89 degrees
+	Right Angle: 118.84 degrees
+	Different Angle Left: 17.11 degrees
+	Different Angle Right: 28.84 degrees
+	Abs Different Angle: 45.95 degrees
+
+2025-07-17 00:20:10 - log_settings - INFO - Result:
+	Chin-Lips Distance: 0.11
+	Chin-Lips Distance Percent: 10.79 pixels
+	Temple Distance Percent: 17.36 pixels
+	Percent: 62.18%
+	Left Angle: 72.56 degrees
+	Right Angle: 119.03 degrees
+	Different Angle Left: 17.44 degrees
+	Different Angle Right: 29.03 degrees
+	Abs Different Angle: 46.47 degrees
+
+2025-07-17 00:20:10 - log_settings - INFO - Result:
+	Chin-Lips Distance: 0.11
+	Chin-Lips Distance Percent: 11.03 pixels
+	Temple Distance Percent: 17.32 pixels
+	Percent: 63.72%
+	Left Angle: 72.41 degrees
+	Right Angle: 119.32 degrees
+	Different Angle Left: 17.59 degrees
+	Different Angle Right: 29.32 degrees
+	Abs Different Angle: 46.91 degrees
+
+2025-07-17 00:20:10 - log_settings - INFO - Result:
+	Chin-Lips Distance: 0.11
+	Chin-Lips Distance Percent: 10.91 pixels
+	Temple Distance Percent: 17.20 pixels
+	Percent: 63.43%
+	Left Angle: 72.80 degrees
+	Right Angle: 119.44 degrees
+	Different Angle Left: 17.20 degrees
+	Different Angle Right: 29.44 degrees
+	Abs Different Angle: 46.64 degrees
+
+2025-07-17 00:20:10 - log_settings - INFO - Result:
+	Chin-Lips Distance: 0.11
+	Chin-Lips Distance Percent: 11.04 pixels
+	Temple Distance Percent: 16.99 pixels
+	Percent: 64.95%
+	Left Angle: 71.39 degrees
+	Right Angle: 118.67 degrees
+	Different Angle Left: 18.61 degrees
+	Different Angle Right: 28.67 degrees
+	Abs Different Angle: 47.28 degrees
+
+2025-07-17 00:20:10 - log_settings - INFO - Result:
+	Chin-Lips Distance: 0.11
+	Chin-Lips Distance Percent: 11.14 pixels
+	Temple Distance Percent: 17.09 pixels
+	Percent: 65.18%
+	Left Angle: 71.00 degrees
+	Right Angle: 118.62 degrees
+	Different Angle Left: 19.00 degrees
+	Different Angle Right: 28.62 degrees
+	Abs Different Angle: 47.62 degrees
+
+2025-07-17 00:20:11 - log_settings - INFO - Result:
+	Chin-Lips Distance: 0.11
+	Chin-Lips Distance Percent: 11.10 pixels
+	Temple Distance Percent: 17.20 pixels
+	Percent: 64.53%
+	Left Angle: 71.02 degrees
+	Right Angle: 117.87 degrees
+	Different Angle Left: 18.98 degrees
+	Different Angle Right: 27.87 degrees
+	Abs Different Angle: 46.85 degrees
+
+2025-07-17 00:20:11 - log_settings - INFO - Result:
+	Chin-Lips Distance: 0.11
+	Chin-Lips Distance Percent: 10.97 pixels
+	Temple Distance Percent: 17.33 pixels
+	Percent: 63.28%
+	Left Angle: 70.62 degrees
+	Right Angle: 117.73 degrees
+	Different Angle Left: 19.38 degrees
+	Different Angle Right: 27.73 degrees
+	Abs Different Angle: 47.10 degrees
 
