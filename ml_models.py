@@ -340,9 +340,3 @@
 #     else:
 #         print("No images processed or no landmarks detected.")
 #
-
-a = "medium_life"
-if "medium" in a:
-    print("yes")
-else:
-    print("no")
