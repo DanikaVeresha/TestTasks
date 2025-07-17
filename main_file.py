@@ -412,4 +412,5 @@ def classify_images_from_directory(directory):
 if __name__ == "__main__":
     classify_images_from_directory_train("test_photos")
     classify_images_from_directory("Unknown")
+    classify_images_from_directory("New_Unknown")
     main()

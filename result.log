@@ -1,4 +1,4 @@
-2025-07-17 23:02:52 - log_settings - INFO - Image: test_photos/narrow 21.jpg
+2025-07-17 23:21:43 - log_settings - INFO - Image: test_photos/narrow 21.jpg
 	Jaw Type: medium
 	Left Temple: [0.17456782 0.5303812 ]
 	Right Temple: [0.72813451 0.52790987]
@@ -14,7 +14,7 @@
 	Right Angle: 128.52 degrees
 	Jaw Type (Angle): narrow
 
-2025-07-17 23:02:52 - log_settings - INFO - Image: test_photos/1425509443 narrow.jpg
+2025-07-17 23:21:43 - log_settings - INFO - Image: test_photos/1425509443 narrow.jpg
 	Jaw Type: wide
 	Left Temple: [0.27762777 0.45746401]
 	Right Temple: [0.55612528 0.41153723]
@@ -30,7 +30,7 @@
 	Right Angle: 113.92 degrees
 	Jaw Type (Angle): wide
 
-2025-07-17 23:02:52 - log_settings - INFO - Image: test_photos/medium 4.jpg
+2025-07-17 23:21:43 - log_settings - INFO - Image: test_photos/medium 4.jpg
 	Jaw Type: medium
 	Left Temple: [0.25767571 0.51669574]
 	Right Temple: [0.76035053 0.52268273]
@@ -46,7 +46,7 @@
 	Right Angle: 133.95 degrees
 	Jaw Type (Angle): narrow
 
-2025-07-17 23:02:52 - log_settings - INFO - Image: test_photos/wide 7.jpg
+2025-07-17 23:21:43 - log_settings - INFO - Image: test_photos/wide 7.jpg
 	Jaw Type: wide
 	Left Temple: [0.18177965 0.54071772]
 	Right Temple: [0.7566793  0.53509521]
@@ -62,7 +62,7 @@
 	Right Angle: 131.29 degrees
 	Jaw Type (Angle): medium
 
-2025-07-17 23:02:52 - log_settings - INFO - Image: test_photos/medium 20.jpg
+2025-07-17 23:21:43 - log_settings - INFO - Image: test_photos/medium 20.jpg
 	Jaw Type: medium
 	Left Temple: [0.19971243 0.47953138]
 	Right Temple: [0.69066739 0.45562875]
@@ -78,7 +78,7 @@
 	Right Angle: 128.56 degrees
 	Jaw Type (Angle): medium
 
-2025-07-17 23:02:52 - log_settings - INFO - Image: test_photos/edward narrow.jpeg
+2025-07-17 23:21:43 - log_settings - INFO - Image: test_photos/edward narrow.jpeg
 	Jaw Type: narrow
 	Left Temple: [0.29533672 0.40917426]
 	Right Temple: [0.64418066 0.44020018]
@@ -94,9 +94,9 @@
 	Right Angle: 129.24 degrees
 	Jaw Type (Angle): narrow
 
-2025-07-17 23:02:52 - log_settings - ERROR - Error processing image test_photos/narrow_without.jpeg: too many values to unpack (expected 14)
+2025-07-17 23:21:43 - log_settings - ERROR - Error processing image test_photos/narrow_without.jpeg: too many values to unpack (expected 14)
 
-2025-07-17 23:02:52 - log_settings - INFO - Image: test_photos/narrow_scarlet.jpeg
+2025-07-17 23:21:43 - log_settings - INFO - Image: test_photos/narrow_scarlet.jpeg
 	Jaw Type: medium
 	Left Temple: [0.30372083 0.34114453]
 	Right Temple: [0.67318428 0.33700728]
@@ -112,7 +112,7 @@
 	Right Angle: 121.15 degrees
 	Jaw Type (Angle): narrow
 
-2025-07-17 23:02:52 - log_settings - INFO - Image: test_photos/narrow_fas.jpeg
+2025-07-17 23:21:43 - log_settings - INFO - Image: test_photos/narrow_fas.jpeg
 	Jaw Type: narrow
 	Left Temple: [0.30456281 0.16657965]
 	Right Temple: [0.62004268 0.33909354]
@@ -128,7 +128,7 @@
 	Right Angle: 121.95 degrees
 	Jaw Type (Angle): narrow
 
-2025-07-17 23:02:52 - log_settings - INFO - Image: test_photos/narrow aiken.jpeg
+2025-07-17 23:21:43 - log_settings - INFO - Image: test_photos/narrow aiken.jpeg
 	Jaw Type: narrow
 	Left Temple: [0.33034065 0.50063747]
 	Right Temple: [0.76998234 0.50891155]
@@ -144,7 +144,7 @@
 	Right Angle: 125.49 degrees
 	Jaw Type (Angle): narrow
 
-2025-07-17 23:02:53 - log_settings - INFO - Image: test_photos/narrow nicolas.jpeg
+2025-07-17 23:21:43 - log_settings - INFO - Image: test_photos/narrow nicolas.jpeg
 	Jaw Type: narrow
 	Left Temple: [0.29707199 0.5535782 ]
 	Right Temple: [0.77239382 0.53712517]
@@ -160,9 +160,9 @@
 	Right Angle: 125.69 degrees
 	Jaw Type (Angle): narrow
 
-2025-07-17 23:02:53 - log_settings - ERROR - Error processing image test_photos/narrow.jpeg: too many values to unpack (expected 14)
+2025-07-17 23:21:43 - log_settings - ERROR - Error processing image test_photos/narrow.jpeg: too many values to unpack (expected 14)
 
-2025-07-17 23:02:53 - log_settings - INFO - Image: test_photos/wide.png
+2025-07-17 23:21:43 - log_settings - INFO - Image: test_photos/wide.png
 	Jaw Type: wide
 	Left Temple: [0.2573427  0.55980206]
 	Right Temple: [0.71623075 0.55614978]
@@ -178,7 +178,7 @@
 	Right Angle: 131.01 degrees
 	Jaw Type (Angle): wide
 
-2025-07-17 23:02:53 - log_settings - INFO - Image: test_photos/medium 7.png
+2025-07-17 23:21:43 - log_settings - INFO - Image: test_photos/medium 7.png
 	Jaw Type: medium
 	Left Temple: [0.17947716 0.54276323]
 	Right Temple: [0.8007589  0.52631313]
@@ -194,7 +194,7 @@
 	Right Angle: 130.77 degrees
 	Jaw Type (Angle): medium
 
-2025-07-17 23:02:53 - log_settings - INFO - Image: test_photos/medium 5.png
+2025-07-17 23:21:43 - log_settings - INFO - Image: test_photos/medium 5.png
 	Jaw Type: narrow
 	Left Temple: [0.19671863 0.51424122]
 	Right Temple: [0.77643669 0.517407  ]
@@ -210,7 +210,7 @@
 	Right Angle: 131.79 degrees
 	Jaw Type (Angle): medium
 
-2025-07-17 23:02:53 - log_settings - INFO - Image: test_photos/medium 13.png
+2025-07-17 23:21:43 - log_settings - INFO - Image: test_photos/medium 13.png
 	Jaw Type: medium
 	Left Temple: [0.2819261  0.54679883]
 	Right Temple: [0.74280596 0.54476869]
@@ -226,7 +226,7 @@
 	Right Angle: 129.22 degrees
 	Jaw Type (Angle): narrow
 
-2025-07-17 23:02:53 - log_settings - INFO - Image: test_photos/wide 2.png
+2025-07-17 23:21:43 - log_settings - INFO - Image: test_photos/wide 2.png
 	Jaw Type: wide
 	Left Temple: [0.2497935  0.51290655]
 	Right Temple: [0.7477383  0.51104039]
@@ -242,7 +242,7 @@
 	Right Angle: 135.43 degrees
 	Jaw Type (Angle): wide
 
-2025-07-17 23:02:53 - log_settings - INFO - Image: test_photos/wide Josh_Hutcherson.webp
+2025-07-17 23:21:43 - log_settings - INFO - Image: test_photos/wide Josh_Hutcherson.webp
 	Jaw Type: wide
 	Left Temple: [0.2361072  0.48247054]
 	Right Temple: [0.71926439 0.46578401]
@@ -258,7 +258,7 @@
 	Right Angle: 130.29 degrees
 	Jaw Type (Angle): wide
 
-2025-07-17 23:02:53 - log_settings - INFO - Image: test_photos/narrow gosling.webp
+2025-07-17 23:21:43 - log_settings - INFO - Image: test_photos/narrow gosling.webp
 	Jaw Type: wide
 	Left Temple: [0.1962952 0.3959305]
 	Right Temple: [0.71953928 0.4031505 ]
@@ -274,15 +274,15 @@
 	Right Angle: 133.66 degrees
 	Jaw Type (Angle): wide
 
-2025-07-17 23:02:53 - log_settings - INFO - Total Accuracy: 73.68%
+2025-07-17 23:21:43 - log_settings - INFO - Total Accuracy: 73.68%
 
-2025-07-17 23:02:53 - log_settings - INFO - Valid classification: 14; Errors: 5
+2025-07-17 23:21:43 - log_settings - INFO - Valid classification: 14; Errors: 5
 
-2025-07-17 23:02:53 - log_settings - INFO - Total Accuracy Angle: 70.59%
+2025-07-17 23:21:43 - log_settings - INFO - Total Accuracy Angle: 70.59%
 
-2025-07-17 23:02:53 - log_settings - INFO - Valid classification angle: 12; Errors angle: 5
+2025-07-17 23:21:43 - log_settings - INFO - Valid classification angle: 12; Errors angle: 5
 
-2025-07-17 23:02:53 - log_settings - INFO - Image: Unknown/photo_2025-07-15_05-23-21.jpg
+2025-07-17 23:21:43 - log_settings - INFO - Image: Unknown/photo_2025-07-15_05-23-21.jpg
 	Jaw Type: wide
 	Left Temple: [0.19639844 0.27292129]
 	Right Temple: [0.57995808 0.26011682]
@@ -298,9 +298,9 @@
 	Right Angle: 134.15 degrees
 	Jaw Type (Angle): wide
 
-2025-07-17 23:02:53 - log_settings - INFO - Processed image saved to: output_images/photo_2025-07-15_05-23-21.jpg
+2025-07-17 23:21:45 - log_settings - INFO - Processed image saved to: output_images/photo_2025-07-15_05-23-21.jpg
 
-2025-07-17 23:02:55 - log_settings - INFO - Image: Unknown/photo_2025-07-15_05-23-40.jpg
+2025-07-17 23:21:47 - log_settings - INFO - Image: Unknown/photo_2025-07-15_05-23-40.jpg
 	Jaw Type: medium
 	Left Temple: [0.32034793 0.38946933]
 	Right Temple: [0.65704262 0.37095219]
@@ -316,9 +316,9 @@
 	Right Angle: 126.28 degrees
 	Jaw Type (Angle): narrow
 
-2025-07-17 23:02:55 - log_settings - INFO - Processed image saved to: output_images/photo_2025-07-15_05-23-40.jpg
+2025-07-17 23:21:47 - log_settings - INFO - Processed image saved to: output_images/photo_2025-07-15_05-23-40.jpg
 
-2025-07-17 23:02:57 - log_settings - INFO - Image: Unknown/photo_2025-07-15_05-23-27.jpg
+2025-07-17 23:21:49 - log_settings - INFO - Image: Unknown/photo_2025-07-15_05-23-27.jpg
 	Jaw Type: wide
 	Left Temple: [0.26876596 0.39736125]
 	Right Temple: [0.75567377 0.40135044]
@@ -334,9 +334,9 @@
 	Right Angle: 133.57 degrees
 	Jaw Type (Angle): medium
 
-2025-07-17 23:02:57 - log_settings - INFO - Processed image saved to: output_images/photo_2025-07-15_05-23-27.jpg
+2025-07-17 23:21:49 - log_settings - INFO - Processed image saved to: output_images/photo_2025-07-15_05-23-27.jpg
 
-2025-07-17 23:02:59 - log_settings - INFO - Image: Unknown/photo_2025-07-15_05-23-31.jpg
+2025-07-17 23:21:51 - log_settings - INFO - Image: Unknown/photo_2025-07-15_05-23-31.jpg
 	Jaw Type: narrow
 	Left Temple: [0.31853291 0.44653174]
 	Right Temple: [0.67786312 0.41714269]
@@ -352,9 +352,9 @@
 	Right Angle: 118.19 degrees
 	Jaw Type (Angle): narrow
 
-2025-07-17 23:03:00 - log_settings - INFO - Processed image saved to: output_images/photo_2025-07-15_05-23-31.jpg
+2025-07-17 23:21:51 - log_settings - INFO - Processed image saved to: output_images/photo_2025-07-15_05-23-31.jpg
 
-2025-07-17 23:03:02 - log_settings - INFO - Image: Unknown/photo_2025-07-15_05-23-52.jpg
+2025-07-17 23:21:53 - log_settings - INFO - Image: Unknown/photo_2025-07-15_05-23-52.jpg
 	Jaw Type: wide
 	Left Temple: [0.24072607 0.39534557]
 	Right Temple: [0.72107297 0.37171954]
@@ -370,9 +370,9 @@
 	Right Angle: 132.12 degrees
 	Jaw Type (Angle): wide
 
-2025-07-17 23:03:02 - log_settings - INFO - Processed image saved to: output_images/photo_2025-07-15_05-23-52.jpg
+2025-07-17 23:21:53 - log_settings - INFO - Processed image saved to: output_images/photo_2025-07-15_05-23-52.jpg
 
-2025-07-17 23:03:04 - log_settings - INFO - Image: Unknown/photo_2025-07-15_05-23-44.jpg
+2025-07-17 23:21:55 - log_settings - INFO - Image: Unknown/photo_2025-07-15_05-23-44.jpg
 	Jaw Type: medium
 	Left Temple: [0.30191803 0.46880096]
 	Right Temple: [0.72783977 0.45910648]
@@ -388,9 +388,9 @@
 	Right Angle: 124.17 degrees
 	Jaw Type (Angle): narrow
 
-2025-07-17 23:03:04 - log_settings - INFO - Processed image saved to: output_images/photo_2025-07-15_05-23-44.jpg
+2025-07-17 23:21:55 - log_settings - INFO - Processed image saved to: output_images/photo_2025-07-15_05-23-44.jpg
 
-2025-07-17 23:03:06 - log_settings - INFO - Image: Unknown/photo_2025-07-15_05-22-58.jpg
+2025-07-17 23:21:57 - log_settings - INFO - Image: Unknown/photo_2025-07-15_05-22-58.jpg
 	Jaw Type: wide
 	Left Temple: [0.22289482 0.49293539]
 	Right Temple: [0.7852639  0.48037633]
@@ -406,9 +406,9 @@
 	Right Angle: 136.14 degrees
 	Jaw Type (Angle): wide
 
-2025-07-17 23:03:06 - log_settings - INFO - Processed image saved to: output_images/photo_2025-07-15_05-22-58.jpg
+2025-07-17 23:21:57 - log_settings - INFO - Processed image saved to: output_images/photo_2025-07-15_05-22-58.jpg
 
-2025-07-17 23:03:08 - log_settings - INFO - Image: Unknown/photo_2025-07-15_05-23-34.jpg
+2025-07-17 23:21:59 - log_settings - INFO - Image: Unknown/photo_2025-07-15_05-23-34.jpg
 	Jaw Type: narrow
 	Left Temple: [0.21452186 0.54331708]
 	Right Temple: [0.80453879 0.51926482]
@@ -424,9 +424,9 @@
 	Right Angle: 123.33 degrees
 	Jaw Type (Angle): narrow
 
-2025-07-17 23:03:08 - log_settings - INFO - Processed image saved to: output_images/photo_2025-07-15_05-23-34.jpg
+2025-07-17 23:22:00 - log_settings - INFO - Processed image saved to: output_images/photo_2025-07-15_05-23-34.jpg
 
-2025-07-17 23:03:10 - log_settings - INFO - Image: Unknown/photo_2025-07-15_05-23-16.jpg
+2025-07-17 23:22:02 - log_settings - INFO - Image: Unknown/photo_2025-07-15_05-23-16.jpg
 	Jaw Type: wide
 	Left Temple: [0.32037348 0.34826514]
 	Right Temple: [0.67486691 0.33183369]
@@ -442,9 +442,9 @@
 	Right Angle: 137.63 degrees
 	Jaw Type (Angle): wide
 
-2025-07-17 23:03:10 - log_settings - INFO - Processed image saved to: output_images/photo_2025-07-15_05-23-16.jpg
+2025-07-17 23:22:02 - log_settings - INFO - Processed image saved to: output_images/photo_2025-07-15_05-23-16.jpg
 
-2025-07-17 23:03:12 - log_settings - INFO - Image: Unknown/photo_2025-07-15_05-23-47.jpg
+2025-07-17 23:22:04 - log_settings - INFO - Image: Unknown/photo_2025-07-15_05-23-47.jpg
 	Jaw Type: wide
 	Left Temple: [0.31119928 0.31068915]
 	Right Temple: [0.6519801  0.30663246]
@@ -460,1333 +460,1037 @@
 	Right Angle: 137.46 degrees
 	Jaw Type (Angle): wide
 
-2025-07-17 23:03:13 - log_settings - INFO - Processed image saved to: output_images/photo_2025-07-15_05-23-47.jpg
+2025-07-17 23:22:04 - log_settings - INFO - Processed image saved to: output_images/photo_2025-07-15_05-23-47.jpg
 
-2025-07-17 23:03:15 - log_settings - INFO - Result:
+2025-07-17 23:22:06 - log_settings - INFO - Image: New_Unknown/Men_Jim_Carrey_Face_Smile_574132_1280x851.jpg
 	Jaw Type: narrow
-	Left Temple: [0.41925892 0.68197024]
-	Right Temple: [0.60600412 0.69354498]
-	Jaw Point: [0.50421017 0.92172706]
-	Lips: [0.50516844 0.81865597]
-	Forehead Point: [0.51197702 0.52737379]
-	Chin-Lips Distance: 0.10 pixels
-	Chin-Lips Distance Percent: 10.31 pixels
-	Temple Distance: 0.19 pixels
-	Temple Distance Percent: 18.71 pixels
-	Percent: 55.09%
-	Left Angle: 70.49 degrees
-	Right Angle: 114.04 degrees
-	Jaw Type (Angel): narrow
+	Left Temple: [0.36183947 0.44369251]
+	Right Temple: [0.58585185 0.47142509]
+	Jaw Point: [0.45525774 0.66809803]
+	Lips: [0.45914733 0.54172003]
+	Forehead Point: [0.46918505 0.28752238]
+	Chin-Lips Distance: 0.13 pixels
+	Chin-Lips Distance Percent: 12.64 pixels
+	Temple Distance: 0.23 pixels
+	Temple Distance Percent: 22.57 pixels
+	Percent: 56.01%
+	Left Angle: 67.40 degrees
+	Right Angle: 123.58 degrees
+	Jaw Type (Angle): narrow
 
-2025-07-17 23:03:16 - log_settings - INFO - Result:
-	Jaw Type: narrow
-	Left Temple: [0.42020077 0.68030477]
-	Right Temple: [0.60683906 0.68968153]
-	Jaw Point: [0.5048517  0.91719985]
-	Lips: [0.50527364 0.8113656 ]
-	Forehead Point: [0.5116778  0.52629328]
+2025-07-17 23:22:06 - log_settings - INFO - Processed image saved to: output_images/Men_Jim_Carrey_Face_Smile_574132_1280x851.jpg
+
+2025-07-17 23:22:08 - log_settings - INFO - Image: New_Unknown/famoust_funny_people_01.jpg
+	Jaw Type: wide
+	Left Temple: [0.20640767 0.53610176]
+	Right Temple: [0.76314461 0.53955156]
+	Jaw Point: [0.50097615 0.88173068]
+	Lips: [0.50955176 0.7295301 ]
+	Forehead Point: [0.51216567 0.31341749]
+	Chin-Lips Distance: 0.15 pixels
+	Chin-Lips Distance Percent: 15.24 pixels
+	Temple Distance: 0.56 pixels
+	Temple Distance Percent: 55.67 pixels
+	Percent: 27.38%
+	Left Angle: 49.56 degrees
+	Right Angle: 127.46 degrees
+	Jaw Type (Angle): medium
+
+2025-07-17 23:22:08 - log_settings - INFO - Processed image saved to: output_images/famoust_funny_people_01.jpg
+
+2025-07-17 23:22:10 - log_settings - INFO - Image: New_Unknown/10_1.jpg
+	Jaw Type: medium
+	Left Temple: [0.27211484 0.41722551]
+	Right Temple: [0.72430032 0.40174294]
+	Jaw Point: [0.51060557 0.64639181]
+	Lips: [0.50452787 0.50782806]
+	Forehead Point: [0.48848781 0.23765102]
+	Chin-Lips Distance: 0.14 pixels
+	Chin-Lips Distance Percent: 13.87 pixels
+	Temple Distance: 0.45 pixels
+	Temple Distance Percent: 45.25 pixels
+	Percent: 30.65%
+	Left Angle: 43.86 degrees
+	Right Angle: 131.14 degrees
+	Jaw Type (Angle): wide
+
+2025-07-17 23:22:11 - log_settings - INFO - Processed image saved to: output_images/10_1.jpg
+
+2025-07-17 23:22:12 - log_settings - INFO - Image: New_Unknown/29dd397b0e647d14b4ffc279aefeb2fc.jpg
+	Jaw Type: wide
+	Left Temple: [0.24090137 0.3604036 ]
+	Right Temple: [0.68634796 0.35803923]
+	Jaw Point: [0.43890199 0.57562584]
+	Lips: [0.42489088 0.46784344]
+	Forehead Point: [0.42685094 0.20398428]
 	Chin-Lips Distance: 0.11 pixels
-	Chin-Lips Distance Percent: 10.58 pixels
-	Temple Distance: 0.19 pixels
-	Temple Distance Percent: 18.69 pixels
-	Percent: 56.63%
-	Left Angle: 70.34 degrees
-	Right Angle: 114.14 degrees
+	Chin-Lips Distance Percent: 10.87 pixels
+	Temple Distance: 0.45 pixels
+	Temple Distance Percent: 44.55 pixels
+	Percent: 24.40%
+	Left Angle: 47.39 degrees
+	Right Angle: 138.67 degrees
+	Jaw Type (Angle): medium
+
+2025-07-17 23:22:13 - log_settings - INFO - Processed image saved to: output_images/29dd397b0e647d14b4ffc279aefeb2fc.jpg
+
+2025-07-17 23:22:15 - log_settings - INFO - Image: New_Unknown/istockphoto-1164505580-612x612.jpg
+	Jaw Type: narrow
+	Left Temple: [0.41980147 0.1670913 ]
+	Right Temple: [0.64509004 0.34186405]
+	Jaw Point: [0.53894901 0.59020412]
+	Lips: [0.61606044 0.46821511]
+	Forehead Point: [0.69902045 0.13893858]
+	Chin-Lips Distance: 0.14 pixels
+	Chin-Lips Distance Percent: 14.43 pixels
+	Temple Distance: 0.29 pixels
+	Temple Distance Percent: 28.51 pixels
+	Percent: 50.61%
+	Left Angle: 74.27 degrees
+	Right Angle: 113.14 degrees
+	Jaw Type (Angle): narrow
+
+2025-07-17 23:22:15 - log_settings - INFO - Processed image saved to: output_images/istockphoto-1164505580-612x612.jpg
+
+2025-07-17 23:22:17 - log_settings - INFO - Image: New_Unknown/366200-ice-cherry.jpg
+	Jaw Type: narrow
+	Left Temple: [0.32970154 0.4364852 ]
+	Right Temple: [0.67865598 0.53684866]
+	Jaw Point: [0.45554858 0.88927007]
+	Lips: [0.47186875 0.71255624]
+	Forehead Point: [0.52251923 0.2357794 ]
+	Chin-Lips Distance: 0.18 pixels
+	Chin-Lips Distance Percent: 17.75 pixels
+	Temple Distance: 0.36 pixels
+	Temple Distance Percent: 36.31 pixels
+	Percent: 48.88%
+	Left Angle: 74.47 degrees
+	Right Angle: 122.34 degrees
+	Jaw Type (Angle): narrow
+
+2025-07-17 23:22:17 - log_settings - INFO - Processed image saved to: output_images/366200-ice-cherry.jpg
+
+2025-07-17 23:22:19 - log_settings - INFO - Image: New_Unknown/images.jpeg
+	Jaw Type: narrow
+	Left Temple: [0.28563955 0.51709872]
+	Right Temple: [0.73520541 0.53641832]
+	Jaw Point: [0.49769074 0.8370111 ]
+	Lips: [0.50576341 0.65914011]
+	Forehead Point: [0.52364355 0.28787264]
+	Chin-Lips Distance: 0.18 pixels
+	Chin-Lips Distance Percent: 17.81 pixels
+	Temple Distance: 0.45 pixels
+	Temple Distance Percent: 45.00 pixels
+	Percent: 39.57%
+	Left Angle: 56.46 degrees
+	Right Angle: 128.31 degrees
+	Jaw Type (Angle): narrow
+
+2025-07-17 23:22:19 - log_settings - INFO - Processed image saved to: output_images/images.jpeg
+
+2025-07-17 23:22:21 - log_settings - INFO - Image: New_Unknown/images (2).jpeg
+	Jaw Type: narrow
+	Left Temple: [0.26780584 0.35789263]
+	Right Temple: [0.70752513 0.48741981]
+	Jaw Point: [0.2912721  0.71625614]
+	Lips: [0.315763   0.54743266]
+	Forehead Point: [0.44574946 0.17568636]
+	Chin-Lips Distance: 0.17 pixels
+	Chin-Lips Distance Percent: 17.06 pixels
+	Temple Distance: 0.46 pixels
+	Temple Distance Percent: 45.84 pixels
+	Percent: 37.21%
+	Left Angle: 86.25 degrees
+	Right Angle: 151.20 degrees
+	Jaw Type (Angle): narrow
+
+2025-07-17 23:22:21 - log_settings - INFO - Processed image saved to: output_images/images (2).jpeg
+
+2025-07-17 23:22:23 - log_settings - INFO - Image: New_Unknown/images (3).jpeg
+	Jaw Type: narrow
+	Left Temple: [0.3767828  0.47073072]
+	Right Temple: [0.61536717 0.46288249]
+	Jaw Point: [0.49904197 0.85184503]
+	Lips: [0.49842677 0.67071187]
+	Forehead Point: [0.4945446  0.22404253]
+	Chin-Lips Distance: 0.18 pixels
+	Chin-Lips Distance Percent: 18.11 pixels
+	Temple Distance: 0.24 pixels
+	Temple Distance Percent: 23.87 pixels
+	Percent: 75.88%
+	Left Angle: 72.21 degrees
+	Right Angle: 106.65 degrees
+	Jaw Type (Angle): narrow
+
+2025-07-17 23:22:23 - log_settings - INFO - Processed image saved to: output_images/images (3).jpeg
+
+2025-07-17 23:22:25 - log_settings - INFO - Image: New_Unknown/images (1).jpeg
+	Jaw Type: wide
+	Left Temple: [0.2277391  0.58748239]
+	Right Temple: [0.73612452 0.55147296]
+	Jaw Point: [0.50819546 0.86182487]
+	Lips: [0.49447134 0.72470415]
+	Forehead Point: [0.45907944 0.36484253]
+	Chin-Lips Distance: 0.14 pixels
+	Chin-Lips Distance Percent: 13.78 pixels
+	Temple Distance: 0.51 pixels
+	Temple Distance Percent: 50.97 pixels
+	Percent: 27.04%
+	Left Angle: 44.37 degrees
+	Right Angle: 126.29 degrees
+	Jaw Type (Angle): wide
+
+2025-07-17 23:22:25 - log_settings - INFO - Processed image saved to: output_images/images (1).jpeg
+
+2025-07-17 23:22:27 - log_settings - INFO - Image: New_Unknown/resize.jpeg
+	Jaw Type: medium
+	Left Temple: [0.25597507 0.38366422]
+	Right Temple: [0.65395635 0.35423425]
+	Jaw Point: [0.44015241 0.61213171]
+	Lips: [0.41451508 0.48830786]
+	Forehead Point: [0.38978264 0.19206257]
+	Chin-Lips Distance: 0.13 pixels
+	Chin-Lips Distance Percent: 12.65 pixels
+	Temple Distance: 0.40 pixels
+	Temple Distance Percent: 39.91 pixels
+	Percent: 31.69%
+	Left Angle: 51.13 degrees
+	Right Angle: 129.66 degrees
+	Jaw Type (Angle): narrow
+
+2025-07-17 23:22:28 - log_settings - INFO - Processed image saved to: output_images/resize.jpeg
+
+2025-07-17 23:22:30 - log_settings - INFO - Image: New_Unknown/png-transparent-rihanna-mask-face-celebrity-musician-rihanna-face-black-hair-head.png
+	Jaw Type: narrow
+	Left Temple: [0.30490899 0.59011257]
+	Right Temple: [0.68892676 0.58200723]
+	Jaw Point: [0.50444889 0.90415609]
+	Lips: [0.49987471 0.74422383]
+	Forehead Point: [0.48948357 0.36480942]
+	Chin-Lips Distance: 0.16 pixels
+	Chin-Lips Distance Percent: 16.00 pixels
+	Temple Distance: 0.38 pixels
+	Temple Distance Percent: 38.41 pixels
+	Percent: 41.65%
+	Left Angle: 57.57 degrees
+	Right Angle: 119.80 degrees
+	Jaw Type (Angle): narrow
+
+2025-07-17 23:22:30 - log_settings - INFO - Processed image saved to: output_images/png-transparent-rihanna-mask-face-celebrity-musician-rihanna-face-black-hair-head.png
+
+2025-07-17 23:22:33 - log_settings - INFO - Result:
+	Jaw Type: narrow
+	Left Temple: [0.38437587 0.7532056 ]
+	Right Temple: [0.54686701 0.75732833]
+	Jaw Point: [0.46571288 0.95253277]
+	Lips: [0.46721256 0.86002612]
+	Forehead Point: [0.46914613 0.62517643]
+	Chin-Lips Distance: 0.09 pixels
+	Chin-Lips Distance Percent: 9.25 pixels
+	Temple Distance: 0.16 pixels
+	Temple Distance Percent: 16.25 pixels
+	Percent: 56.92%
+	Left Angle: 67.80 degrees
+	Right Angle: 112.57 degrees
 	Jaw Type (Angel): narrow
 
-2025-07-17 23:03:16 - log_settings - INFO - Result:
+2025-07-17 23:22:33 - log_settings - INFO - Result:
 	Jaw Type: narrow
-	Left Temple: [0.41986221 0.67901367]
-	Right Temple: [0.60769969 0.68462759]
-	Jaw Point: [0.50868124 0.91189188]
-	Lips: [0.50979972 0.80141377]
-	Forehead Point: [0.51451802 0.51976138]
-	Chin-Lips Distance: 0.11 pixels
-	Chin-Lips Distance Percent: 11.05 pixels
-	Temple Distance: 0.19 pixels
-	Temple Distance Percent: 18.79 pixels
-	Percent: 58.79%
-	Left Angle: 69.12 degrees
-	Right Angle: 113.54 degrees
-	Jaw Type (Angel): narrow
-
-2025-07-17 23:03:16 - log_settings - INFO - Result:
-	Jaw Type: narrow
-	Left Temple: [0.42223868 0.67890435]
-	Right Temple: [0.60947454 0.68170488]
-	Jaw Point: [0.51148236 0.90554082]
-	Lips: [0.51205552 0.79708451]
-	Forehead Point: [0.51596379 0.52115834]
-	Chin-Lips Distance: 0.11 pixels
-	Chin-Lips Distance Percent: 10.85 pixels
-	Temple Distance: 0.19 pixels
-	Temple Distance Percent: 18.73 pixels
-	Percent: 57.92%
-	Left Angle: 68.51 degrees
-	Right Angle: 113.64 degrees
-	Jaw Type (Angel): narrow
-
-2025-07-17 23:03:16 - log_settings - INFO - Result:
-	Jaw Type: narrow
-	Left Temple: [0.42287645 0.67689407]
-	Right Temple: [0.61036414 0.68080992]
-	Jaw Point: [0.51248813 0.90628058]
-	Lips: [0.51282126 0.79681957]
-	Forehead Point: [0.51671302 0.52291185]
-	Chin-Lips Distance: 0.11 pixels
-	Chin-Lips Distance Percent: 10.95 pixels
-	Temple Distance: 0.19 pixels
-	Temple Distance Percent: 18.75 pixels
-	Percent: 58.37%
-	Left Angle: 68.66 degrees
-	Right Angle: 113.47 degrees
-	Jaw Type (Angel): narrow
-
-2025-07-17 23:03:16 - log_settings - INFO - Result:
-	Jaw Type: narrow
-	Left Temple: [0.42362899 0.67719388]
-	Right Temple: [0.60957307 0.68287188]
-	Jaw Point: [0.51159167 0.90470648]
-	Lips: [0.51240402 0.7939896 ]
-	Forehead Point: [0.51686084 0.52204549]
-	Chin-Lips Distance: 0.11 pixels
-	Chin-Lips Distance Percent: 11.07 pixels
-	Temple Distance: 0.19 pixels
-	Temple Distance Percent: 18.60 pixels
-	Percent: 59.52%
-	Left Angle: 68.86 degrees
-	Right Angle: 113.83 degrees
-	Jaw Type (Angel): narrow
-
-2025-07-17 23:03:17 - log_settings - INFO - Result:
-	Jaw Type: narrow
-	Left Temple: [0.42402297 0.67526364]
-	Right Temple: [0.61057627 0.68108344]
-	Jaw Point: [0.51241201 0.91106021]
-	Lips: [0.51254052 0.80261087]
-	Forehead Point: [0.51736075 0.5227868 ]
-	Chin-Lips Distance: 0.11 pixels
-	Chin-Lips Distance Percent: 10.84 pixels
-	Temple Distance: 0.19 pixels
-	Temple Distance Percent: 18.66 pixels
-	Percent: 58.10%
-	Left Angle: 69.45 degrees
-	Right Angle: 113.11 degrees
-	Jaw Type (Angel): narrow
-
-2025-07-17 23:03:17 - log_settings - INFO - Result:
-	Jaw Type: narrow
-	Left Temple: [0.42344782 0.67952442]
-	Right Temple: [0.60994142 0.68619448]
-	Jaw Point: [0.51179898 0.91428673]
-	Lips: [0.51290584 0.80564356]
-	Forehead Point: [0.51794225 0.52548641]
-	Chin-Lips Distance: 0.11 pixels
-	Chin-Lips Distance Percent: 10.86 pixels
-	Temple Distance: 0.19 pixels
-	Temple Distance Percent: 18.66 pixels
-	Percent: 58.22%
-	Left Angle: 69.38 degrees
-	Right Angle: 113.28 degrees
-	Jaw Type (Angel): narrow
-
-2025-07-17 23:03:17 - log_settings - INFO - Result:
-	Jaw Type: narrow
-	Left Temple: [0.42153588 0.6776213 ]
-	Right Temple: [0.60823929 0.68534476]
-	Jaw Point: [0.50982922 0.91390586]
-	Lips: [0.51079094 0.80384862]
-	Forehead Point: [0.5160324  0.52306694]
-	Chin-Lips Distance: 0.11 pixels
-	Chin-Lips Distance Percent: 11.01 pixels
-	Temple Distance: 0.19 pixels
-	Temple Distance Percent: 18.69 pixels
-	Percent: 58.90%
-	Left Angle: 69.51 degrees
-	Right Angle: 113.29 degrees
-	Jaw Type (Angel): narrow
-
-2025-07-17 23:03:17 - log_settings - INFO - Result:
-	Jaw Type: narrow
-	Left Temple: [0.42126942 0.67589945]
-	Right Temple: [0.60795963 0.68267703]
-	Jaw Point: [0.51056731 0.91257393]
-	Lips: [0.51093847 0.80243099]
-	Forehead Point: [0.51528102 0.52297318]
-	Chin-Lips Distance: 0.11 pixels
-	Chin-Lips Distance Percent: 11.01 pixels
-	Temple Distance: 0.19 pixels
-	Temple Distance Percent: 18.68 pixels
-	Percent: 58.96%
-	Left Angle: 69.33 degrees
-	Right Angle: 112.96 degrees
-	Jaw Type (Angel): narrow
-
-2025-07-17 23:03:17 - log_settings - INFO - Result:
-	Jaw Type: narrow
-	Left Temple: [0.42095417 0.6777696 ]
-	Right Temple: [0.60734928 0.68473935]
-	Jaw Point: [0.50881261 0.9120369 ]
-	Lips: [0.50882411 0.80184633]
-	Forehead Point: [0.51386094 0.51996684]
-	Chin-Lips Distance: 0.11 pixels
-	Chin-Lips Distance Percent: 11.02 pixels
-	Temple Distance: 0.19 pixels
-	Temple Distance Percent: 18.65 pixels
-	Percent: 59.08%
-	Left Angle: 69.44 degrees
-	Right Angle: 113.44 degrees
-	Jaw Type (Angel): narrow
-
-2025-07-17 23:03:18 - log_settings - INFO - Result:
-	Jaw Type: narrow
-	Left Temple: [0.4183653  0.67685449]
-	Right Temple: [0.60344654 0.68128532]
-	Jaw Point: [0.50576442 0.90762639]
-	Lips: [0.50529218 0.80051947]
-	Forehead Point: [0.50920004 0.52264714]
-	Chin-Lips Distance: 0.11 pixels
-	Chin-Lips Distance Percent: 10.71 pixels
-	Temple Distance: 0.19 pixels
-	Temple Distance Percent: 18.51 pixels
-	Percent: 57.85%
-	Left Angle: 69.26 degrees
-	Right Angle: 113.34 degrees
-	Jaw Type (Angel): narrow
-
-2025-07-17 23:03:18 - log_settings - INFO - Result:
-	Jaw Type: narrow
-	Left Temple: [0.41762877 0.6760444 ]
-	Right Temple: [0.60389692 0.68069184]
-	Jaw Point: [0.50488329 0.9064939 ]
-	Lips: [0.50409132 0.8023234 ]
-	Forehead Point: [0.50790191 0.52655792]
-	Chin-Lips Distance: 0.10 pixels
-	Chin-Lips Distance Percent: 10.42 pixels
-	Temple Distance: 0.19 pixels
-	Temple Distance Percent: 18.63 pixels
-	Percent: 55.91%
-	Left Angle: 69.26 degrees
-	Right Angle: 113.68 degrees
-	Jaw Type (Angel): narrow
-
-2025-07-17 23:03:18 - log_settings - INFO - Result:
-	Jaw Type: narrow
-	Left Temple: [0.4184258  0.67545366]
-	Right Temple: [0.60426605 0.68173903]
-	Jaw Point: [0.50519794 0.90693605]
-	Lips: [0.50456715 0.79899573]
-	Forehead Point: [0.50927258 0.51973069]
-	Chin-Lips Distance: 0.11 pixels
-	Chin-Lips Distance Percent: 10.79 pixels
-	Temple Distance: 0.19 pixels
-	Temple Distance Percent: 18.59 pixels
-	Percent: 58.05%
-	Left Angle: 69.45 degrees
-	Right Angle: 113.75 degrees
-	Jaw Type (Angel): narrow
-
-2025-07-17 23:03:18 - log_settings - INFO - Result:
-	Jaw Type: narrow
-	Left Temple: [0.41988    0.67296064]
-	Right Temple: [0.6059671  0.68054438]
-	Jaw Point: [0.50932938 0.90400016]
-	Lips: [0.51054454 0.79253519]
-	Forehead Point: [0.51488906 0.5204289 ]
-	Chin-Lips Distance: 0.11 pixels
-	Chin-Lips Distance Percent: 11.15 pixels
-	Temple Distance: 0.19 pixels
-	Temple Distance Percent: 18.62 pixels
-	Percent: 59.85%
-	Left Angle: 68.84 degrees
-	Right Angle: 113.39 degrees
-	Jaw Type (Angel): narrow
-
-2025-07-17 23:03:18 - log_settings - INFO - Result:
-	Jaw Type: narrow
-	Left Temple: [0.4209038  0.67211622]
-	Right Temple: [0.60585576 0.68098044]
-	Jaw Point: [0.51096988 0.90437591]
-	Lips: [0.51276624 0.78902805]
-	Forehead Point: [0.51727498 0.51924849]
-	Chin-Lips Distance: 0.12 pixels
-	Chin-Lips Distance Percent: 11.54 pixels
-	Temple Distance: 0.19 pixels
-	Temple Distance Percent: 18.52 pixels
-	Percent: 62.30%
-	Left Angle: 68.80 degrees
-	Right Angle: 113.01 degrees
-	Jaw Type (Angel): narrow
-
-2025-07-17 23:03:18 - log_settings - INFO - Result:
-	Jaw Type: narrow
-	Left Temple: [0.42243412 0.67129099]
-	Right Temple: [0.60662341 0.68025899]
-	Jaw Point: [0.51262182 0.90220183]
-	Lips: [0.51478237 0.78680223]
-	Forehead Point: [0.5185169  0.51277441]
-	Chin-Lips Distance: 0.12 pixels
-	Chin-Lips Distance Percent: 11.54 pixels
-	Temple Distance: 0.18 pixels
-	Temple Distance Percent: 18.44 pixels
-	Percent: 62.59%
-	Left Angle: 68.67 degrees
-	Right Angle: 112.95 degrees
-	Jaw Type (Angel): narrow
-
-2025-07-17 23:03:19 - log_settings - INFO - Result:
-	Jaw Type: narrow
-	Left Temple: [0.42390984 0.66910094]
-	Right Temple: [0.60728753 0.67973137]
-	Jaw Point: [0.51501626 0.90201509]
-	Lips: [0.51806664 0.78781164]
-	Forehead Point: [0.52157819 0.51569086]
-	Chin-Lips Distance: 0.11 pixels
-	Chin-Lips Distance Percent: 11.42 pixels
-	Temple Distance: 0.18 pixels
-	Temple Distance Percent: 18.37 pixels
-	Percent: 62.20%
-	Left Angle: 68.64 degrees
-	Right Angle: 112.54 degrees
-	Jaw Type (Angel): narrow
-
-2025-07-17 23:03:19 - log_settings - INFO - Result:
-	Jaw Type: narrow
-	Left Temple: [0.42432651 0.66988724]
-	Right Temple: [0.60767055 0.68124449]
-	Jaw Point: [0.51565105 0.90185386]
-	Lips: [0.51851678 0.78678834]
-	Forehead Point: [0.52156138 0.52010059]
-	Chin-Lips Distance: 0.12 pixels
-	Chin-Lips Distance Percent: 11.51 pixels
-	Temple Distance: 0.18 pixels
-	Temple Distance Percent: 18.37 pixels
-	Percent: 62.66%
-	Left Angle: 68.51 degrees
-	Right Angle: 112.64 degrees
-	Jaw Type (Angel): narrow
-
-2025-07-17 23:03:19 - log_settings - INFO - Result:
-	Jaw Type: narrow
-	Left Temple: [0.42450175 0.67067516]
-	Right Temple: [0.60714412 0.68438756]
-	Jaw Point: [0.51593965 0.90173352]
-	Lips: [0.51992756 0.78907663]
-	Forehead Point: [0.52376956 0.52337742]
-	Chin-Lips Distance: 0.11 pixels
-	Chin-Lips Distance Percent: 11.27 pixels
-	Temple Distance: 0.18 pixels
-	Temple Distance Percent: 18.32 pixels
-	Percent: 61.55%
-	Left Angle: 68.41 degrees
-	Right Angle: 112.76 degrees
-	Jaw Type (Angel): narrow
-
-2025-07-17 23:03:19 - log_settings - INFO - Result:
-	Jaw Type: narrow
-	Left Temple: [0.42624065 0.66667014]
-	Right Temple: [0.6072759  0.68340695]
-	Jaw Point: [0.51997966 0.89376479]
-	Lips: [0.52604598 0.78048807]
-	Forehead Point: [0.52914631 0.5217002 ]
-	Chin-Lips Distance: 0.11 pixels
-	Chin-Lips Distance Percent: 11.34 pixels
-	Temple Distance: 0.18 pixels
-	Temple Distance Percent: 18.18 pixels
-	Percent: 62.40%
-	Left Angle: 67.57 degrees
-	Right Angle: 112.54 degrees
-	Jaw Type (Angel): narrow
-
-2025-07-17 23:03:19 - log_settings - INFO - Result:
-	Jaw Type: narrow
-	Left Temple: [0.42698252 0.66626644]
-	Right Temple: [0.60739166 0.68015504]
-	Jaw Point: [0.52180988 0.89045113]
-	Lips: [0.52651459 0.78005427]
-	Forehead Point: [0.52776587 0.52197707]
-	Chin-Lips Distance: 0.11 pixels
-	Chin-Lips Distance Percent: 11.05 pixels
-	Temple Distance: 0.18 pixels
-	Temple Distance Percent: 18.09 pixels
-	Percent: 61.07%
-	Left Angle: 67.07 degrees
-	Right Angle: 112.14 degrees
-	Jaw Type (Angel): narrow
-
-2025-07-17 23:03:19 - log_settings - INFO - Result:
-	Jaw Type: narrow
-	Left Temple: [0.42781121 0.66842979]
-	Right Temple: [0.60680103 0.67908186]
-	Jaw Point: [0.52224714 0.89055854]
-	Lips: [0.52784497 0.77764446]
-	Forehead Point: [0.52895284 0.51876974]
-	Chin-Lips Distance: 0.11 pixels
-	Chin-Lips Distance Percent: 11.31 pixels
-	Temple Distance: 0.18 pixels
-	Temple Distance Percent: 17.93 pixels
-	Percent: 63.05%
-	Left Angle: 66.97 degrees
-	Right Angle: 111.79 degrees
-	Jaw Type (Angel): narrow
-
-2025-07-17 23:03:20 - log_settings - INFO - Result:
-	Jaw Type: narrow
-	Left Temple: [0.42641115 0.66876715]
-	Right Temple: [0.60601711 0.68155289]
-	Jaw Point: [0.51989412 0.89036232]
-	Lips: [0.52483898 0.77993131]
-	Forehead Point: [0.52625245 0.52331984]
-	Chin-Lips Distance: 0.11 pixels
-	Chin-Lips Distance Percent: 11.05 pixels
-	Temple Distance: 0.18 pixels
-	Temple Distance Percent: 18.01 pixels
-	Percent: 61.39%
-	Left Angle: 67.13 degrees
-	Right Angle: 112.41 degrees
-	Jaw Type (Angel): narrow
-
-2025-07-17 23:03:20 - log_settings - INFO - Result:
-	Jaw Type: narrow
-	Left Temple: [0.42642048 0.66899103]
-	Right Temple: [0.60718894 0.67767757]
-	Jaw Point: [0.51967108 0.89164501]
-	Lips: [0.52410674 0.7792877 ]
-	Forehead Point: [0.52582133 0.51781416]
-	Chin-Lips Distance: 0.11 pixels
-	Chin-Lips Distance Percent: 11.24 pixels
-	Temple Distance: 0.18 pixels
-	Temple Distance Percent: 18.10 pixels
-	Percent: 62.13%
-	Left Angle: 67.28 degrees
-	Right Angle: 112.25 degrees
-	Jaw Type (Angel): narrow
-
-2025-07-17 23:03:20 - log_settings - INFO - Result:
-	Jaw Type: narrow
-	Left Temple: [0.42785126 0.66726279]
-	Right Temple: [0.60782629 0.68082869]
-	Jaw Point: [0.52042764 0.89449614]
-	Lips: [0.52554363 0.78049022]
-	Forehead Point: [0.52786261 0.52100271]
-	Chin-Lips Distance: 0.11 pixels
-	Chin-Lips Distance Percent: 11.41 pixels
-	Temple Distance: 0.18 pixels
-	Temple Distance Percent: 18.05 pixels
-	Percent: 63.23%
-	Left Angle: 67.83 degrees
-	Right Angle: 112.25 degrees
-	Jaw Type (Angel): narrow
-
-2025-07-17 23:03:20 - log_settings - INFO - Result:
-	Jaw Type: narrow
-	Left Temple: [0.42834732 0.66509485]
-	Right Temple: [0.61060274 0.67541695]
-	Jaw Point: [0.52401888 0.88544196]
-	Lips: [0.52927071 0.77325583]
-	Forehead Point: [0.53016669 0.50842649]
-	Chin-Lips Distance: 0.11 pixels
-	Chin-Lips Distance Percent: 11.23 pixels
-	Temple Distance: 0.18 pixels
-	Temple Distance Percent: 18.25 pixels
-	Percent: 61.52%
-	Left Angle: 66.53 degrees
+	Left Temple: [0.38645926 0.75223029]
+	Right Temple: [0.54741377 0.75529808]
+	Jaw Point: [0.46773055 0.94862628]
+	Lips: [0.46947524 0.85572606]
+	Forehead Point: [0.47181267 0.62456393]
+	Chin-Lips Distance: 0.09 pixels
+	Chin-Lips Distance Percent: 9.29 pixels
+	Temple Distance: 0.16 pixels
+	Temple Distance Percent: 16.10 pixels
+	Percent: 57.72%
+	Left Angle: 67.52 degrees
 	Right Angle: 112.40 degrees
 	Jaw Type (Angel): narrow
 
-2025-07-17 23:03:20 - log_settings - INFO - Result:
+2025-07-17 23:22:33 - log_settings - INFO - Result:
 	Jaw Type: narrow
-	Left Temple: [0.42770028 0.66047251]
-	Right Temple: [0.60848653 0.67167932]
-	Jaw Point: [0.5256806  0.88278192]
-	Lips: [0.53123748 0.7697081 ]
-	Forehead Point: [0.53052056 0.51301724]
-	Chin-Lips Distance: 0.11 pixels
-	Chin-Lips Distance Percent: 11.32 pixels
-	Temple Distance: 0.18 pixels
-	Temple Distance Percent: 18.11 pixels
-	Percent: 62.50%
-	Left Angle: 66.22 degrees
-	Right Angle: 111.42 degrees
-	Jaw Type (Angel): narrow
-
-2025-07-17 23:03:20 - log_settings - INFO - Result:
-	Jaw Type: narrow
-	Left Temple: [0.42825574 0.66032279]
-	Right Temple: [0.60881996 0.67263687]
-	Jaw Point: [0.52557707 0.88315713]
-	Lips: [0.53131306 0.76744533]
-	Forehead Point: [0.53136092 0.51132953]
-	Chin-Lips Distance: 0.12 pixels
-	Chin-Lips Distance Percent: 11.59 pixels
-	Temple Distance: 0.18 pixels
-	Temple Distance Percent: 18.10 pixels
-	Percent: 64.01%
-	Left Angle: 66.41 degrees
-	Right Angle: 111.57 degrees
-	Jaw Type (Angel): narrow
-
-2025-07-17 23:03:21 - log_settings - INFO - Result:
-	Jaw Type: narrow
-	Left Temple: [0.43377617 0.6556561 ]
-	Right Temple: [0.61233288 0.67212045]
-	Jaw Point: [0.53087175 0.87520456]
-	Lips: [0.53745782 0.75899851]
-	Forehead Point: [0.53757411 0.51639652]
-	Chin-Lips Distance: 0.12 pixels
-	Chin-Lips Distance Percent: 11.64 pixels
-	Temple Distance: 0.18 pixels
-	Temple Distance Percent: 17.93 pixels
-	Percent: 64.91%
-	Left Angle: 66.14 degrees
-	Right Angle: 111.86 degrees
-	Jaw Type (Angel): narrow
-
-2025-07-17 23:03:21 - log_settings - INFO - Result:
-	Jaw Type: narrow
-	Left Temple: [0.43591338 0.65318704]
-	Right Temple: [0.61326921 0.67066628]
-	Jaw Point: [0.53172672 0.87172902]
-	Lips: [0.53875065 0.75691348]
-	Forehead Point: [0.53922665 0.51541722]
-	Chin-Lips Distance: 0.12 pixels
-	Chin-Lips Distance Percent: 11.50 pixels
-	Temple Distance: 0.18 pixels
-	Temple Distance Percent: 17.82 pixels
-	Percent: 64.55%
-	Left Angle: 66.33 degrees
-	Right Angle: 112.08 degrees
-	Jaw Type (Angel): narrow
-
-2025-07-17 23:03:21 - log_settings - INFO - Result:
-	Jaw Type: narrow
-	Left Temple: [0.43480939 0.65096796]
-	Right Temple: [0.61206567 0.67254341]
-	Jaw Point: [0.52953762 0.87507039]
-	Lips: [0.53753811 0.75988013]
-	Forehead Point: [0.53981036 0.51680714]
-	Chin-Lips Distance: 0.12 pixels
-	Chin-Lips Distance Percent: 11.55 pixels
-	Temple Distance: 0.18 pixels
-	Temple Distance Percent: 17.86 pixels
-	Percent: 64.66%
-	Left Angle: 67.09 degrees
-	Right Angle: 112.17 degrees
-	Jaw Type (Angel): narrow
-
-2025-07-17 23:03:21 - log_settings - INFO - Result:
-	Jaw Type: narrow
-	Left Temple: [0.43281585 0.65370411]
-	Right Temple: [0.61276257 0.66968036]
-	Jaw Point: [0.52908486 0.87599111]
-	Lips: [0.53607285 0.76890647]
-	Forehead Point: [0.53751028 0.5184347 ]
-	Chin-Lips Distance: 0.11 pixels
-	Chin-Lips Distance Percent: 10.73 pixels
-	Temple Distance: 0.18 pixels
-	Temple Distance Percent: 18.07 pixels
-	Percent: 59.40%
-	Left Angle: 66.58 degrees
-	Right Angle: 112.08 degrees
-	Jaw Type (Angel): narrow
-
-2025-07-17 23:03:21 - log_settings - INFO - Result:
-	Jaw Type: narrow
-	Left Temple: [0.43096393 0.65367633]
-	Right Temple: [0.61146867 0.66860986]
-	Jaw Point: [0.52752376 0.87587142]
-	Lips: [0.53410393 0.76188231]
-	Forehead Point: [0.53527504 0.51259148]
-	Chin-Lips Distance: 0.11 pixels
-	Chin-Lips Distance Percent: 11.42 pixels
-	Temple Distance: 0.18 pixels
-	Temple Distance Percent: 18.11 pixels
-	Percent: 63.04%
-	Left Angle: 66.51 degrees
-	Right Angle: 112.05 degrees
-	Jaw Type (Angel): narrow
-
-2025-07-17 23:03:21 - log_settings - INFO - Result:
-	Jaw Type: narrow
-	Left Temple: [0.42796221 0.65210414]
-	Right Temple: [0.60769594 0.66871774]
-	Jaw Point: [0.52404743 0.87573767]
-	Lips: [0.53091896 0.76298386]
-	Forehead Point: [0.53218359 0.5145784 ]
-	Chin-Lips Distance: 0.11 pixels
-	Chin-Lips Distance Percent: 11.30 pixels
-	Temple Distance: 0.18 pixels
-	Temple Distance Percent: 18.05 pixels
-	Percent: 62.58%
-	Left Angle: 66.75 degrees
-	Right Angle: 112.00 degrees
-	Jaw Type (Angel): narrow
-
-2025-07-17 23:03:22 - log_settings - INFO - Result:
-	Jaw Type: narrow
-	Left Temple: [0.42246899 0.6494332 ]
-	Right Temple: [0.60507858 0.65732926]
-	Jaw Point: [0.52288693 0.87188423]
-	Lips: [0.52888477 0.75720388]
-	Forehead Point: [0.52809596 0.51437914]
-	Chin-Lips Distance: 0.11 pixels
-	Chin-Lips Distance Percent: 11.48 pixels
-	Temple Distance: 0.18 pixels
-	Temple Distance Percent: 18.28 pixels
-	Percent: 62.83%
-	Left Angle: 65.70 degrees
-	Right Angle: 110.96 degrees
-	Jaw Type (Angel): narrow
-
-2025-07-17 23:03:22 - log_settings - INFO - Result:
-	Jaw Type: narrow
-	Left Temple: [0.42558894 0.64392579]
-	Right Temple: [0.60466653 0.64604515]
-	Jaw Point: [0.52333045 0.8467142 ]
-	Lips: [0.52753514 0.73310161]
-	Forehead Point: [0.52683276 0.50338382]
-	Chin-Lips Distance: 0.11 pixels
-	Chin-Lips Distance Percent: 11.37 pixels
-	Temple Distance: 0.18 pixels
-	Temple Distance Percent: 17.91 pixels
-	Percent: 63.48%
-	Left Angle: 64.27 degrees
-	Right Angle: 112.06 degrees
-	Jaw Type (Angel): narrow
-
-2025-07-17 23:03:22 - log_settings - INFO - Result:
-	Jaw Type: narrow
-	Left Temple: [0.43047875 0.6376617 ]
-	Right Temple: [0.60104424 0.65195572]
-	Jaw Point: [0.52190965 0.83779675]
-	Lips: [0.52662438 0.72445077]
-	Forehead Point: [0.52643108 0.49562109]
-	Chin-Lips Distance: 0.11 pixels
-	Chin-Lips Distance Percent: 11.34 pixels
-	Temple Distance: 0.17 pixels
-	Temple Distance Percent: 17.12 pixels
-	Percent: 66.28%
-	Left Angle: 65.45 degrees
-	Right Angle: 113.07 degrees
-	Jaw Type (Angel): narrow
-
-2025-07-17 23:03:22 - log_settings - INFO - Result:
-	Jaw Type: narrow
-	Left Temple: [0.43496218 0.63352108]
-	Right Temple: [0.59605259 0.66568464]
-	Jaw Point: [0.52033305 0.82007396]
-	Lips: [0.52668601 0.70396745]
-	Forehead Point: [0.5275501  0.50776243]
-	Chin-Lips Distance: 0.12 pixels
-	Chin-Lips Distance Percent: 11.63 pixels
-	Temple Distance: 0.16 pixels
-	Temple Distance Percent: 16.43 pixels
-	Percent: 70.79%
-	Left Angle: 65.41 degrees
-	Right Angle: 116.13 degrees
-	Jaw Type (Angel): narrow
-
-2025-07-17 23:03:22 - log_settings - INFO - Result:
-	Jaw Type: narrow
-	Left Temple: [0.43551144 0.64504564]
-	Right Temple: [0.59204388 0.66938782]
-	Jaw Point: [0.51993477 0.82788241]
-	Lips: [0.52596611 0.71326631]
-	Forehead Point: [0.52635342 0.51807845]
-	Chin-Lips Distance: 0.11 pixels
-	Chin-Lips Distance Percent: 11.48 pixels
-	Temple Distance: 0.16 pixels
-	Temple Distance Percent: 15.84 pixels
-	Percent: 72.45%
-	Left Angle: 65.22 degrees
-	Right Angle: 114.46 degrees
-	Jaw Type (Angel): narrow
-
-2025-07-17 23:03:22 - log_settings - INFO - Result:
-	Jaw Type: narrow
-	Left Temple: [0.43749574 0.6531865 ]
-	Right Temple: [0.5893262  0.68211949]
-	Jaw Point: [0.51997024 0.83005387]
-	Lips: [0.52596426 0.71681666]
-	Forehead Point: [0.52682853 0.53357506]
-	Chin-Lips Distance: 0.11 pixels
-	Chin-Lips Distance Percent: 11.34 pixels
-	Temple Distance: 0.15 pixels
-	Temple Distance Percent: 15.46 pixels
-	Percent: 73.37%
-	Left Angle: 65.00 degrees
-	Right Angle: 115.12 degrees
-	Jaw Type (Angel): narrow
-
-2025-07-17 23:03:23 - log_settings - INFO - Result:
-	Jaw Type: narrow
-	Left Temple: [0.43999487 0.66200733]
-	Right Temple: [0.58778036 0.6862976 ]
-	Jaw Point: [0.51951766 0.83615857]
-	Lips: [0.52557689 0.72696024]
-	Forehead Point: [0.52693194 0.53973043]
-	Chin-Lips Distance: 0.11 pixels
-	Chin-Lips Distance Percent: 10.94 pixels
-	Temple Distance: 0.15 pixels
-	Temple Distance Percent: 14.98 pixels
-	Percent: 73.02%
-	Left Angle: 65.46 degrees
-	Right Angle: 114.49 degrees
-	Jaw Type (Angel): narrow
-
-2025-07-17 23:03:23 - log_settings - INFO - Result:
-	Jaw Type: narrow
-	Left Temple: [0.44356644 0.66277683]
-	Right Temple: [0.59000599 0.68938559]
-	Jaw Point: [0.52236295 0.83675778]
-	Lips: [0.52780777 0.72831154]
-	Forehead Point: [0.52794975 0.53868175]
-	Chin-Lips Distance: 0.11 pixels
-	Chin-Lips Distance Percent: 10.86 pixels
-	Temple Distance: 0.15 pixels
-	Temple Distance Percent: 14.88 pixels
-	Percent: 72.95%
-	Left Angle: 65.63 degrees
-	Right Angle: 114.65 degrees
-	Jaw Type (Angel): narrow
-
-2025-07-17 23:03:23 - log_settings - INFO - Result:
-	Jaw Type: narrow
-	Left Temple: [0.44362971 0.6574955 ]
-	Right Temple: [0.59214109 0.68083686]
-	Jaw Point: [0.52339095 0.83033377]
-	Lips: [0.52891511 0.7250272 ]
-	Forehead Point: [0.52974719 0.53196794]
-	Chin-Lips Distance: 0.11 pixels
-	Chin-Lips Distance Percent: 10.55 pixels
-	Temple Distance: 0.15 pixels
-	Temple Distance Percent: 15.03 pixels
-	Percent: 70.14%
-	Left Angle: 65.23 degrees
-	Right Angle: 114.70 degrees
-	Jaw Type (Angel): narrow
-
-2025-07-17 23:03:23 - log_settings - INFO - Result:
-	Jaw Type: narrow
-	Left Temple: [0.43691784 0.64234442]
-	Right Temple: [0.59013665 0.66963267]
-	Jaw Point: [0.52191573 0.82481128]
-	Lips: [0.52886909 0.70973963]
-	Forehead Point: [0.52970153 0.51717365]
-	Chin-Lips Distance: 0.12 pixels
-	Chin-Lips Distance Percent: 11.53 pixels
-	Temple Distance: 0.16 pixels
-	Temple Distance Percent: 15.56 pixels
-	Percent: 74.07%
-	Left Angle: 65.02 degrees
-	Right Angle: 113.73 degrees
-	Jaw Type (Angel): narrow
-
-2025-07-17 23:03:23 - log_settings - INFO - Result:
-	Jaw Type: narrow
-	Left Temple: [0.43135425 0.64132732]
-	Right Temple: [0.58777601 0.65988934]
-	Jaw Point: [0.51672357 0.82380992]
-	Lips: [0.52214164 0.70650142]
-	Forehead Point: [0.52216053 0.51237833]
-	Chin-Lips Distance: 0.12 pixels
-	Chin-Lips Distance Percent: 11.74 pixels
-	Temple Distance: 0.16 pixels
-	Temple Distance Percent: 15.75 pixels
-	Percent: 74.55%
-	Left Angle: 64.93 degrees
-	Right Angle: 113.43 degrees
-	Jaw Type (Angel): narrow
-
-2025-07-17 23:03:23 - log_settings - INFO - Result:
-	Jaw Type: narrow
-	Left Temple: [0.43148071 0.64360034]
-	Right Temple: [0.58878118 0.65902561]
-	Jaw Point: [0.51715046 0.82688558]
-	Lips: [0.52214926 0.71105617]
-	Forehead Point: [0.52155352 0.51209939]
-	Chin-Lips Distance: 0.12 pixels
-	Chin-Lips Distance Percent: 11.59 pixels
-	Temple Distance: 0.16 pixels
-	Temple Distance Percent: 15.81 pixels
-	Percent: 73.35%
-	Left Angle: 64.95 degrees
-	Right Angle: 113.11 degrees
-	Jaw Type (Angel): narrow
-
-2025-07-17 23:03:24 - log_settings - INFO - Result:
-	Jaw Type: narrow
-	Left Temple: [0.43537381 0.6461702 ]
-	Right Temple: [0.59147233 0.67441124]
-	Jaw Point: [0.51993084 0.84243524]
-	Lips: [0.5266555  0.73672694]
-	Forehead Point: [0.52792001 0.5321427 ]
-	Chin-Lips Distance: 0.11 pixels
-	Chin-Lips Distance Percent: 10.59 pixels
-	Temple Distance: 0.16 pixels
-	Temple Distance Percent: 15.86 pixels
-	Percent: 66.77%
-	Left Angle: 66.69 degrees
-	Right Angle: 113.06 degrees
-	Jaw Type (Angel): narrow
-
-2025-07-17 23:03:24 - log_settings - INFO - Result:
-	Jaw Type: narrow
-	Left Temple: [0.44227374 0.6623463 ]
-	Right Temple: [0.59377158 0.68911731]
-	Jaw Point: [0.52142984 0.86232108]
-	Lips: [0.52709508 0.76298159]
-	Forehead Point: [0.5302583  0.54102623]
+	Left Temple: [0.38937467 0.74585986]
+	Right Temple: [0.54884142 0.75605381]
+	Jaw Point: [0.46932107 0.94553149]
+	Lips: [0.47168237 0.84959686]
+	Forehead Point: [0.4746846  0.62120509]
 	Chin-Lips Distance: 0.10 pixels
-	Chin-Lips Distance Percent: 9.95 pixels
-	Temple Distance: 0.15 pixels
-	Temple Distance Percent: 15.38 pixels
-	Percent: 64.68%
-	Left Angle: 68.40 degrees
-	Right Angle: 112.67 degrees
-	Jaw Type (Angel): narrow
-
-2025-07-17 23:03:24 - log_settings - INFO - Result:
-	Jaw Type: narrow
-	Left Temple: [0.44002345 0.66185045]
-	Right Temple: [0.5938189  0.68798733]
-	Jaw Point: [0.52157646 0.85938829]
-	Lips: [0.52754438 0.76501244]
-	Forehead Point: [0.53069359 0.5498485 ]
-	Chin-Lips Distance: 0.09 pixels
-	Chin-Lips Distance Percent: 9.46 pixels
+	Chin-Lips Distance Percent: 9.60 pixels
 	Temple Distance: 0.16 pixels
-	Temple Distance Percent: 15.60 pixels
-	Percent: 60.62%
-	Left Angle: 67.57 degrees
-	Right Angle: 112.85 degrees
+	Temple Distance Percent: 15.98 pixels
+	Percent: 60.06%
+	Left Angle: 68.18 degrees
+	Right Angle: 112.77 degrees
 	Jaw Type (Angel): narrow
 
-2025-07-17 23:03:24 - log_settings - INFO - Result:
+2025-07-17 23:22:33 - log_settings - INFO - Result:
 	Jaw Type: narrow
-	Left Temple: [0.44117635 0.66344863]
-	Right Temple: [0.59418458 0.68868291]
-	Jaw Point: [0.52167314 0.86105943]
-	Lips: [0.52848351 0.76808697]
-	Forehead Point: [0.53270072 0.55429071]
-	Chin-Lips Distance: 0.09 pixels
-	Chin-Lips Distance Percent: 9.32 pixels
-	Temple Distance: 0.16 pixels
-	Temple Distance Percent: 15.51 pixels
-	Percent: 60.11%
-	Left Angle: 67.84 degrees
-	Right Angle: 112.81 degrees
-	Jaw Type (Angel): narrow
-
-2025-07-17 23:03:24 - log_settings - INFO - Result:
-	Jaw Type: narrow
-	Left Temple: [0.44255489 0.65925074]
-	Right Temple: [0.5947246  0.68935353]
-	Jaw Point: [0.52307773 0.85671109]
-	Lips: [0.52948421 0.76469791]
-	Forehead Point: [0.5329684  0.55432063]
-	Chin-Lips Distance: 0.09 pixels
-	Chin-Lips Distance Percent: 9.22 pixels
-	Temple Distance: 0.16 pixels
-	Temple Distance Percent: 15.51 pixels
-	Percent: 59.46%
-	Left Angle: 67.81 degrees
-	Right Angle: 113.18 degrees
-	Jaw Type (Angel): narrow
-
-2025-07-17 23:03:24 - log_settings - INFO - Result:
-	Jaw Type: narrow
-	Left Temple: [0.44225836 0.66103745]
-	Right Temple: [0.59521449 0.68991756]
-	Jaw Point: [0.52390677 0.85706151]
-	Lips: [0.52945179 0.7654379 ]
-	Forehead Point: [0.53209978 0.55294037]
-	Chin-Lips Distance: 0.09 pixels
-	Chin-Lips Distance Percent: 9.18 pixels
-	Temple Distance: 0.16 pixels
-	Temple Distance Percent: 15.57 pixels
-	Percent: 58.97%
-	Left Angle: 67.39 degrees
-	Right Angle: 113.10 degrees
-	Jaw Type (Angel): narrow
-
-2025-07-17 23:03:25 - log_settings - INFO - Result:
-	Jaw Type: narrow
-	Left Temple: [0.44203454 0.66142344]
-	Right Temple: [0.59514338 0.6873883 ]
-	Jaw Point: [0.52246445 0.85605645]
-	Lips: [0.52747065 0.76303452]
-	Forehead Point: [0.53061867 0.54158664]
-	Chin-Lips Distance: 0.09 pixels
-	Chin-Lips Distance Percent: 9.32 pixels
-	Temple Distance: 0.16 pixels
-	Temple Distance Percent: 15.53 pixels
-	Percent: 59.99%
-	Left Angle: 67.55 degrees
-	Right Angle: 113.31 degrees
-	Jaw Type (Angel): narrow
-
-2025-07-17 23:03:25 - log_settings - INFO - Result:
-	Jaw Type: narrow
-	Left Temple: [0.44284916 0.66040987]
-	Right Temple: [0.59689742 0.68573737]
-	Jaw Point: [0.5222345  0.85751778]
-	Lips: [0.52676308 0.76227254]
-	Forehead Point: [0.53066182 0.53641689]
-	Chin-Lips Distance: 0.10 pixels
-	Chin-Lips Distance Percent: 9.54 pixels
-	Temple Distance: 0.16 pixels
-	Temple Distance Percent: 15.61 pixels
-	Percent: 61.08%
-	Left Angle: 68.06 degrees
-	Right Angle: 113.49 degrees
-	Jaw Type (Angel): narrow
-
-2025-07-17 23:03:25 - log_settings - INFO - Result:
-	Jaw Type: narrow
-	Left Temple: [0.44336447 0.66151386]
-	Right Temple: [0.59852028 0.68181801]
-	Jaw Point: [0.525262   0.85335124]
-	Lips: [0.52932358 0.7563628 ]
-	Forehead Point: [0.53134489 0.53309059]
-	Chin-Lips Distance: 0.10 pixels
-	Chin-Lips Distance Percent: 9.71 pixels
-	Temple Distance: 0.16 pixels
-	Temple Distance Percent: 15.65 pixels
-	Percent: 62.04%
-	Left Angle: 66.88 degrees
-	Right Angle: 113.13 degrees
-	Jaw Type (Angel): narrow
-
-2025-07-17 23:03:25 - log_settings - INFO - Result:
-	Jaw Type: narrow
-	Left Temple: [0.44469357 0.6578688 ]
-	Right Temple: [0.5987733  0.68339819]
-	Jaw Point: [0.52556479 0.85377383]
-	Lips: [0.53194499 0.75076514]
-	Forehead Point: [0.53528368 0.54019797]
-	Chin-Lips Distance: 0.10 pixels
-	Chin-Lips Distance Percent: 10.32 pixels
-	Temple Distance: 0.16 pixels
-	Temple Distance Percent: 15.62 pixels
-	Percent: 66.08%
-	Left Angle: 67.57 degrees
-	Right Angle: 113.25 degrees
-	Jaw Type (Angel): narrow
-
-2025-07-17 23:03:25 - log_settings - INFO - Result:
-	Jaw Type: narrow
-	Left Temple: [0.44451326 0.6592356 ]
-	Right Temple: [0.5984363  0.68343401]
-	Jaw Point: [0.52894169 0.85076088]
-	Lips: [0.53467    0.75008398]
-	Forehead Point: [0.53566891 0.54103494]
-	Chin-Lips Distance: 0.10 pixels
-	Chin-Lips Distance Percent: 10.08 pixels
-	Temple Distance: 0.16 pixels
-	Temple Distance Percent: 15.58 pixels
-	Percent: 64.72%
-	Left Angle: 66.21 degrees
-	Right Angle: 112.55 degrees
-	Jaw Type (Angel): narrow
-
-2025-07-17 23:03:25 - log_settings - INFO - Result:
-	Jaw Type: narrow
-	Left Temple: [0.44411641 0.66227049]
-	Right Temple: [0.5965842  0.68848085]
-	Jaw Point: [0.5285989 0.85178  ]
-	Lips: [0.53558689 0.75162333]
-	Forehead Point: [0.53690624 0.54249871]
-	Chin-Lips Distance: 0.10 pixels
-	Chin-Lips Distance Percent: 10.04 pixels
-	Temple Distance: 0.15 pixels
-	Temple Distance Percent: 15.47 pixels
-	Percent: 64.90%
-	Left Angle: 65.97 degrees
-	Right Angle: 112.60 degrees
-	Jaw Type (Angel): narrow
-
-2025-07-17 23:03:26 - log_settings - INFO - Result:
-	Jaw Type: narrow
-	Left Temple: [0.44322884 0.66290951]
-	Right Temple: [0.59684521 0.68697643]
-	Jaw Point: [0.53023857 0.85146105]
-	Lips: [0.53724033 0.75116605]
-	Forehead Point: [0.53783035 0.54445404]
-	Chin-Lips Distance: 0.10 pixels
-	Chin-Lips Distance Percent: 10.05 pixels
-	Temple Distance: 0.16 pixels
-	Temple Distance Percent: 15.55 pixels
-	Percent: 64.66%
-	Left Angle: 65.23 degrees
-	Right Angle: 112.05 degrees
-	Jaw Type (Angel): narrow
-
-2025-07-17 23:03:26 - log_settings - INFO - Result:
-	Jaw Type: narrow
-	Left Temple: [0.44724783 0.66394162]
-	Right Temple: [0.59408897 0.68995374]
-	Jaw Point: [0.53994972 0.85699117]
-	Lips: [0.55016738 0.75548536]
-	Forehead Point: [0.54807246 0.54197049]
-	Chin-Lips Distance: 0.10 pixels
-	Chin-Lips Distance Percent: 10.20 pixels
-	Temple Distance: 0.15 pixels
-	Temple Distance Percent: 14.91 pixels
-	Percent: 68.41%
-	Left Angle: 64.35 degrees
-	Right Angle: 107.96 degrees
-	Jaw Type (Angel): narrow
-
-2025-07-17 23:03:26 - log_settings - INFO - Result:
-	Jaw Type: narrow
-	Left Temple: [0.44989535 0.6606127 ]
-	Right Temple: [0.59316993 0.69405156]
-	Jaw Point: [0.54467279 0.8590613 ]
-	Lips: [0.55923575 0.75782496]
-	Forehead Point: [0.55919498 0.54143286]
-	Chin-Lips Distance: 0.10 pixels
-	Chin-Lips Distance Percent: 10.23 pixels
-	Temple Distance: 0.15 pixels
-	Temple Distance Percent: 14.71 pixels
-	Percent: 69.52%
-	Left Angle: 64.47 degrees
-	Right Angle: 106.38 degrees
-	Jaw Type (Angel): narrow
-
-2025-07-17 23:03:26 - log_settings - INFO - Result:
-	Jaw Type: narrow
-	Left Temple: [0.45159066 0.66154391]
-	Right Temple: [0.59370428 0.69418943]
-	Jaw Point: [0.54580015 0.86078489]
-	Lips: [0.56069171 0.75754505]
-	Forehead Point: [0.56103873 0.54146659]
-	Chin-Lips Distance: 0.10 pixels
-	Chin-Lips Distance Percent: 10.43 pixels
-	Temple Distance: 0.15 pixels
-	Temple Distance Percent: 14.58 pixels
-	Percent: 71.53%
-	Left Angle: 64.69 degrees
-	Right Angle: 106.04 degrees
-	Jaw Type (Angel): narrow
-
-2025-07-17 23:03:26 - log_settings - INFO - Result:
-	Jaw Type: narrow
-	Left Temple: [0.44862953 0.66380078]
-	Right Temple: [0.59510183 0.69365978]
-	Jaw Point: [0.53909141 0.85623944]
-	Lips: [0.55153179 0.75697088]
-	Forehead Point: [0.55394453 0.53935766]
-	Chin-Lips Distance: 0.10 pixels
-	Chin-Lips Distance Percent: 10.00 pixels
-	Temple Distance: 0.15 pixels
-	Temple Distance Percent: 14.95 pixels
-	Percent: 66.93%
-	Left Angle: 64.82 degrees
-	Right Angle: 109.01 degrees
-	Jaw Type (Angel): narrow
-
-2025-07-17 23:03:26 - log_settings - INFO - Result:
-	Jaw Type: narrow
-	Left Temple: [0.44051319 0.66150886]
-	Right Temple: [0.59738851 0.6829412 ]
-	Jaw Point: [0.51576424 0.84699923]
-	Lips: [0.5207175  0.75078684]
-	Forehead Point: [0.52709788 0.54102248]
+	Left Temple: [0.39173713 0.74561036]
+	Right Temple: [0.54968429 0.75087458]
+	Jaw Point: [0.47178626 0.93785876]
+	Lips: [0.47425053 0.84161925]
+	Forehead Point: [0.47646305 0.61204576]
 	Chin-Lips Distance: 0.10 pixels
 	Chin-Lips Distance Percent: 9.63 pixels
 	Temple Distance: 0.16 pixels
-	Temple Distance Percent: 15.83 pixels
-	Percent: 60.85%
-	Left Angle: 67.92 degrees
-	Right Angle: 116.45 degrees
+	Temple Distance Percent: 15.80 pixels
+	Percent: 60.92%
+	Left Angle: 67.39 degrees
+	Right Angle: 112.62 degrees
 	Jaw Type (Angel): narrow
 
-2025-07-17 23:03:27 - log_settings - INFO - Result:
+2025-07-17 23:22:34 - log_settings - INFO - Result:
 	Jaw Type: narrow
-	Left Temple: [0.43972927 0.66405314]
-	Right Temple: [0.59621292 0.68134761]
-	Jaw Point: [0.50546789 0.85136354]
-	Lips: [0.50705713 0.75287634]
-	Forehead Point: [0.51568013 0.54152393]
+	Left Temple: [0.39355665 0.74007285]
+	Right Temple: [0.55228436 0.74608731]
+	Jaw Point: [0.47565022 0.92838919]
+	Lips: [0.47792575 0.83336985]
+	Forehead Point: [0.47788557 0.60807943]
 	Chin-Lips Distance: 0.10 pixels
-	Chin-Lips Distance Percent: 9.85 pixels
+	Chin-Lips Distance Percent: 9.50 pixels
 	Temple Distance: 0.16 pixels
-	Temple Distance Percent: 15.74 pixels
-	Percent: 62.56%
-	Left Angle: 70.66 degrees
-	Right Angle: 118.09 degrees
+	Temple Distance Percent: 15.88 pixels
+	Percent: 59.84%
+	Left Angle: 66.45 degrees
+	Right Angle: 112.80 degrees
 	Jaw Type (Angel): narrow
 
-2025-07-17 23:03:27 - log_settings - INFO - Result:
+2025-07-17 23:22:34 - log_settings - INFO - Result:
 	Jaw Type: narrow
-	Left Temple: [0.43903774 0.66806674]
-	Right Temple: [0.59450489 0.6837182 ]
-	Jaw Point: [0.49985057 0.85596919]
-	Lips: [0.50096124 0.75260568]
-	Forehead Point: [0.51128018 0.5400368 ]
+	Left Temple: [0.39858222 0.74301541]
+	Right Temple: [0.5552119  0.74778897]
+	Jaw Point: [0.47786316 0.92744172]
+	Lips: [0.4800809  0.82804269]
+	Forehead Point: [0.48171249 0.59782237]
+	Chin-Lips Distance: 0.10 pixels
+	Chin-Lips Distance Percent: 9.94 pixels
+	Temple Distance: 0.16 pixels
+	Temple Distance Percent: 15.67 pixels
+	Percent: 63.45%
+	Left Angle: 66.74 degrees
+	Right Angle: 113.29 degrees
+	Jaw Type (Angel): narrow
+
+2025-07-17 23:22:34 - log_settings - INFO - Result:
+	Jaw Type: narrow
+	Left Temple: [0.40091819 0.73439044]
+	Right Temple: [0.55601251 0.74127805]
+	Jaw Point: [0.47865695 0.91815907]
+	Lips: [0.48170075 0.81996512]
+	Forehead Point: [0.48361969 0.59692866]
+	Chin-Lips Distance: 0.10 pixels
+	Chin-Lips Distance Percent: 9.82 pixels
+	Temple Distance: 0.16 pixels
+	Temple Distance Percent: 15.52 pixels
+	Percent: 63.28%
+	Left Angle: 67.07 degrees
+	Right Angle: 113.62 degrees
+	Jaw Type (Angel): narrow
+
+2025-07-17 23:22:34 - log_settings - INFO - Result:
+	Jaw Type: narrow
+	Left Temple: [0.40753469 0.72669888]
+	Right Temple: [0.56103587 0.7319532 ]
+	Jaw Point: [0.48517126 0.90697736]
+	Lips: [0.48545876 0.81105167]
+	Forehead Point: [0.48527589 0.58519673]
+	Chin-Lips Distance: 0.10 pixels
+	Chin-Lips Distance Percent: 9.59 pixels
+	Temple Distance: 0.15 pixels
+	Temple Distance Percent: 15.36 pixels
+	Percent: 62.46%
+	Left Angle: 66.70 degrees
+	Right Angle: 113.43 degrees
+	Jaw Type (Angel): narrow
+
+2025-07-17 23:22:34 - log_settings - INFO - Result:
+	Jaw Type: narrow
+	Left Temple: [0.41776836 0.72231072]
+	Right Temple: [0.56849861 0.72609258]
+	Jaw Point: [0.49309137 0.90463245]
+	Lips: [0.49358651 0.80396664]
+	Forehead Point: [0.49174154 0.59041589]
+	Chin-Lips Distance: 0.10 pixels
+	Chin-Lips Distance Percent: 10.07 pixels
+	Temple Distance: 0.15 pixels
+	Temple Distance Percent: 15.08 pixels
+	Percent: 66.77%
+	Left Angle: 67.55 degrees
+	Right Angle: 112.90 degrees
+	Jaw Type (Angel): narrow
+
+2025-07-17 23:22:34 - log_settings - INFO - Result:
+	Jaw Type: narrow
+	Left Temple: [0.42526489 0.70669532]
+	Right Temple: [0.57574147 0.72551578]
+	Jaw Point: [0.49614391 0.89024484]
+	Lips: [0.49853104 0.78780442]
+	Forehead Point: [0.50104356 0.577775  ]
+	Chin-Lips Distance: 0.10 pixels
+	Chin-Lips Distance Percent: 10.25 pixels
+	Temple Distance: 0.15 pixels
+	Temple Distance Percent: 15.16 pixels
+	Percent: 67.57%
+	Left Angle: 68.89 degrees
+	Right Angle: 115.79 degrees
+	Jaw Type (Angel): narrow
+
+2025-07-17 23:22:35 - log_settings - INFO - Result:
+	Jaw Type: narrow
+	Left Temple: [0.42105737 0.69688952]
+	Right Temple: [0.57484484 0.71901673]
+	Jaw Point: [0.49222723 0.87771273]
+	Lips: [0.49587005 0.77439058]
+	Forehead Point: [0.5008719  0.56583887]
 	Chin-Lips Distance: 0.10 pixels
 	Chin-Lips Distance Percent: 10.34 pixels
 	Temple Distance: 0.16 pixels
-	Temple Distance Percent: 15.63 pixels
-	Percent: 66.16%
-	Left Angle: 72.07 degrees
-	Right Angle: 118.79 degrees
+	Temple Distance Percent: 15.54 pixels
+	Percent: 66.54%
+	Left Angle: 68.52 degrees
+	Right Angle: 117.50 degrees
 	Jaw Type (Angel): narrow
 
-2025-07-17 23:03:27 - log_settings - INFO - Result:
+2025-07-17 23:22:35 - log_settings - INFO - Result:
 	Jaw Type: narrow
-	Left Temple: [0.43898883 0.66512018]
-	Right Temple: [0.59466195 0.68520951]
-	Jaw Point: [0.49981162 0.85430145]
-	Lips: [0.50205165 0.75398064]
-	Forehead Point: [0.51359105 0.54042041]
+	Left Temple: [0.41627437 0.68728709]
+	Right Temple: [0.57145399 0.71828985]
+	Jaw Point: [0.49003172 0.8715688 ]
+	Lips: [0.49412504 0.7681675 ]
+	Forehead Point: [0.49835917 0.56521755]
 	Chin-Lips Distance: 0.10 pixels
-	Chin-Lips Distance Percent: 10.03 pixels
+	Chin-Lips Distance Percent: 10.35 pixels
 	Temple Distance: 0.16 pixels
-	Temple Distance Percent: 15.70 pixels
-	Percent: 63.93%
-	Left Angle: 72.18 degrees
-	Right Angle: 119.29 degrees
+	Temple Distance Percent: 15.82 pixels
+	Percent: 65.39%
+	Left Angle: 68.19 degrees
+	Right Angle: 117.98 degrees
 	Jaw Type (Angel): narrow
 
-2025-07-17 23:03:27 - log_settings - INFO - Result:
+2025-07-17 23:22:35 - log_settings - INFO - Result:
 	Jaw Type: narrow
-	Left Temple: [0.4380435  0.66430616]
-	Right Temple: [0.59614986 0.68434048]
-	Jaw Point: [0.50384516 0.85345495]
-	Lips: [0.50717503 0.75251782]
-	Forehead Point: [0.51752329 0.53977299]
-	Chin-Lips Distance: 0.10 pixels
-	Chin-Lips Distance Percent: 10.10 pixels
+	Left Temple: [0.41444269 0.69214094]
+	Right Temple: [0.57307994 0.7057988 ]
+	Jaw Point: [0.48907769 0.87459302]
+	Lips: [0.49030352 0.76849931]
+	Forehead Point: [0.49229336 0.55644614]
+	Chin-Lips Distance: 0.11 pixels
+	Chin-Lips Distance Percent: 10.61 pixels
 	Temple Distance: 0.16 pixels
-	Temple Distance Percent: 15.94 pixels
-	Percent: 63.37%
-	Left Angle: 70.82 degrees
-	Right Angle: 118.63 degrees
+	Temple Distance Percent: 15.92 pixels
+	Percent: 66.64%
+	Left Angle: 67.75 degrees
+	Right Angle: 116.46 degrees
 	Jaw Type (Angel): narrow
 
-2025-07-17 23:03:27 - log_settings - INFO - Result:
+2025-07-17 23:22:35 - log_settings - INFO - Result:
 	Jaw Type: narrow
-	Left Temple: [0.43747687 0.66430372]
-	Right Temple: [0.59681064 0.6814844 ]
-	Jaw Point: [0.50789076 0.85414344]
-	Lips: [0.51156282 0.75328386]
-	Forehead Point: [0.5198316  0.53732181]
+	Left Temple: [0.41387352 0.6932627 ]
+	Right Temple: [0.5742147 0.7068606]
+	Jaw Point: [0.48717406 0.87933552]
+	Lips: [0.48852849 0.77021772]
+	Forehead Point: [0.49174994 0.55714947]
+	Chin-Lips Distance: 0.11 pixels
+	Chin-Lips Distance Percent: 10.91 pixels
+	Temple Distance: 0.16 pixels
+	Temple Distance Percent: 16.09 pixels
+	Percent: 67.82%
+	Left Angle: 68.50 degrees
+	Right Angle: 116.78 degrees
+	Jaw Type (Angel): narrow
+
+2025-07-17 23:22:35 - log_settings - INFO - Result:
+	Jaw Type: narrow
+	Left Temple: [0.41362512 0.69273323]
+	Right Temple: [0.57415062 0.70434397]
+	Jaw Point: [0.4868778  0.87910455]
+	Lips: [0.48805922 0.77216178]
+	Forehead Point: [0.49149635 0.55674577]
+	Chin-Lips Distance: 0.11 pixels
+	Chin-Lips Distance Percent: 10.69 pixels
+	Temple Distance: 0.16 pixels
+	Temple Distance Percent: 16.09 pixels
+	Percent: 66.45%
+	Left Angle: 68.54 degrees
+	Right Angle: 116.54 degrees
+	Jaw Type (Angel): narrow
+
+2025-07-17 23:22:35 - log_settings - INFO - Result:
+	Jaw Type: narrow
+	Left Temple: [0.41361493 0.69435138]
+	Right Temple: [0.5728181  0.70792854]
+	Jaw Point: [0.48566988 0.88136876]
+	Lips: [0.48655057 0.77532774]
+	Forehead Point: [0.49027011 0.55646122]
+	Chin-Lips Distance: 0.11 pixels
+	Chin-Lips Distance Percent: 10.60 pixels
+	Temple Distance: 0.16 pixels
+	Temple Distance Percent: 15.98 pixels
+	Percent: 66.37%
+	Left Angle: 68.93 degrees
+	Right Angle: 116.68 degrees
+	Jaw Type (Angel): narrow
+
+2025-07-17 23:22:36 - log_settings - INFO - Result:
+	Jaw Type: narrow
+	Left Temple: [0.41169959 0.69783151]
+	Right Temple: [0.57301968 0.70528102]
+	Jaw Point: [0.48654822 0.88384664]
+	Lips: [0.48632893 0.77681297]
+	Forehead Point: [0.48845538 0.55422193]
+	Chin-Lips Distance: 0.11 pixels
+	Chin-Lips Distance Percent: 10.70 pixels
+	Temple Distance: 0.16 pixels
+	Temple Distance Percent: 16.15 pixels
+	Percent: 66.28%
+	Left Angle: 68.08 degrees
+	Right Angle: 115.84 degrees
+	Jaw Type (Angel): narrow
+
+2025-07-17 23:22:36 - log_settings - INFO - Result:
+	Jaw Type: narrow
+	Left Temple: [0.41316238 0.69563162]
+	Right Temple: [0.57171857 0.70937937]
+	Jaw Point: [0.48542047 0.88281107]
+	Lips: [0.48629713 0.77697861]
+	Forehead Point: [0.48972267 0.55783033]
+	Chin-Lips Distance: 0.11 pixels
+	Chin-Lips Distance Percent: 10.58 pixels
+	Temple Distance: 0.16 pixels
+	Temple Distance Percent: 15.92 pixels
+	Percent: 66.50%
+	Left Angle: 68.89 degrees
+	Right Angle: 116.45 degrees
+	Jaw Type (Angel): narrow
+
+2025-07-17 23:22:36 - log_settings - INFO - Result:
+	Jaw Type: narrow
+	Left Temple: [0.41506922 0.69381922]
+	Right Temple: [0.57468969 0.71596301]
+	Jaw Point: [0.48751271 0.8822608 ]
+	Lips: [0.48961335 0.77500933]
+	Forehead Point: [0.4941051  0.56026077]
+	Chin-Lips Distance: 0.11 pixels
+	Chin-Lips Distance Percent: 10.73 pixels
+	Temple Distance: 0.16 pixels
+	Temple Distance Percent: 16.11 pixels
+	Percent: 66.57%
+	Left Angle: 68.97 degrees
+	Right Angle: 117.66 degrees
+	Jaw Type (Angel): narrow
+
+2025-07-17 23:22:36 - log_settings - INFO - Result:
+	Jaw Type: narrow
+	Left Temple: [0.41705784 0.68985289]
+	Right Temple: [0.57679033 0.72379732]
+	Jaw Point: [0.4943721 0.8831256]
+	Lips: [0.49780053 0.77457696]
+	Forehead Point: [0.50016272 0.56468236]
+	Chin-Lips Distance: 0.11 pixels
+	Chin-Lips Distance Percent: 10.86 pixels
+	Temple Distance: 0.16 pixels
+	Temple Distance Percent: 16.33 pixels
+	Percent: 66.51%
+	Left Angle: 68.20 degrees
+	Right Angle: 117.35 degrees
+	Jaw Type (Angel): narrow
+
+2025-07-17 23:22:36 - log_settings - INFO - Result:
+	Jaw Type: narrow
+	Left Temple: [0.41732287 0.68987757]
+	Right Temple: [0.57614422 0.72176617]
+	Jaw Point: [0.49457905 0.88202292]
+	Lips: [0.49897993 0.77636963]
+	Forehead Point: [0.50202709 0.564726  ]
+	Chin-Lips Distance: 0.11 pixels
+	Chin-Lips Distance Percent: 10.57 pixels
+	Temple Distance: 0.16 pixels
+	Temple Distance Percent: 16.20 pixels
+	Percent: 65.28%
+	Left Angle: 68.10 degrees
+	Right Angle: 116.97 degrees
+	Jaw Type (Angel): narrow
+
+2025-07-17 23:22:36 - log_settings - INFO - Result:
+	Jaw Type: narrow
+	Left Temple: [0.41863173 0.69179529]
+	Right Temple: [0.57813847 0.71899527]
+	Jaw Point: [0.49929681 0.88078469]
+	Lips: [0.50319874 0.77642965]
+	Forehead Point: [0.50433308 0.56510371]
 	Chin-Lips Distance: 0.10 pixels
-	Chin-Lips Distance Percent: 10.09 pixels
+	Chin-Lips Distance Percent: 10.44 pixels
+	Temple Distance: 0.16 pixels
+	Temple Distance Percent: 16.18 pixels
+	Percent: 64.54%
+	Left Angle: 66.89 degrees
+	Right Angle: 115.98 degrees
+	Jaw Type (Angel): narrow
+
+2025-07-17 23:22:37 - log_settings - INFO - Result:
+	Jaw Type: narrow
+	Left Temple: [0.42014438 0.6983695 ]
+	Right Temple: [0.57913697 0.71755803]
+	Jaw Point: [0.5050779  0.88503563]
+	Lips: [0.50885069 0.78133589]
+	Forehead Point: [0.50650018 0.56834573]
+	Chin-Lips Distance: 0.10 pixels
+	Chin-Lips Distance Percent: 10.38 pixels
+	Temple Distance: 0.16 pixels
+	Temple Distance Percent: 16.01 pixels
+	Percent: 64.80%
+	Left Angle: 65.53 degrees
+	Right Angle: 113.86 degrees
+	Jaw Type (Angel): narrow
+
+2025-07-17 23:22:37 - log_settings - INFO - Result:
+	Jaw Type: narrow
+	Left Temple: [0.42164439 0.70053589]
+	Right Temple: [0.58019632 0.71849918]
+	Jaw Point: [0.50915331 0.88598746]
+	Lips: [0.51278919 0.78186065]
+	Forehead Point: [0.50898623 0.57139963]
+	Chin-Lips Distance: 0.10 pixels
+	Chin-Lips Distance Percent: 10.42 pixels
+	Temple Distance: 0.16 pixels
+	Temple Distance Percent: 15.96 pixels
+	Percent: 65.30%
+	Left Angle: 64.74 degrees
+	Right Angle: 112.99 degrees
+	Jaw Type (Angel): narrow
+
+2025-07-17 23:22:37 - log_settings - INFO - Result:
+	Jaw Type: narrow
+	Left Temple: [0.42670053 0.69824934]
+	Right Temple: [0.58449042 0.71808571]
+	Jaw Point: [0.51273358 0.88778162]
+	Lips: [0.51666135 0.78403705]
+	Forehead Point: [0.51405966 0.56694537]
+	Chin-Lips Distance: 0.10 pixels
+	Chin-Lips Distance Percent: 10.38 pixels
+	Temple Distance: 0.16 pixels
+	Temple Distance Percent: 15.90 pixels
+	Percent: 65.28%
+	Left Angle: 65.59 degrees
+	Right Angle: 112.92 degrees
+	Jaw Type (Angel): narrow
+
+2025-07-17 23:22:37 - log_settings - INFO - Result:
+	Jaw Type: narrow
+	Left Temple: [0.43019405 0.6990276 ]
+	Right Temple: [0.58991021 0.71541214]
+	Jaw Point: [0.51640803 0.88952225]
+	Lips: [0.52027816 0.78528547]
+	Forehead Point: [0.51827425 0.56624651]
+	Chin-Lips Distance: 0.10 pixels
+	Chin-Lips Distance Percent: 10.43 pixels
+	Temple Distance: 0.16 pixels
+	Temple Distance Percent: 16.06 pixels
+	Percent: 64.97%
+	Left Angle: 65.65 degrees
+	Right Angle: 112.89 degrees
+	Jaw Type (Angel): narrow
+
+2025-07-17 23:22:37 - log_settings - INFO - Result:
+	Jaw Type: narrow
+	Left Temple: [0.43725643 0.69967419]
+	Right Temple: [0.5943526  0.71849918]
+	Jaw Point: [0.52358681 0.89108825]
+	Lips: [0.52768248 0.78588927]
+	Forehead Point: [0.52556759 0.56228381]
+	Chin-Lips Distance: 0.11 pixels
+	Chin-Lips Distance Percent: 10.53 pixels
+	Temple Distance: 0.16 pixels
+	Temple Distance Percent: 15.82 pixels
+	Percent: 66.54%
+	Left Angle: 65.72 degrees
+	Right Angle: 112.29 degrees
+	Jaw Type (Angel): narrow
+
+2025-07-17 23:22:37 - log_settings - INFO - Result:
+	Jaw Type: narrow
+	Left Temple: [0.43981737 0.69904572]
+	Right Temple: [0.59696782 0.71910542]
+	Jaw Point: [0.52728266 0.89136136]
+	Lips: [0.53087884 0.78537261]
+	Forehead Point: [0.52783173 0.56088579]
+	Chin-Lips Distance: 0.11 pixels
+	Chin-Lips Distance Percent: 10.60 pixels
+	Temple Distance: 0.16 pixels
+	Temple Distance Percent: 15.84 pixels
+	Percent: 66.94%
+	Left Angle: 65.54 degrees
+	Right Angle: 112.03 degrees
+	Jaw Type (Angel): narrow
+
+2025-07-17 23:22:38 - log_settings - INFO - Result:
+	Jaw Type: narrow
+	Left Temple: [0.44306841 0.69849557]
+	Right Temple: [0.60009009 0.7177332 ]
+	Jaw Point: [0.53033262 0.88823354]
+	Lips: [0.53383535 0.78430736]
+	Forehead Point: [0.53070664 0.56201756]
+	Chin-Lips Distance: 0.10 pixels
+	Chin-Lips Distance Percent: 10.40 pixels
+	Temple Distance: 0.16 pixels
+	Temple Distance Percent: 15.82 pixels
+	Percent: 65.73%
+	Left Angle: 65.30 degrees
+	Right Angle: 112.25 degrees
+	Jaw Type (Angel): narrow
+
+2025-07-17 23:22:38 - log_settings - INFO - Result:
+	Jaw Type: narrow
+	Left Temple: [0.44222376 0.69473869]
+	Right Temple: [0.60018653 0.71964538]
+	Jaw Point: [0.52490729 0.89106238]
+	Lips: [0.52936798 0.78420836]
+	Forehead Point: [0.5294978  0.56118476]
+	Chin-Lips Distance: 0.11 pixels
+	Chin-Lips Distance Percent: 10.69 pixels
+	Temple Distance: 0.16 pixels
+	Temple Distance Percent: 15.99 pixels
+	Percent: 66.88%
+	Left Angle: 67.16 degrees
+	Right Angle: 113.71 degrees
+	Jaw Type (Angel): narrow
+
+2025-07-17 23:22:38 - log_settings - INFO - Result:
+	Jaw Type: narrow
+	Left Temple: [0.44046533 0.6947521 ]
+	Right Temple: [0.5995084  0.71477568]
+	Jaw Point: [0.52315646 0.88980573]
+	Lips: [0.5266785  0.78405446]
+	Forehead Point: [0.52579027 0.55996627]
+	Chin-Lips Distance: 0.11 pixels
+	Chin-Lips Distance Percent: 10.58 pixels
 	Temple Distance: 0.16 pixels
 	Temple Distance Percent: 16.03 pixels
-	Percent: 62.98%
-	Left Angle: 69.65 degrees
-	Right Angle: 117.25 degrees
+	Percent: 66.01%
+	Left Angle: 67.03 degrees
+	Right Angle: 113.57 degrees
 	Jaw Type (Angel): narrow
 
-2025-07-17 23:03:27 - log_settings - INFO - Result:
+2025-07-17 23:22:38 - log_settings - INFO - Result:
 	Jaw Type: narrow
-	Left Temple: [0.4413152  0.66027522]
-	Right Temple: [0.59601516 0.68793279]
-	Jaw Point: [0.52417964 0.8516649 ]
-	Lips: [0.52961498 0.7541616 ]
-	Forehead Point: [0.53177941 0.53807575]
+	Left Temple: [0.43885696 0.69482988]
+	Right Temple: [0.59739953 0.71357518]
+	Jaw Point: [0.52109206 0.89075035]
+	Lips: [0.52481723 0.78714865]
+	Forehead Point: [0.5241065  0.56235814]
 	Chin-Lips Distance: 0.10 pixels
-	Chin-Lips Distance Percent: 9.77 pixels
+	Chin-Lips Distance Percent: 10.37 pixels
 	Temple Distance: 0.16 pixels
-	Temple Distance Percent: 15.72 pixels
-	Percent: 62.14%
-	Left Angle: 66.59 degrees
-	Right Angle: 113.69 degrees
+	Temple Distance Percent: 15.96 pixels
+	Percent: 64.94%
+	Left Angle: 67.23 degrees
+	Right Angle: 113.30 degrees
 	Jaw Type (Angel): narrow
 
-2025-07-17 23:03:27 - log_settings - INFO - Result:
+2025-07-17 23:22:38 - log_settings - INFO - Result:
 	Jaw Type: narrow
-	Left Temple: [0.44313917 0.66388416]
-	Right Temple: [0.59455544 0.69076562]
-	Jaw Point: [0.53494924 0.85438108]
-	Lips: [0.54177612 0.75585061]
-	Forehead Point: [0.53863573 0.54640734]
+	Left Temple: [0.44053799 0.69562423]
+	Right Temple: [0.59909356 0.71599603]
+	Jaw Point: [0.52255577 0.89253414]
+	Lips: [0.52590525 0.78810078]
+	Forehead Point: [0.52568704 0.56144178]
 	Chin-Lips Distance: 0.10 pixels
-	Chin-Lips Distance Percent: 9.88 pixels
-	Temple Distance: 0.15 pixels
-	Temple Distance Percent: 15.38 pixels
-	Percent: 64.22%
-	Left Angle: 64.27 degrees
-	Right Angle: 110.02 degrees
-	Jaw Type (Angel): narrow
-
-2025-07-17 23:03:28 - log_settings - INFO - Result:
-	Jaw Type: narrow
-	Left Temple: [0.4428165  0.66445267]
-	Right Temple: [0.59427106 0.69276446]
-	Jaw Point: [0.53284836 0.85704309]
-	Lips: [0.54048014 0.7572192 ]
-	Forehead Point: [0.53897005 0.5477134 ]
-	Chin-Lips Distance: 0.10 pixels
-	Chin-Lips Distance Percent: 10.01 pixels
-	Temple Distance: 0.15 pixels
-	Temple Distance Percent: 15.41 pixels
-	Percent: 64.98%
-	Left Angle: 64.94 degrees
-	Right Angle: 110.50 degrees
-	Jaw Type (Angel): narrow
-
-2025-07-17 23:03:28 - log_settings - INFO - Result:
-	Jaw Type: narrow
-	Left Temple: [0.441172   0.66353828]
-	Right Temple: [0.59414142 0.68844342]
-	Jaw Point: [0.5303266 0.8532021]
-	Lips: [0.53722012 0.75497055]
-	Forehead Point: [0.53594512 0.54539108]
-	Chin-Lips Distance: 0.10 pixels
-	Chin-Lips Distance Percent: 9.85 pixels
-	Temple Distance: 0.15 pixels
-	Temple Distance Percent: 15.50 pixels
-	Percent: 63.54%
-	Left Angle: 64.82 degrees
-	Right Angle: 111.17 degrees
-	Jaw Type (Angel): narrow
-
-2025-07-17 23:03:28 - log_settings - INFO - Result:
-	Jaw Type: narrow
-	Left Temple: [0.44142324 0.66279012]
-	Right Temple: [0.59501308 0.68775892]
-	Jaw Point: [0.52747446 0.85430652]
-	Lips: [0.53463602 0.75544047]
-	Forehead Point: [0.53558838 0.54460698]
-	Chin-Lips Distance: 0.10 pixels
-	Chin-Lips Distance Percent: 9.91 pixels
+	Chin-Lips Distance Percent: 10.45 pixels
 	Temple Distance: 0.16 pixels
-	Temple Distance Percent: 15.56 pixels
-	Percent: 63.70%
-	Left Angle: 65.80 degrees
+	Temple Distance Percent: 15.99 pixels
+	Percent: 65.36%
+	Left Angle: 67.39 degrees
+	Right Angle: 113.44 degrees
+	Jaw Type (Angel): narrow
+
+2025-07-17 23:22:38 - log_settings - INFO - Result:
+	Jaw Type: narrow
+	Left Temple: [0.44238591 0.69719869]
+	Right Temple: [0.60050172 0.71704215]
+	Jaw Point: [0.52613121 0.89177644]
+	Lips: [0.5300827  0.78895473]
+	Forehead Point: [0.52899063 0.56276309]
+	Chin-Lips Distance: 0.10 pixels
+	Chin-Lips Distance Percent: 10.29 pixels
+	Temple Distance: 0.16 pixels
+	Temple Distance Percent: 15.94 pixels
+	Percent: 64.57%
+	Left Angle: 66.71 degrees
+	Right Angle: 113.06 degrees
+	Jaw Type (Angel): narrow
+
+2025-07-17 23:22:39 - log_settings - INFO - Result:
+	Jaw Type: narrow
+	Left Temple: [0.44272923 0.69857562]
+	Right Temple: [0.60098588 0.71759832]
+	Jaw Point: [0.52799624 0.89176446]
+	Lips: [0.53193563 0.78825426]
+	Forehead Point: [0.53063279 0.56252515]
+	Chin-Lips Distance: 0.10 pixels
+	Chin-Lips Distance Percent: 10.36 pixels
+	Temple Distance: 0.16 pixels
+	Temple Distance Percent: 15.94 pixels
+	Percent: 64.99%
+	Left Angle: 66.18 degrees
+	Right Angle: 112.74 degrees
+	Jaw Type (Angel): narrow
+
+2025-07-17 23:22:39 - log_settings - INFO - Result:
+	Jaw Type: narrow
+	Left Temple: [0.44374946 0.69742686]
+	Right Temple: [0.60362756 0.71422917]
+	Jaw Point: [0.53188932 0.89116943]
+	Lips: [0.53470492 0.78752708]
+	Forehead Point: [0.53168976 0.55911458]
+	Chin-Lips Distance: 0.10 pixels
+	Chin-Lips Distance Percent: 10.37 pixels
+	Temple Distance: 0.16 pixels
+	Temple Distance Percent: 16.08 pixels
+	Percent: 64.49%
+	Left Angle: 65.54 degrees
 	Right Angle: 112.07 degrees
 	Jaw Type (Angel): narrow
 
-2025-07-17 23:03:28 - log_settings - INFO - Result:
+2025-07-17 23:22:39 - log_settings - INFO - Result:
 	Jaw Type: narrow
-	Left Temple: [0.44067776 0.65979093]
-	Right Temple: [0.59552383 0.68594766]
-	Jaw Point: [0.52671838 0.85295063]
-	Lips: [0.5340423  0.75433815]
-	Forehead Point: [0.5351882  0.54293275]
+	Left Temple: [0.44361675 0.69516754]
+	Right Temple: [0.60326338 0.71314847]
+	Jaw Point: [0.53116143 0.88977957]
+	Lips: [0.53496116 0.78668398]
+	Forehead Point: [0.5328021  0.55791521]
 	Chin-Lips Distance: 0.10 pixels
-	Chin-Lips Distance Percent: 9.89 pixels
+	Chin-Lips Distance Percent: 10.32 pixels
 	Temple Distance: 0.16 pixels
-	Temple Distance Percent: 15.70 pixels
-	Percent: 62.97%
-	Left Angle: 65.99 degrees
-	Right Angle: 112.39 degrees
+	Temple Distance Percent: 16.07 pixels
+	Percent: 64.22%
+	Left Angle: 65.78 degrees
+	Right Angle: 112.21 degrees
 	Jaw Type (Angel): narrow
 
-2025-07-17 23:03:28 - log_settings - INFO - Result:
+2025-07-17 23:22:39 - log_settings - INFO - Result:
 	Jaw Type: narrow
-	Left Temple: [0.4403989  0.65923035]
-	Right Temple: [0.59533942 0.68398106]
-	Jaw Point: [0.52667153 0.85228813]
-	Lips: [0.53411144 0.75348347]
-	Forehead Point: [0.53513855 0.54242349]
+	Left Temple: [0.44364935 0.69759101]
+	Right Temple: [0.60386562 0.7158193 ]
+	Jaw Point: [0.53041768 0.89088744]
+	Lips: [0.53417057 0.78785312]
+	Forehead Point: [0.53279394 0.55875701]
 	Chin-Lips Distance: 0.10 pixels
-	Chin-Lips Distance Percent: 9.91 pixels
+	Chin-Lips Distance Percent: 10.31 pixels
 	Temple Distance: 0.16 pixels
-	Temple Distance Percent: 15.69 pixels
-	Percent: 63.15%
-	Left Angle: 65.92 degrees
-	Right Angle: 112.20 degrees
+	Temple Distance Percent: 16.12 pixels
+	Percent: 63.94%
+	Left Angle: 65.83 degrees
+	Right Angle: 112.76 degrees
 	Jaw Type (Angel): narrow
 
-2025-07-17 23:03:28 - log_settings - INFO - Result:
+2025-07-17 23:22:39 - log_settings - INFO - Result:
 	Jaw Type: narrow
-	Left Temple: [0.44095767 0.6614154 ]
-	Right Temple: [0.59655029 0.6866287 ]
-	Jaw Point: [0.5268501  0.85401177]
-	Lips: [0.53372991 0.75410247]
-	Forehead Point: [0.53447348 0.54319739]
+	Left Temple: [0.44090804 0.69473988]
+	Right Temple: [0.60059023 0.71356577]
+	Jaw Point: [0.52577382 0.88992572]
+	Lips: [0.52958357 0.78639191]
+	Forehead Point: [0.52867204 0.55843961]
 	Chin-Lips Distance: 0.10 pixels
-	Chin-Lips Distance Percent: 10.01 pixels
+	Chin-Lips Distance Percent: 10.36 pixels
 	Temple Distance: 0.16 pixels
-	Temple Distance Percent: 15.76 pixels
-	Percent: 63.54%
-	Left Angle: 65.96 degrees
+	Temple Distance Percent: 16.08 pixels
+	Percent: 64.44%
+	Left Angle: 66.50 degrees
+	Right Angle: 112.99 degrees
+	Jaw Type (Angel): narrow
+
+2025-07-17 23:22:39 - log_settings - INFO - Result:
+	Jaw Type: narrow
+	Left Temple: [0.44017363 0.6930747 ]
+	Right Temple: [0.59953403 0.71478152]
+	Jaw Point: [0.52350187 0.88905597]
+	Lips: [0.52780771 0.78544402]
+	Forehead Point: [0.52790165 0.55892885]
+	Chin-Lips Distance: 0.10 pixels
+	Chin-Lips Distance Percent: 10.37 pixels
+	Temple Distance: 0.16 pixels
+	Temple Distance Percent: 16.08 pixels
+	Percent: 64.48%
+	Left Angle: 66.97 degrees
+	Right Angle: 113.57 degrees
+	Jaw Type (Angel): narrow
+
+2025-07-17 23:22:40 - log_settings - INFO - Result:
+	Jaw Type: narrow
+	Left Temple: [0.43685779 0.69526005]
+	Right Temple: [0.59810793 0.70799738]
+	Jaw Point: [0.52345628 0.88667822]
+	Lips: [0.52611518 0.78384906]
+	Forehead Point: [0.52415884 0.55468053]
+	Chin-Lips Distance: 0.10 pixels
+	Chin-Lips Distance Percent: 10.29 pixels
+	Temple Distance: 0.16 pixels
+	Temple Distance Percent: 16.18 pixels
+	Percent: 63.59%
+	Left Angle: 65.66 degrees
+	Right Angle: 112.67 degrees
+	Jaw Type (Angel): narrow
+
+2025-07-17 23:22:40 - log_settings - INFO - Result:
+	Jaw Type: narrow
+	Left Temple: [0.43904254 0.69448674]
+	Right Temple: [0.59879363 0.7097587 ]
+	Jaw Point: [0.52371335 0.88929671]
+	Lips: [0.52639401 0.78707266]
+	Forehead Point: [0.52461606 0.55529922]
+	Chin-Lips Distance: 0.10 pixels
+	Chin-Lips Distance Percent: 10.23 pixels
+	Temple Distance: 0.16 pixels
+	Temple Distance Percent: 16.05 pixels
+	Percent: 63.72%
+	Left Angle: 66.51 degrees
+	Right Angle: 112.69 degrees
+	Jaw Type (Angel): narrow
+
+2025-07-17 23:22:40 - log_settings - INFO - Result:
+	Jaw Type: narrow
+	Left Temple: [0.43990487 0.69414538]
+	Right Temple: [0.5989067  0.71421134]
+	Jaw Point: [0.52287793 0.89105821]
+	Lips: [0.52626628 0.78608978]
+	Forehead Point: [0.52623183 0.55601275]
+	Chin-Lips Distance: 0.11 pixels
+	Chin-Lips Distance Percent: 10.50 pixels
+	Temple Distance: 0.16 pixels
+	Temple Distance Percent: 16.03 pixels
+	Percent: 65.53%
+	Left Angle: 67.15 degrees
+	Right Angle: 113.26 degrees
+	Jaw Type (Angel): narrow
+
+2025-07-17 23:22:40 - log_settings - INFO - Result:
+	Jaw Type: narrow
+	Left Temple: [0.43945342 0.69297993]
+	Right Temple: [0.59886658 0.71144933]
+	Jaw Point: [0.52321005 0.88844323]
+	Lips: [0.52682    0.78482759]
+	Forehead Point: [0.52581161 0.55605352]
+	Chin-Lips Distance: 0.10 pixels
+	Chin-Lips Distance Percent: 10.37 pixels
+	Temple Distance: 0.16 pixels
+	Temple Distance Percent: 16.05 pixels
+	Percent: 64.61%
+	Left Angle: 66.80 degrees
+	Right Angle: 113.14 degrees
+	Jaw Type (Angel): narrow
+
+2025-07-17 23:22:40 - log_settings - INFO - Result:
+	Jaw Type: narrow
+	Left Temple: [0.43790108 0.69619131]
+	Right Temple: [0.59777772 0.71216404]
+	Jaw Point: [0.5235275  0.89047301]
+	Lips: [0.52672523 0.78663814]
+	Forehead Point: [0.52520502 0.5551399 ]
+	Chin-Lips Distance: 0.10 pixels
+	Chin-Lips Distance Percent: 10.39 pixels
+	Temple Distance: 0.16 pixels
+	Temple Distance Percent: 16.07 pixels
+	Percent: 64.66%
+	Left Angle: 66.22 degrees
 	Right Angle: 112.61 degrees
 	Jaw Type (Angel): narrow
 
-2025-07-17 23:03:29 - log_settings - INFO - Result:
+2025-07-17 23:22:40 - log_settings - INFO - Result:
 	Jaw Type: narrow
-	Left Temple: [0.44160399 0.66067302]
-	Right Temple: [0.5966928  0.68564981]
-	Jaw Point: [0.52704847 0.85493928]
-	Lips: [0.5342657  0.75462651]
-	Forehead Point: [0.5356313  0.54289937]
+	Left Temple: [0.43763256 0.69487226]
+	Right Temple: [0.59760773 0.71210974]
+	Jaw Point: [0.52299535 0.88881218]
+	Lips: [0.52605379 0.78496796]
+	Forehead Point: [0.52472293 0.55583656]
 	Chin-Lips Distance: 0.10 pixels
-	Chin-Lips Distance Percent: 10.06 pixels
+	Chin-Lips Distance Percent: 10.39 pixels
 	Temple Distance: 0.16 pixels
-	Temple Distance Percent: 15.71 pixels
-	Percent: 64.02%
-	Left Angle: 66.26 degrees
-	Right Angle: 112.36 degrees
+	Temple Distance Percent: 16.09 pixels
+	Percent: 64.57%
+	Left Angle: 66.24 degrees
+	Right Angle: 112.89 degrees
 	Jaw Type (Angel): narrow
 
-2025-07-17 23:03:29 - log_settings - INFO - Result:
+2025-07-17 23:22:41 - log_settings - INFO - Result:
 	Jaw Type: narrow
-	Left Temple: [0.4423129  0.65816003]
-	Right Temple: [0.59516722 0.68668079]
-	Jaw Point: [0.52534688 0.85333985]
-	Lips: [0.53322083 0.75391603]
-	Forehead Point: [0.53551525 0.54332423]
+	Left Temple: [0.43712899 0.69631237]
+	Right Temple: [0.59739083 0.7104854 ]
+	Jaw Point: [0.52320099 0.88934731]
+	Lips: [0.52618748 0.78656924]
+	Forehead Point: [0.5244025  0.55554354]
 	Chin-Lips Distance: 0.10 pixels
-	Chin-Lips Distance Percent: 9.97 pixels
+	Chin-Lips Distance Percent: 10.28 pixels
 	Temple Distance: 0.16 pixels
-	Temple Distance Percent: 15.55 pixels
-	Percent: 64.14%
-	Left Angle: 66.95 degrees
-	Right Angle: 112.73 degrees
+	Temple Distance Percent: 16.09 pixels
+	Percent: 63.91%
+	Left Angle: 65.97 degrees
+	Right Angle: 112.53 degrees
 	Jaw Type (Angel): narrow
 
-2025-07-17 23:03:29 - log_settings - INFO - Result:
+2025-07-17 23:22:41 - log_settings - INFO - Result:
 	Jaw Type: narrow
-	Left Temple: [0.4426896  0.66193062]
-	Right Temple: [0.59603333 0.68740505]
-	Jaw Point: [0.52563536 0.8542847 ]
-	Lips: [0.53273726 0.75338519]
-	Forehead Point: [0.53501868 0.54132837]
-	Chin-Lips Distance: 0.10 pixels
-	Chin-Lips Distance Percent: 10.11 pixels
+	Left Temple: [0.43810675 0.69725496]
+	Right Temple: [0.59728354 0.71322799]
+	Jaw Point: [0.52214056 0.89033419]
+	Lips: [0.52571613 0.78430998]
+	Forehead Point: [0.52425575 0.55968636]
+	Chin-Lips Distance: 0.11 pixels
+	Chin-Lips Distance Percent: 10.61 pixels
 	Temple Distance: 0.16 pixels
-	Temple Distance Percent: 15.54 pixels
-	Percent: 65.07%
-	Left Angle: 66.67 degrees
-	Right Angle: 112.87 degrees
+	Temple Distance Percent: 16.00 pixels
+	Percent: 66.31%
+	Left Angle: 66.48 degrees
+	Right Angle: 112.99 degrees
 	Jaw Type (Angel): narrow
 
-2025-07-17 23:03:29 - log_settings - INFO - Result:
+2025-07-17 23:22:41 - log_settings - INFO - Result:
 	Jaw Type: narrow
-	Left Temple: [0.44231218 0.65950722]
-	Right Temple: [0.59453762 0.68802106]
-	Jaw Point: [0.52465266 0.85302448]
-	Lips: [0.53089696 0.75565302]
-	Forehead Point: [0.53269094 0.54154998]
+	Left Temple: [0.43818343 0.69636887]
+	Right Temple: [0.59799778 0.71114278]
+	Jaw Point: [0.5235514  0.88718909]
+	Lips: [0.5265159  0.78498411]
+	Forehead Point: [0.52460539 0.55646706]
 	Chin-Lips Distance: 0.10 pixels
-	Chin-Lips Distance Percent: 9.76 pixels
-	Temple Distance: 0.15 pixels
-	Temple Distance Percent: 15.49 pixels
-	Percent: 63.00%
-	Left Angle: 66.95 degrees
-	Right Angle: 112.95 degrees
+	Chin-Lips Distance Percent: 10.22 pixels
+	Temple Distance: 0.16 pixels
+	Temple Distance Percent: 16.05 pixels
+	Percent: 63.71%
+	Left Angle: 65.90 degrees
+	Right Angle: 112.92 degrees
 	Jaw Type (Angel): narrow
 
-2025-07-17 23:03:29 - log_settings - INFO - Result:
+2025-07-17 23:22:41 - log_settings - INFO - Result:
 	Jaw Type: narrow
-	Left Temple: [0.44179285 0.66438293]
-	Right Temple: [0.59419996 0.69142628]
-	Jaw Point: [0.52323544 0.8540324 ]
-	Lips: [0.52897203 0.75490993]
-	Forehead Point: [0.53098738 0.53923547]
+	Left Temple: [0.43902683 0.69432384]
+	Right Temple: [0.59824717 0.7109949 ]
+	Jaw Point: [0.52262509 0.88838148]
+	Lips: [0.52605051 0.78455943]
+	Forehead Point: [0.52528113 0.55620176]
 	Chin-Lips Distance: 0.10 pixels
-	Chin-Lips Distance Percent: 9.93 pixels
-	Temple Distance: 0.15 pixels
-	Temple Distance Percent: 15.48 pixels
-	Percent: 64.14%
-	Left Angle: 66.76 degrees
-	Right Angle: 113.58 degrees
+	Chin-Lips Distance Percent: 10.39 pixels
+	Temple Distance: 0.16 pixels
+	Temple Distance Percent: 16.01 pixels
+	Percent: 64.89%
+	Left Angle: 66.69 degrees
+	Right Angle: 113.09 degrees
+	Jaw Type (Angel): narrow
+
+2025-07-17 23:22:41 - log_settings - INFO - Result:
+	Jaw Type: narrow
+	Left Temple: [0.43914047 0.69368064]
+	Right Temple: [0.59770429 0.71053678]
+	Jaw Point: [0.52342945 0.88516134]
+	Lips: [0.52670729 0.78280705]
+	Forehead Point: [0.52515715 0.55812752]
+	Chin-Lips Distance: 0.10 pixels
+	Chin-Lips Distance Percent: 10.24 pixels
+	Temple Distance: 0.16 pixels
+	Temple Distance Percent: 15.95 pixels
+	Percent: 64.22%
+	Left Angle: 66.24 degrees
+	Right Angle: 113.04 degrees
 	Jaw Type (Angel): narrow
 
